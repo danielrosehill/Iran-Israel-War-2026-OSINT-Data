@@ -4,7 +4,7 @@
     "operation_name": "Operation True Promise 4",
     "operation_name_farsi": "عملیات وعده صادق ۴",
     "version": "2.1",
-    "incident_count": 53,
+    "incident_count": 54,
     "date_range": {
       "start": "2026-02-28",
       "end": "2026-03-15"
@@ -10007,6 +10007,186 @@
         ]
       },
       "iranian_media_claims": "53rd wave with codename 'Ya Javad al-A'imma Adrikni' fired 10 Fattah hypersonic missiles, Ghadr missiles, and explosive drones at Al-Dhafra and Israeli C2 facilities. Dedicated to 84 sailors of navy vessel Dena.",
+      "reactions": {
+        "idf": {
+          "statement": null,
+          "url": null
+        },
+        "us_government": {
+          "statement": null,
+          "url": null
+        },
+        "centcom": {
+          "statement": null,
+          "url": null
+        }
+      }
+    },
+    {
+      "uuid": "fcb53717-4a6b-4720-b882-442bf837660b",
+      "operation": "tp4",
+      "sequence": 54,
+      "wave_number": 54,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Fifty-fourth wave of Operation True Promise 4. Day 16 (March 15). First reported use of the Sejjil solid-fuel ballistic missile in TP4. IRGC also deployed Khorramshahr (2-ton warhead), Kheibar-shekan, Qadr, and Emad missiles targeting Israeli decision-making centers, military infrastructure, and troop concentrations. Missile fragments struck a Tel Aviv building linked to the US consulate. Sirens reported in Tel Aviv, Herzliya, and 140+ other locations.",
+      "timing": {
+        "announced_utc": "2026-03-15T12:00:00Z",
+        "announced_utc_note": "Approximate timing. Multiple sources (Tasnim, Shafaq, Palestine Chronicle) reported wave 54 on March 15 but exact IRGC announcement time not confirmed. Placed after wave 53 (06:22 UTC).",
+        "announcement_source": "IRGC / Tasnim News / Shafaq News / Palestine Chronicle / The Indian Awaaz",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-15T11:30:00Z",
+        "launch_time_israel": "2026-03-15T14:00:00+0200",
+        "launch_time_iran": "2026-03-15T15:30:00+0330",
+        "solar_phase_launch_site": 1,
+        "solar_phase_target": 1,
+        "conflict_day": 16,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Sejjil solid-fuel ballistic missiles (first TP4 use), Khorramshahr super-heavy missiles (2-ton warhead), Kheibar-shekan, Qadr, and Emad ballistic missiles.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": true,
+          "ghadr_used": true,
+          "sejjil_used": true,
+          "kheibar_shekan_used": true,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": true
+        },
+        "categories": {
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": true,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Israeli decision-making and command centers, military and defense infrastructure, troop concentrations in occupied territories.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": null,
+          "targeted_haifa": null,
+          "targeted_negev_beersheba": null,
+          "targeted_northern_periphery": null,
+          "targeted_eilat": null
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.07,
+          "lon": 34.78,
+          "generic_location": false
+        },
+        "critical_infrastructure": {
+          "targeted_airport": null,
+          "targeted_energy": null,
+          "targeted_port": null,
+          "targeted_government": true,
+          "targeted_industrial": null,
+          "targeted_telecom_data": null,
+          "targeted_diplomatic": true,
+          "targeted_research": null
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Israeli decision-making centers",
+            "type": "israeli",
+            "hit": null
+          },
+          {
+            "name": "Israeli military infrastructure",
+            "type": "israeli",
+            "hit": null
+          },
+          {
+            "name": "Tel Aviv (US consulate-linked building struck by fragments)",
+            "type": "israeli",
+            "hit": true
+          }
+        ]
+      },
+      "attacking_force": [
+        {
+          "actor": "Iran",
+          "subunit": "IRGC"
+        }
+      ],
+      "launch_site": {
+        "description": "IRGC missile launch sites in Iran",
+        "lat": 33.5,
+        "lon": 48.5,
+        "generic_location": true
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-3",
+          "THAAD",
+          "Patriot"
+        ],
+        "intercepted_by": {
+          "israel": true,
+          "us": true,
+          "uk": null,
+          "jordan": null,
+          "other": []
+        },
+        "estimated_intercept_count": null,
+        "estimated_intercept_rate": null,
+        "exoatmospheric_interception": true,
+        "endoatmospheric_interception": true,
+        "interception_report": "Air raid sirens sounded across Tel Aviv, Herzliya, and 140+ locations. Israeli air defense engaged. Fragments from at least one missile struck a Tel Aviv building."
+      },
+      "munitions": {
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "cumulative_total": null
+      },
+      "impact": {
+        "damage": "Missile fragments struck a residential building in Tel Aviv housing offices linked to the US consulate, causing structural damage.",
+        "fatalities": 0,
+        "injuries": 3,
+        "civilian_casualties": 3,
+        "military_casualties": 0
+      },
+      "escalation": {
+        "new_country_targeted": false,
+        "new_weapon_first_use": true
+      },
+      "proxy": {
+        "involvement": false,
+        "description": null
+      },
+      "sources": {
+        "idf_statement": null,
+        "urls": [
+          "https://www.tasnimnews.com/",
+          "https://shafaq.com/",
+          "https://www.palestinechronicle.com/",
+          "https://theindianawaaz.com/"
+        ]
+      },
+      "iranian_media_claims": "54th wave targeted Israeli decision-making centers, military infrastructure, and troop concentrations. First use of Sejjil solid-fuel ballistic missile alongside Khorramshahr (2-ton warhead), Kheibar-shekan, Qadr, and Emad missiles.",
       "reactions": {
         "idf": {
           "statement": null,
