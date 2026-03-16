@@ -346,6 +346,15 @@ def resolve_targets(w, israeli_ref, us_ref):
                 'lon': lon,
                 'target_hit': hit,
             })
+
+        # If all resolved targets lack coordinates, try target_coordinates fallback
+        tc = targets.get('target_coordinates', {})
+        if tc.get('lat') and tc.get('lon'):
+            for r in resolved:
+                if r['lat'] is None and r['lon'] is None:
+                    r['lat'] = tc['lat']
+                    r['lon'] = tc['lon']
+
         return resolved
 
     # 2. Resolve Israeli location flags
