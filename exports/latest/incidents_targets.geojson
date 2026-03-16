@@ -10542,6 +10542,214 @@
         "target_hit": true,
         "generic_location": "Central Israel (residential)"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          32.07
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 56,
+        "wave_number": 56,
+        "wave_id": "tp4_w56",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T10:30:00Z",
+        "probable_launch_time": "2026-03-16T10:10:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles with cluster munition warheads. Shrapnel and submunitions struck residential areas in central Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 2,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 55,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 0,
+        "target_name": "Rishon Lezion",
+        "target_type": "israeli",
+        "target_hit": true,
+        "generic_location": "Rishon Lezion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          32.07
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 56,
+        "wave_number": 56,
+        "wave_id": "tp4_w56",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T10:30:00Z",
+        "probable_launch_time": "2026-03-16T10:10:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles with cluster munition warheads. Shrapnel and submunitions struck residential areas in central Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 2,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 55,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 1,
+        "target_name": "Ramle",
+        "target_type": "israeli",
+        "target_hit": true,
+        "generic_location": "Ramle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.83,
+          32.08
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 56,
+        "wave_number": 56,
+        "wave_id": "tp4_w56",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T10:30:00Z",
+        "probable_launch_time": "2026-03-16T10:10:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles with cluster munition warheads. Shrapnel and submunitions struck residential areas in central Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 2,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 55,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 2,
+        "target_name": "Bnei Brak",
+        "target_type": "israeli",
+        "target_hit": true,
+        "generic_location": "Bnei Brak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          32.07
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 57,
+        "wave_number": 57,
+        "wave_id": "tp4_w57",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T11:00:00Z",
+        "probable_launch_time": "2026-03-16T10:45:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles. Specific type unconfirmed.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 1,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 56,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 0,
+        "target_name": "Central Israel",
+        "target_type": "israeli",
+        "target_hit": true,
+        "generic_location": "Central Israel"
+      }
     }
   ]
 }
