@@ -10382,7 +10382,7 @@
       "wave_number": 56,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Fifty-sixth wave of Operation True Promise 4. Day 17 (March 16). Midday ballistic missile barrage targeting central and southern Israel with cluster munitions. Shrapnel hits reported in Rishon Lezion, Ramle, and Bnei Brak. Two men wounded with light injuries. Homes damaged in Tel Aviv-Yafo, Beit Shemesh, Ramat Gan, and Bnei Brak.",
+      "description": "Fifty-sixth wave of Operation True Promise 4. Day 17 (March 16). Midday ballistic missile barrage targeting central and southern Israel with cluster munitions. Shrapnel hits reported in Rishon Lezion, Ramle, and Bnei Brak. Two men wounded with light injuries. A woman in Rishon Lezion was lightly injured after touching a missile fragment. Homes damaged in Tel Aviv-Yafo, Beit Shemesh, Ramat Gan, Bnei Brak, and Shoham (serious home damage). Route 431 had one lane closed due to debris.",
       "timing": {
         "announced_utc": "2026-03-16T10:30:00Z",
         "announced_utc_note": "Midday barrage reported by JPost and MDA. Sirens sounded across central Israel, northern West Bank, Eilat, and Arava. Approximate time based on reporting.",
@@ -10436,7 +10436,7 @@
       "targets": {
         "israel_targeted": true,
         "us_bases_targeted": false,
-        "targets": "Central and southern Israel. Shrapnel impacts in Rishon Lezion, Ramle, Bnei Brak. Homes damaged in Tel Aviv-Yafo, Beit Shemesh, Ramat Gan, Bnei Brak.",
+        "targets": "Central and southern Israel. Shrapnel impacts in Rishon Lezion, Ramle, Bnei Brak. Homes damaged in Tel Aviv-Yafo, Beit Shemesh, Ramat Gan, Bnei Brak, and Shoham (serious home damage). Route 431 partially closed.",
         "landings_countries": [
           "IL"
         ],
@@ -10481,6 +10481,11 @@
             "name": "Bnei Brak",
             "type": "israeli",
             "hit": true
+          },
+          {
+            "name": "Shoham",
+            "type": "israeli",
+            "hit": true
           }
         ]
       },
@@ -10513,7 +10518,7 @@
         "estimated_intercept_rate": null,
         "exoatmospheric_interception": true,
         "endoatmospheric_interception": true,
-        "interception_report": "Most missiles intercepted but cluster munition submunitions and shrapnel struck multiple residential areas in central Israel. Two men injured."
+        "interception_report": "Most missiles intercepted but cluster munition submunitions and shrapnel struck multiple residential areas in central Israel. Three people injured including a woman who touched a missile fragment."
       },
       "munitions": {
         "estimated_munitions_count": null,
@@ -10522,10 +10527,10 @@
         "cumulative_total": null
       },
       "impact": {
-        "damage": "Shrapnel hits in Rishon Lezion, Ramle, Bnei Brak. Homes damaged in Tel Aviv-Yafo, Beit Shemesh, Ramat Gan, Bnei Brak. Two men (ages 62 and 44) sustained light injuries.",
+        "damage": "Shrapnel hits in Rishon Lezion, Ramle, Bnei Brak. Homes damaged in Tel Aviv-Yafo, Beit Shemesh, Ramat Gan, Bnei Brak, and Shoham (serious home damage). Route 431 had one lane closed. Two men (ages 62 and 44) sustained light injuries. A woman in Rishon Lezion lightly injured after touching a missile fragment.",
         "fatalities": 0,
-        "injuries": 2,
-        "civilian_casualties": 2,
+        "injuries": 3,
+        "civilian_casualties": 3,
         "military_casualties": 0
       },
       "escalation": {
@@ -10566,7 +10571,7 @@
       "wave_number": 57,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Fifty-seventh wave of Operation True Promise 4. Day 17 (March 16). Follow-up missile volley shortly after wave 56, targeting central Israel. One man wounded in moderate condition after glass shards struck his head, evacuated to hospital.",
+      "description": "Fifty-seventh wave of Operation True Promise 4. Day 17 (March 16). Follow-up missile volley shortly after wave 56, targeting central Israel and Jerusalem. One man wounded in moderate condition after glass shards struck his head, evacuated to hospital. A man in Jerusalem was lightly wounded by a missile fragment.",
       "timing": {
         "announced_utc": "2026-03-16T11:00:00Z",
         "announced_utc_note": "Reported as 'a short time later' after the midday barrage (wave 56). Approximate time based on JPost reporting sequence.",
@@ -10620,13 +10625,13 @@
       "targets": {
         "israel_targeted": true,
         "us_bases_targeted": false,
-        "targets": "Central Israel. One casualty from glass shards caused by missile impact or interception debris.",
+        "targets": "Central Israel and Jerusalem. One casualty from glass shards caused by missile impact or interception debris. One man in Jerusalem lightly wounded by missile fragment.",
         "landings_countries": [
           "IL"
         ],
         "israeli_locations": {
           "targeted_tel_aviv": true,
-          "targeted_jerusalem": false,
+          "targeted_jerusalem": true,
           "targeted_haifa": false,
           "targeted_negev_beersheba": false,
           "targeted_northern_periphery": false,
@@ -10653,6 +10658,11 @@
         "target_locations": [
           {
             "name": "Central Israel",
+            "type": "israeli",
+            "hit": true
+          },
+          {
+            "name": "Jerusalem",
             "type": "israeli",
             "hit": true
           }
@@ -10687,7 +10697,7 @@
         "estimated_intercept_rate": null,
         "exoatmospheric_interception": true,
         "endoatmospheric_interception": true,
-        "interception_report": "Most missiles intercepted. One casualty from glass shards — likely caused by interception debris or near-miss impact. Man evacuated in moderate condition."
+        "interception_report": "Most missiles intercepted. One casualty from glass shards — likely caused by interception debris or near-miss impact. Man evacuated in moderate condition. One man in Jerusalem lightly wounded by missile fragment."
       },
       "munitions": {
         "estimated_munitions_count": null,
@@ -10696,10 +10706,10 @@
         "cumulative_total": null
       },
       "impact": {
-        "damage": "Glass shards caused by missile impact or interception debris. One man evacuated in moderate condition with glass shards in his head.",
+        "damage": "Glass shards caused by missile impact or interception debris. One man evacuated in moderate condition with glass shards in his head. One man in Jerusalem lightly wounded by missile fragment.",
         "fatalities": 0,
-        "injuries": 1,
-        "civilian_casualties": 1,
+        "injuries": 2,
+        "civilian_casualties": 2,
         "military_casualties": 0
       },
       "escalation": {
@@ -10740,7 +10750,7 @@
       "wave_number": 58,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Fifty-eighth wave of Operation True Promise 4. Day 17 (March 16). Afternoon missile barrage targeting central Israel and Jerusalem area. Shrapnel from interceptions fell near the Knesset in Jerusalem and in Beit Shemesh. Israel Fire and Rescue Authority reported 10 locations damaged by intercepted missile shrapnel or cluster munitions — seven in Rishon Lezion, with additional impacts in Lod, Shoham, and along Highway 431. Interceptor debris fell in Safed, northern Israel, initially suspected of leaking hazardous material but later ruled out by the Environmental Protection Ministry.",
+      "description": "Fifty-eighth wave of Operation True Promise 4. Day 17 (March 16). Afternoon missile barrage targeting central Israel and Jerusalem area. Shrapnel from interceptions fell near the Knesset, the National Library, and the Church of the Holy Sepulchre in Jerusalem. A large intercepted missile chunk damaged a home in East Jerusalem. Israel Fire and Rescue Authority reported 10 locations damaged by intercepted missile shrapnel or cluster munitions — seven in Rishon Lezion, with additional impacts in Lod, Shoham, and along Highway 431. Interceptor debris fell in Safed, northern Israel, initially suspected of leaking hazardous material but later ruled out by the Environmental Protection Ministry. Day 17 aggregate: Health Ministry reported 142 injured over 24 hours — 3 in moderate condition, 134 in good condition, 5 treated for anxiety. IDF launched extensive counterstrikes on Iranian targets in Tehran, Shiraz, and Tabriz simultaneously.",
       "timing": {
         "announced_utc": "2026-03-16T13:00:00Z",
         "announced_utc_note": "Reported as approximately 3:00 PM Israel time. Shrapnel fell near the Knesset and in Beit Shemesh. MDA teams dispatched.",
@@ -10794,7 +10804,7 @@
       "targets": {
         "israel_targeted": true,
         "us_bases_targeted": false,
-        "targets": "Central Israel and Jerusalem area. Shrapnel fell near the Knesset (Jerusalem) and in Beit Shemesh. 10 locations damaged across central Israel: 7 in Rishon Lezion, plus Lod, Shoham, and Highway 431. Interceptor debris fell in Safed (northern Israel). No immediate injuries reported from this barrage.",
+        "targets": "Central Israel and Jerusalem area. Shrapnel fell near the Knesset, National Library, and Church of the Holy Sepulchre in Jerusalem. Large intercepted missile chunk damaged a home in East Jerusalem. 10 locations damaged across central Israel: 7 in Rishon Lezion, plus Lod, Shoham, and Highway 431. Interceptor debris fell in Safed (northern Israel).",
         "landings_countries": [
           "IL"
         ],
@@ -10826,7 +10836,12 @@
         "target_hit": true,
         "target_locations": [
           {
-            "name": "Jerusalem (near Knesset)",
+            "name": "Jerusalem (near Knesset, National Library, Church of the Holy Sepulchre)",
+            "type": "israeli",
+            "hit": true
+          },
+          {
+            "name": "East Jerusalem (home damaged by missile chunk)",
             "type": "israeli",
             "hit": true
           },
@@ -10887,7 +10902,7 @@
         "estimated_intercept_rate": null,
         "exoatmospheric_interception": true,
         "endoatmospheric_interception": true,
-        "interception_report": "Most missiles intercepted. Shrapnel from interceptions fell near the Knesset in Jerusalem and across central Israel. Interceptor debris fell in Safed. 10 locations sustained damage from shrapnel or cluster submunitions. No injuries reported from this specific barrage."
+        "interception_report": "Most missiles intercepted. Shrapnel from interceptions fell near the Knesset, National Library, and Church of the Holy Sepulchre in Jerusalem. Large intercepted missile chunk damaged a home in East Jerusalem. Interceptor debris fell in Safed. 10 locations sustained damage from shrapnel or cluster submunitions."
       },
       "munitions": {
         "estimated_munitions_count": null,
@@ -10896,7 +10911,7 @@
         "cumulative_total": null
       },
       "impact": {
-        "damage": "10 locations damaged across central Israel — 7 in Rishon Lezion, plus Lod, Shoham, Highway 431. Shrapnel near Knesset in Jerusalem. Interceptor fell in Safed (hazmat risk ruled out).",
+        "damage": "10 locations damaged across central Israel — 7 in Rishon Lezion, plus Lod, Shoham, Highway 431. Shrapnel near Knesset, National Library, and Church of the Holy Sepulchre in Jerusalem. Large intercepted missile chunk damaged a home in East Jerusalem. Interceptor fell in Safed (hazmat risk ruled out). Day 17 aggregate: Health Ministry reported 142 injured over 24 hours (3 moderate, 134 good condition, 5 anxiety). IDF launched extensive counterstrikes on Iranian targets in Tehran, Shiraz, and Tabriz.",
         "fatalities": 0,
         "injuries": 0,
         "civilian_casualties": 0,
