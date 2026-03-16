@@ -3980,16 +3980,16 @@
         "wave_id": "tp4_w55",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
-        "announced_utc": "2026-03-16T08:35:00Z",
-        "probable_launch_time": "2026-03-16T08:15:00Z",
+        "announced_utc": "2026-03-15T22:30:00Z",
+        "probable_launch_time": "2026-03-15T22:15:00Z",
         "conflict_day": 17,
-        "payload": "Ballistic missiles with cluster munition warhead. Specific missile type unconfirmed but consistent with prior cluster warhead use on Khorramshahr-4 or Emad variants.",
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
         "drones_used": false,
         "ballistic_missiles_used": true,
         "cruise_missiles_used": false,
         "estimated_munitions_count": null,
         "munitions_targeting_israel": null,
-        "munitions_targeting_us_bases": null,
+        "munitions_targeting_us_bases": 0,
         "interception_rate": null,
         "intercepted_count": null,
         "israel_targeted": true,
@@ -4028,16 +4028,16 @@
         "wave_id": "tp4_w56",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
-        "announced_utc": "2026-03-16T10:30:00Z",
-        "probable_launch_time": "2026-03-16T10:10:00Z",
+        "announced_utc": "2026-03-16T00:56:00Z",
+        "probable_launch_time": "2026-03-16T00:40:00Z",
         "conflict_day": 17,
-        "payload": "Ballistic missiles with cluster munition warheads. Shrapnel and submunitions struck residential areas in central Israel.",
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
         "drones_used": false,
         "ballistic_missiles_used": true,
         "cruise_missiles_used": false,
         "estimated_munitions_count": null,
         "munitions_targeting_israel": null,
-        "munitions_targeting_us_bases": null,
+        "munitions_targeting_us_bases": 0,
         "interception_rate": null,
         "intercepted_count": null,
         "israel_targeted": true,
@@ -4046,7 +4046,7 @@
           "IL"
         ],
         "casualties_killed": 0,
-        "casualties_wounded": 3,
+        "casualties_wounded": 0,
         "launch_site_description": "IRGC missile launch sites in western Iran",
         "attacking_force_actor": "Iran",
         "attacking_force_branch": "irgc",
@@ -4076,10 +4076,10 @@
         "wave_id": "tp4_w57",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
-        "announced_utc": "2026-03-16T11:00:00Z",
-        "probable_launch_time": "2026-03-16T10:45:00Z",
+        "announced_utc": "2026-03-16T08:35:00Z",
+        "probable_launch_time": "2026-03-16T08:15:00Z",
         "conflict_day": 17,
-        "payload": "Ballistic missiles. Specific type unconfirmed.",
+        "payload": "Ballistic missiles with cluster munition warhead. Specific missile type unconfirmed but consistent with prior cluster warhead use on Khorramshahr-4 or Emad variants.",
         "drones_used": false,
         "ballistic_missiles_used": true,
         "cruise_missiles_used": false,
@@ -4094,7 +4094,7 @@
           "IL"
         ],
         "casualties_killed": 0,
-        "casualties_wounded": 2,
+        "casualties_wounded": 0,
         "launch_site_description": "IRGC missile launch sites in western Iran",
         "attacking_force_actor": "Iran",
         "attacking_force_branch": "irgc",
@@ -4124,6 +4124,102 @@
         "wave_id": "tp4_w58",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T10:30:00Z",
+        "probable_launch_time": "2026-03-16T10:10:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles with cluster munition warheads. Shrapnel and submunitions struck residential areas in central Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 3,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 57,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 59,
+        "wave_number": 59,
+        "wave_id": "tp4_w59",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T11:00:00Z",
+        "probable_launch_time": "2026-03-16T10:45:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles. Specific type unconfirmed.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 2,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 58,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
         "probable_launch_time": "2026-03-16T12:45:00Z",
         "conflict_day": 17,
@@ -4149,7 +4245,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
@@ -4167,9 +4263,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -4200,7 +4296,56 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 62,
+        "wave_number": 62,
+        "wave_id": "tp4_w62",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T20:36:00Z",
+        "probable_launch_time": "2026-03-16T20:20:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL",
+          "PS"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 61,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
@@ -4218,9 +4363,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 60,
-        "wave_number": 60,
-        "wave_id": "tp4_w60",
+        "sequence": 63,
+        "wave_number": 63,
+        "wave_id": "tp4_w63",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-17T00:00:00Z",
@@ -4248,7 +4393,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 59,
+        "actor_salvo_number": 62,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
@@ -14750,8 +14895,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.78,
-          32.07
+          34.8,
+          31.5
         ]
       },
       "properties": {
@@ -14759,6 +14904,110 @@
         "sequence": 55,
         "wave_number": 55,
         "wave_id": "tp4_w55",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-15T22:30:00Z",
+        "probable_launch_time": "2026-03-15T22:15:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 54,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 0,
+        "target_name": "Israel (general)",
+        "target_type": "israeli",
+        "target_hit": false,
+        "generic_location": "Israel (general)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79,
+          31.25
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 56,
+        "wave_number": 56,
+        "wave_id": "tp4_w56",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T00:56:00Z",
+        "probable_launch_time": "2026-03-16T00:40:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 55,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 0,
+        "target_name": "Beersheba, southern Israel",
+        "target_type": "israeli",
+        "target_hit": false,
+        "generic_location": "Beersheba, southern Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          32.07
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 57,
+        "wave_number": 57,
+        "wave_id": "tp4_w57",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T08:35:00Z",
@@ -14786,7 +15035,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 54,
+        "actor_salvo_number": 56,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -14808,9 +15057,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 56,
-        "wave_number": 56,
-        "wave_id": "tp4_w56",
+        "sequence": 58,
+        "wave_number": 58,
+        "wave_id": "tp4_w58",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T10:30:00Z",
@@ -14838,7 +15087,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 55,
+        "actor_salvo_number": 57,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -14860,9 +15109,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 56,
-        "wave_number": 56,
-        "wave_id": "tp4_w56",
+        "sequence": 58,
+        "wave_number": 58,
+        "wave_id": "tp4_w58",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T10:30:00Z",
@@ -14890,7 +15139,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 55,
+        "actor_salvo_number": 57,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -14912,9 +15161,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 56,
-        "wave_number": 56,
-        "wave_id": "tp4_w56",
+        "sequence": 58,
+        "wave_number": 58,
+        "wave_id": "tp4_w58",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T10:30:00Z",
@@ -14942,7 +15191,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 55,
+        "actor_salvo_number": 57,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -14964,9 +15213,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 56,
-        "wave_number": 56,
-        "wave_id": "tp4_w56",
+        "sequence": 58,
+        "wave_number": 58,
+        "wave_id": "tp4_w58",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T10:30:00Z",
@@ -14994,7 +15243,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 55,
+        "actor_salvo_number": 57,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15016,9 +15265,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 57,
-        "wave_number": 57,
-        "wave_id": "tp4_w57",
+        "sequence": 59,
+        "wave_number": 59,
+        "wave_id": "tp4_w59",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T11:00:00Z",
@@ -15046,7 +15295,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 56,
+        "actor_salvo_number": 58,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15068,9 +15317,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 57,
-        "wave_number": 57,
-        "wave_id": "tp4_w57",
+        "sequence": 59,
+        "wave_number": 59,
+        "wave_id": "tp4_w59",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T11:00:00Z",
@@ -15098,7 +15347,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 56,
+        "actor_salvo_number": 58,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15120,9 +15369,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15150,7 +15399,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15172,9 +15421,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15202,7 +15451,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15224,9 +15473,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15254,7 +15503,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15276,9 +15525,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15306,7 +15555,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15328,9 +15577,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15358,7 +15607,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15380,9 +15629,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15410,7 +15659,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15432,9 +15681,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 58,
-        "wave_number": 58,
-        "wave_id": "tp4_w58",
+        "sequence": 60,
+        "wave_number": 60,
+        "wave_id": "tp4_w60",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T13:00:00Z",
@@ -15462,7 +15711,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 57,
+        "actor_salvo_number": 59,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15484,9 +15733,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15517,7 +15766,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15539,9 +15788,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15572,7 +15821,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15594,9 +15843,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15627,7 +15876,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15649,9 +15898,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15682,7 +15931,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15704,9 +15953,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15737,7 +15986,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15759,9 +16008,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15792,7 +16041,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15814,9 +16063,9 @@
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 59,
-        "wave_number": 59,
-        "wave_id": "tp4_w59",
+        "sequence": 61,
+        "wave_number": 61,
+        "wave_id": "tp4_w61",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-16T14:00:00Z",
@@ -15847,7 +16096,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 58,
+        "actor_salvo_number": 60,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",
@@ -15863,15 +16112,121 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.9,
+          32.0
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 62,
+        "wave_number": 62,
+        "wave_id": "tp4_w62",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T20:36:00Z",
+        "probable_launch_time": "2026-03-16T20:20:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL",
+          "PS"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 61,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 0,
+        "target_name": "Central Israel",
+        "target_type": "israeli",
+        "target_hit": null,
+        "generic_location": "Central Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9,
+          32.0
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 62,
+        "wave_number": 62,
+        "wave_id": "tp4_w62",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-16T20:36:00Z",
+        "probable_launch_time": "2026-03-16T20:20:00Z",
+        "conflict_day": 17,
+        "payload": "Ballistic missiles targeting Israel. Specific type unconfirmed. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL",
+          "PS"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 61,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 1,
+        "target_name": "West Bank",
+        "target_type": "other",
+        "target_hit": null,
+        "generic_location": "West Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           55.36,
           25.25
         ]
       },
       "properties": {
         "operation": "tp4",
-        "sequence": 60,
-        "wave_number": 60,
-        "wave_id": "tp4_w60",
+        "sequence": 63,
+        "wave_number": 63,
+        "wave_id": "tp4_w63",
         "wave_codename_english": null,
         "wave_codename_farsi": null,
         "announced_utc": "2026-03-17T00:00:00Z",
@@ -15899,7 +16254,7 @@
         "attacking_force_actors": [
           "Iran"
         ],
-        "actor_salvo_number": 59,
+        "actor_salvo_number": 62,
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "target",

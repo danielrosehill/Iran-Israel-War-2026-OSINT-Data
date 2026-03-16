@@ -72,6 +72,10 @@ All four operations (TP1–TP4) use the same schema. Each wave is nested into: `
 - Timestamps: ISO 8601 with timezone offset
 - Coordinates: decimal degrees
 
+## IRGC Wave Count vs Salvo Count
+
+The IRGC announces numbered "waves" (موج) of Operation True Promise. **This count does NOT match our salvo/incident numbering.** Our dataset assigns a sequential salvo number to every distinct attack event, including Hezbollah, Ansar Allah, and Iraqi militia salvos. The IRGC count only covers IRGC-launched waves. Our salvo count is always higher. **Never align IRGC wave numbers with salvo numbers** — doing so has previously caused incorrect data. Note IRGC wave numbers in descriptions/sources but always use sequential salvo numbering.
+
 ## OSINT Research Tools
 
 ### Gemini with Google Search Grounding
