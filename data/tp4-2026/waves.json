@@ -4,10 +4,10 @@
     "operation_name": "Operation True Promise 4",
     "operation_name_farsi": "عملیات وعده صادق ۴",
     "version": "2.1",
-    "incident_count": 54,
+    "incident_count": 55,
     "date_range": {
       "start": "2026-02-28",
-      "end": "2026-03-15"
+      "end": "2026-03-16"
     },
     "canonical_format": "json",
     "source_csv_columns": 75,
@@ -10187,6 +10187,179 @@
         ]
       },
       "iranian_media_claims": "54th wave targeted Israeli decision-making centers, military infrastructure, and troop concentrations. First use of Sejjil solid-fuel ballistic missile alongside Khorramshahr (2-ton warhead), Kheibar-shekan, Qadr, and Emad missiles.",
+      "reactions": {
+        "idf": {
+          "statement": null,
+          "url": null
+        },
+        "us_government": {
+          "statement": null,
+          "url": null
+        },
+        "centcom": {
+          "statement": null,
+          "url": null
+        }
+      }
+    },
+    {
+      "uuid": null,
+      "operation": "tp4",
+      "sequence": 55,
+      "wave_number": 55,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Fifty-fifth wave of Operation True Promise 4. Day 17 (March 16). Ballistic missile attack on central Israel with at least one missile carrying cluster munition warhead. Home in central Israeli town damaged by cluster bomb submunitions. Multiple impact sites reported across central Israel. No injuries reported.",
+      "timing": {
+        "announced_utc": "2026-03-16T08:35:00Z",
+        "announced_utc_note": "Times of Israel liveblog reported cluster bomb damage at 10:35 AM Israel time. Actual launch/impact likely shortly before.",
+        "announcement_source": "Times of Israel / IDF",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-16T08:15:00Z",
+        "launch_time_israel": "2026-03-16T10:15:00+0200",
+        "launch_time_iran": "2026-03-16T11:45:00+0330",
+        "solar_phase_launch_site": 5,
+        "solar_phase_target": 5,
+        "conflict_day": 17,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles with cluster munition warhead. Specific missile type unconfirmed but consistent with prior cluster warhead use on Khorramshahr-4 or Emad variants.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": null,
+          "ghadr_used": null,
+          "sejjil_used": null,
+          "kheibar_shekan_used": null,
+          "fattah_used": null,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": null
+        },
+        "categories": {
+          "bm_liquid_fueled": null,
+          "bm_solid_fueled": null,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": true
+        },
+        "cluster_warhead": {
+          "confirmed": true,
+          "carrier_missile": null,
+          "submunition_count": null,
+          "submunition_explosive_kg": null,
+          "dispersal_radius_km": null,
+          "dispersal_altitude_ft": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Central Israel. Home damaged by cluster bomb submunitions. Multiple impact sites across central Israel.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.07,
+          "lon": 34.78,
+          "generic_location": true
+        },
+        "critical_infrastructure": {
+          "targeted_airport": null,
+          "targeted_energy": null,
+          "targeted_port": null,
+          "targeted_government": null,
+          "targeted_industrial": null,
+          "targeted_telecom_data": null,
+          "targeted_diplomatic": null,
+          "targeted_research": null
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Central Israel (residential)",
+            "type": "israeli",
+            "hit": true
+          }
+        ]
+      },
+      "attacking_force": [
+        {
+          "actor": "Iran",
+          "subunit": "IRGC Aerospace Force"
+        }
+      ],
+      "launch_site": {
+        "description": "IRGC missile launch sites in western Iran",
+        "lat": 33.5,
+        "lon": 48.5,
+        "generic_location": true
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "intercepted_by": {
+          "israel": true,
+          "us": null,
+          "uk": null,
+          "jordan": null,
+          "other": []
+        },
+        "estimated_intercept_count": null,
+        "estimated_intercept_rate": null,
+        "exoatmospheric_interception": true,
+        "endoatmospheric_interception": true,
+        "interception_report": "Most missiles intercepted. At least one missile with cluster warhead penetrated defenses and struck central Israel residential area. Multiple impact sites but no injuries."
+      },
+      "munitions": {
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "cumulative_total": null
+      },
+      "impact": {
+        "damage": "Home in central Israeli town damaged by cluster bomb submunitions. Multiple impact sites across central Israel. No injuries reported.",
+        "fatalities": 0,
+        "injuries": 0,
+        "civilian_casualties": 0,
+        "military_casualties": 0
+      },
+      "escalation": {
+        "new_country_targeted": false,
+        "new_weapon_first_use": false
+      },
+      "proxy": {
+        "involvement": false,
+        "description": null
+      },
+      "sources": {
+        "idf_statement": null,
+        "urls": [
+          "https://www.timesofisrael.com/liveblog-march-16-2026/"
+        ]
+      },
+      "iranian_media_claims": null,
       "reactions": {
         "idf": {
           "statement": null,
