@@ -1,0 +1,558 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "wave.schema.json",
+  "title": "Iran-Israel War Incident Data",
+  "description": "Schema for attack incident data in Operation True Promise datasets",
+  "type": "object",
+  "required": ["metadata", "incidents"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["operation_name", "incident_count", "date_range"],
+      "properties": {
+        "operation": {
+          "type": "string",
+          "enum": ["tp1", "tp2", "tp3", "tp4"],
+          "description": "Operation identifier for cross-operation queries"
+        },
+        "operation_name": { "type": "string" },
+        "operation_name_farsi": { "type": "string" },
+        "version": { "type": "string" },
+        "incident_count": { "type": "integer", "minimum": 1 },
+        "date_range": {
+          "type": "object",
+          "properties": {
+            "start": { "type": "string", "format": "date" },
+            "end": { "type": "string", "format": "date" }
+          }
+        },
+        "canonical_format": { "type": "string" },
+        "countries_targeted": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[A-Z]{2}$" }
+        }
+      }
+    },
+    "incidents": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/wave" }
+    }
+  },
+  "$defs": {
+    "wave": {
+      "type": "object",
+      "required": ["wave_number", "timing", "weapons", "targets"],
+      "properties": {
+        "uuid": {
+          "type": ["string", "null"],
+          "format": "uuid",
+          "description": "Unique identifier for this wave (UUID v4). Auto-generated at build time if not provided."
+        },
+        "operation": {
+          "type": "string",
+          "enum": ["tp1", "tp2", "tp3", "tp4"],
+          "description": "Operation identifier for cross-operation queries"
+        },
+        "wave_number": { "type": "integer", "minimum": 1 },
+        "wave_codename_farsi": { "type": ["string", "null"] },
+        "wave_codename_english": { "type": ["string", "null"] },
+        "description": { "type": ["string", "null"] },
+        "timing": { "$ref": "#/$defs/timing" },
+        "weapons": { "$ref": "#/$defs/weapons" },
+        "targets": { "$ref": "#/$defs/targets" },
+        "attacking_force": {
+          "type": "array",
+          "description": "Forces responsible for launching munitions in this wave. Array allows multiple co-attackers (e.g. IRGC + Hezbollah coordinated strikes).",
+          "items": { "$ref": "#/$defs/attacking_force" },
+          "minItems": 1
+        },
+        "launch_site": { "$ref": "#/$defs/launch_site" },
+        "interception": { "$ref": "#/$defs/interception" },
+        "munitions": { "$ref": "#/$defs/munitions" },
+        "impact": { "$ref": "#/$defs/impact" },
+        "escalation": { "$ref": "#/$defs/escalation" },
+        "proxy": { "$ref": "#/$defs/proxy" },
+        "sources": { "$ref": "#/$defs/sources" },
+        "reactions": { "$ref": "#/$defs/reactions" },
+        "coordinated_attack": {
+          "type": ["boolean", "null"],
+          "description": "True when this salvo is part of a coordinated multi-actor attack (different attacking forces launching within 15 minutes of each other)"
+        },
+        "coordinated_with_salvo": {
+          "type": ["integer", "null"],
+          "description": "Wave number of the paired salvo in a coordinated attack. Null if not coordinated."
+        },
+        "actor_salvo_number": {
+          "type": ["integer", "null"],
+          "description": "Per-actor sequential count within this operation. E.g. if this is Hezbollah's 4th salvo in TP4, value is 4. Computed at build time."
+        },
+        "events": {
+          "type": "array",
+          "description": "Granular interception and strike events within this wave",
+          "items": { "$ref": "#/$defs/event" }
+        }
+      }
+    },
+    "timing": {
+      "type": "object",
+      "properties": {
+        "announced_utc": { "type": ["string", "null"], "format": "date-time" },
+        "announcement_source": { "type": ["string", "null"] },
+        "announcement_x_url": { "type": ["string", "null"], "format": "uri" },
+        "probable_launch_time": { "type": ["string", "null"], "format": "date-time" },
+        "launch_time_israel": { "type": ["string", "null"] },
+        "launch_time_iran": { "type": ["string", "null"] },
+        "solar_phase_launch_site": {
+          "type": ["integer", "null"],
+          "minimum": 0,
+          "maximum": 5,
+          "description": "0=Night, 1=Astro twilight, 2=Nautical, 3=Civil, 4=Low sun, 5=Daylight"
+        },
+        "solar_phase_target": {
+          "type": ["integer", "null"],
+          "minimum": 0,
+          "maximum": 5
+        },
+        "conflict_day": { "type": ["integer", "null"], "minimum": 1 },
+        "hours_since_last_incident": { "type": ["number", "null"] },
+        "time_between_incidents_minutes": { "type": ["number", "null"] },
+        "incident_duration_minutes": { "type": ["number", "null"] },
+        "elapsed_minutes_since_last": { "type": ["number", "null"] }
+      }
+    },
+    "weapons": {
+      "type": "object",
+      "properties": {
+        "payload": { "type": ["string", "null"] },
+        "drones_used": { "type": ["boolean", "null"] },
+        "ballistic_missiles_used": { "type": ["boolean", "null"] },
+        "cruise_missiles_used": { "type": ["boolean", "null"] },
+        "types": {
+          "type": "object",
+          "description": "Boolean flags for specific weapon systems used",
+          "patternProperties": {
+            "^[a-z_]+_used$": { "type": ["boolean", "null"] }
+          },
+          "additionalProperties": false
+        },
+        "categories": {
+          "type": "object",
+          "properties": {
+            "bm_liquid_fueled": { "type": "boolean" },
+            "bm_solid_fueled": { "type": "boolean" },
+            "bm_marv_equipped": { "type": "boolean" },
+            "bm_hypersonic": { "type": "boolean" },
+            "bm_cluster_warhead": { "type": ["boolean", "null"], "description": "Warhead carried cluster submunitions" }
+          }
+        },
+        "cluster_warhead": {
+          "type": ["object", "null"],
+          "description": "Details when cluster munition warhead confirmed. Null when not applicable.",
+          "properties": {
+            "confirmed": { "type": "boolean", "description": "Cluster warhead use confirmed by IDF/police/OSINT" },
+            "carrier_missile": { "type": ["string", "null"], "description": "Missile type delivering the cluster warhead" },
+            "submunition_count": { "type": ["integer", "null"], "description": "Estimated number of submunitions per warhead" },
+            "submunition_explosive_kg": { "type": ["number", "null"], "description": "Explosive weight per submunition in kg" },
+            "dispersal_radius_km": { "type": ["number", "null"], "description": "Estimated dispersal radius in km" },
+            "dispersal_altitude_ft": { "type": ["integer", "null"], "description": "Altitude at which warhead dispersed submunitions (feet)" }
+          }
+        }
+      }
+    },
+    "targets": {
+      "type": "object",
+      "properties": {
+        "israel_targeted": { "type": ["boolean", "null"] },
+        "us_bases_targeted": { "type": ["boolean", "null"] },
+        "targets": { "type": ["string", "null"], "description": "Free-text target description" },
+        "landings_countries": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[A-Z]{2}$" }
+        },
+        "israeli_locations": {
+          "type": "object",
+          "properties": {
+            "targeted_tel_aviv": { "type": "boolean" },
+            "targeted_jerusalem": { "type": "boolean" },
+            "targeted_haifa": { "type": "boolean" },
+            "targeted_negev_beersheba": { "type": "boolean" },
+            "targeted_northern_periphery": { "type": "boolean" },
+            "targeted_eilat": { "type": "boolean" }
+          }
+        },
+        "us_bases": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "country_code": { "type": "string", "pattern": "^[A-Z]{2}$" }
+            },
+            "required": ["name", "country_code"]
+          }
+        },
+        "us_naval_vessels": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "type": { "type": "string" }
+            },
+            "required": ["name", "type"]
+          }
+        },
+        "critical_infrastructure": {
+          "type": "object",
+          "description": "Boolean flags for critical civilian/dual-use infrastructure targeting",
+          "properties": {
+            "targeted_airport": { "type": ["boolean", "null"], "description": "Civilian airport (e.g. Ben Gurion, Hamad Intl)" },
+            "targeted_energy": { "type": ["boolean", "null"], "description": "Power plants, oil refineries, fuel infrastructure" },
+            "targeted_port": { "type": ["boolean", "null"], "description": "Civilian/commercial port or maritime terminal" },
+            "targeted_government": { "type": ["boolean", "null"], "description": "Government buildings, ministries, leadership offices" },
+            "targeted_industrial": { "type": ["boolean", "null"], "description": "Defense industry, semiconductor, military-industrial complexes" },
+            "targeted_telecom_data": { "type": ["boolean", "null"], "description": "Communications infrastructure, data centers, cyber facilities" },
+            "targeted_diplomatic": { "type": ["boolean", "null"], "description": "Embassies, consulates, diplomatic compounds" },
+            "targeted_research": { "type": ["boolean", "null"], "description": "Research institutions, biological/nuclear facilities" }
+          }
+        },
+        "target_coordinates": {
+          "type": "object",
+          "properties": {
+            "lat": { "type": ["number", "null"] },
+            "lon": { "type": ["number", "null"] },
+            "generic_location": {
+              "type": ["boolean", "null"],
+              "description": "true = coordinates are approximate centroid of targeted area (e.g. city center for 'targeted_tel_aviv'); false/null = coordinates are specifically geolocated"
+            }
+          }
+        }
+      }
+    },
+    "attacking_force": {
+      "type": "object",
+      "description": "The force responsible for launching this wave. Top-level actor enables clean filtering (Iran, Hezbollah, Ansar Allah, Islamic Resistance in Iraq); subunit captures specific branch when known.",
+      "properties": {
+        "actor": {
+          "type": "string",
+          "enum": ["Iran", "Hezbollah", "Ansar Allah (Houthis)", "Islamic Resistance in Iraq"],
+          "description": "Top-level actor responsible for this wave"
+        },
+        "subunit": {
+          "type": ["string", "null"],
+          "description": "Specific branch or subunit (e.g. 'IRGC Aerospace Force', 'IRGC Navy', 'Iran Army', 'Quds Force')"
+        }
+      },
+      "required": ["actor"]
+    },
+    "launch_site": {
+      "type": "object",
+      "properties": {
+        "description": { "type": ["string", "null"] },
+        "lat": { "type": ["number", "null"] },
+        "lon": { "type": ["number", "null"] },
+        "generic_location": {
+          "type": ["boolean", "null"],
+          "description": "true = coordinates are approximate centroid of a named region (e.g. 'Western Iran'); false/null = coordinates are specifically geolocated"
+        }
+      }
+    },
+    "interception": {
+      "type": "object",
+      "properties": {
+        "intercepted": { "type": ["boolean", "null"] },
+        "interception_systems": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "intercepted_by": {
+          "type": "object",
+          "properties": {
+            "israel": { "type": ["boolean", "null"] },
+            "us": { "type": ["boolean", "null"] },
+            "uk": { "type": ["boolean", "null"] },
+            "jordan": { "type": ["boolean", "null"] },
+            "other": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "estimated_intercept_count": { "type": ["integer", "null"] },
+        "estimated_intercept_rate": { "type": ["number", "null"] },
+        "exoatmospheric_interception": { "type": ["boolean", "null"] },
+        "endoatmospheric_interception": { "type": ["boolean", "null"] },
+        "interception_report": { "type": ["string", "null"] }
+      }
+    },
+    "munitions": {
+      "type": "object",
+      "properties": {
+        "estimated_munitions_count": { "type": ["integer", "null"] },
+        "munitions_targeting_israel": { "type": ["integer", "null"] },
+        "munitions_targeting_us_bases": { "type": ["integer", "null"] },
+        "cumulative_total": { "type": ["integer", "null"] }
+      }
+    },
+    "impact": {
+      "type": "object",
+      "properties": {
+        "damage": { "type": ["string", "null"] },
+        "fatalities": { "type": ["integer", "null"] },
+        "injuries": { "type": ["integer", "null"] },
+        "civilian_casualties": { "type": ["integer", "null"] },
+        "military_casualties": { "type": ["integer", "null"] }
+      }
+    },
+    "escalation": {
+      "type": "object",
+      "properties": {
+        "new_country_targeted": { "type": "boolean" },
+        "new_weapon_first_use": { "type": "boolean" }
+      }
+    },
+    "proxy": {
+      "type": "object",
+      "properties": {
+        "involvement": { "type": ["boolean", "null"] },
+        "description": { "type": ["string", "null"] }
+      }
+    },
+    "sources": {
+      "type": "object",
+      "properties": {
+        "idf_statement": { "type": ["string", "null"] },
+        "urls": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "reactions": {
+      "type": "object",
+      "description": "Official reactions/statements from IDF, US government, and CENTCOM",
+      "properties": {
+        "idf": { "$ref": "#/$defs/reaction_entry" },
+        "us_government": { "$ref": "#/$defs/reaction_entry" },
+        "centcom": { "$ref": "#/$defs/reaction_entry" }
+      }
+    },
+    "reaction_entry": {
+      "type": "object",
+      "properties": {
+        "statement": { "type": ["string", "null"], "description": "Summary of official statement" },
+        "url": { "type": ["string", "null"], "format": "uri", "description": "Link to statement or source" }
+      }
+    },
+    "event": {
+      "type": "object",
+      "required": ["event_type", "location_name"],
+      "properties": {
+        "uuid": {
+          "type": ["string", "null"],
+          "format": "uuid",
+          "description": "Unique identifier for this event (UUID v4). Auto-generated at build time if not provided."
+        },
+        "event_type": {
+          "type": "string",
+          "enum": ["interception", "strike", "impact"],
+          "description": "interception = confirmed shoot-down; strike = confirmed warhead hit on target; impact = ground-level event where nature is disputed or unclear (could be debris, near-miss, or contested hit)"
+        },
+        "outcome_status": {
+          "type": "string",
+          "enum": ["confirmed", "disputed", "unverified"],
+          "description": "confirmed = both sides broadly agree on what happened; disputed = Iran and Israel make contradictory claims about this event; unverified = insufficient independent evidence to determine outcome"
+        },
+        "location_name": {
+          "type": "string",
+          "description": "Human-readable location: 'Tel Aviv', 'over Dead Sea', 'Nevatim Airbase', etc."
+        },
+        "lat": { "type": ["number", "null"], "description": "Latitude in decimal degrees if known" },
+        "lon": { "type": ["number", "null"], "description": "Longitude in decimal degrees if known" },
+        "country_code": {
+          "type": ["string", "null"],
+          "pattern": "^[A-Z]{2}$",
+          "description": "ISO 3166-1 alpha-2 country code"
+        },
+        "weapon_type": {
+          "type": ["string", "null"],
+          "description": "Weapon system involved if known (e.g. 'emad', 'fattah_1', 'shahed_136')"
+        },
+        "defense_system": {
+          "type": ["string", "null"],
+          "description": "Defense system that performed the interception (interception events only)"
+        },
+        "interception_method": {
+          "type": ["string", "null"],
+          "enum": ["surface_to_air_missile", "air_to_air_missile", "air_to_air_gun", "directed_energy", "electronic_warfare", null],
+          "description": "How the interception was carried out: surface_to_air_missile = ground/ship-launched interceptor (Arrow, Iron Dome, SM-3, Patriot, THAAD); air_to_air_missile = fighter-launched missile (AIM-120, AIM-9); air_to_air_gun = fighter cannon kill; directed_energy = laser/HPM; electronic_warfare = jamming/spoofing causing loss of control"
+        },
+        "interceptor_munition": {
+          "type": ["string", "null"],
+          "description": "Specific interceptor missile/round fired (e.g. 'Tamir', 'Arrow-3 interceptor', 'SM-3 Block IIA', 'PAC-3 MSE', 'AIM-120C AMRAAM', 'ASRAAM', 'Stunner', 'THAAD interceptor'). Distinct from defense_system which is the platform/battery."
+        },
+        "intercept_phase": {
+          "type": ["string", "null"],
+          "enum": ["exoatmospheric", "endoatmospheric", null],
+          "description": "Phase of interception if known"
+        },
+        "intercepting_force": {
+          "type": ["string", "null"],
+          "description": "Country/force that performed the interception (e.g. 'Israel', 'US', 'Jordan', 'UK RAF')"
+        },
+        "fatalities": {
+          "type": ["integer", "null"],
+          "description": "Number of fatalities at this location (strike events only)"
+        },
+        "injuries": {
+          "type": ["integer", "null"],
+          "description": "Number of injuries at this location (strike events only)"
+        },
+        "damage_description": {
+          "type": ["string", "null"],
+          "description": "Free-text description of damage or interception outcome"
+        },
+        "target_type": {
+          "type": ["string", "null"],
+          "enum": ["military", "civilian", "dual_use", "infrastructure", null],
+          "description": "Classification of the target/impact site"
+        },
+        "source_url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "OSINT source for this specific event"
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["confirmed", "probable", "unconfirmed"],
+          "description": "Confidence level based on available OSINT"
+        },
+        "iranian_claim": {
+          "type": ["string", "null"],
+          "description": "What Iran/IRGC claimed about this event (e.g. 'direct hit on Mossad HQ', 'air defense radar destroyed')"
+        },
+        "israeli_claim": {
+          "type": ["string", "null"],
+          "description": "What Israel/IDF claimed about this event (e.g. 'missile intercepted', 'no damage to base')"
+        },
+        "us_claim": {
+          "type": ["string", "null"],
+          "description": "What the US/CENTCOM claimed about this event, if applicable"
+        },
+        "bda": {
+          "type": ["object", "null"],
+          "description": "Post-battle damage assessment from independent/third-party sources",
+          "properties": {
+            "source_type": {
+              "type": "string",
+              "enum": ["satellite_imagery", "ground_photo", "video", "media_report", "government_report", "multiple"],
+              "description": "Type of evidence the BDA is based on"
+            },
+            "source_name": {
+              "type": ["string", "null"],
+              "description": "Organization or analyst who produced the assessment (e.g. 'Planet Labs', 'Maxar', 'AP', 'ISW')"
+            },
+            "source_url": {
+              "type": ["string", "null"],
+              "format": "uri",
+              "description": "Link to the BDA source material"
+            },
+            "assessment_date": {
+              "type": ["string", "null"],
+              "format": "date",
+              "description": "Date the assessment was published or imagery captured"
+            },
+            "assessment": {
+              "type": "string",
+              "description": "Summary of what the independent assessment found"
+            },
+            "damage_confirmed": {
+              "type": ["boolean", "null"],
+              "description": "Whether independent sources confirmed damage at this location"
+            },
+            "impact_count": {
+              "type": ["integer", "null"],
+              "description": "Number of distinct impact craters/points identified (from SATINT or ground survey)"
+            },
+            "satint": {
+              "type": ["object", "null"],
+              "description": "Satellite imagery intelligence observations specific to this event",
+              "properties": {
+                "imagery_provider": {
+                  "type": ["string", "null"],
+                  "description": "Satellite imagery provider (e.g. 'Planet Labs', 'Maxar', 'Airbus Defence', 'Sentinel-2')"
+                },
+                "capture_date": {
+                  "type": ["string", "null"],
+                  "format": "date",
+                  "description": "Date the satellite image was captured"
+                },
+                "resolution_m": {
+                  "type": ["number", "null"],
+                  "description": "Spatial resolution of the imagery in meters per pixel"
+                },
+                "observations": {
+                  "type": "string",
+                  "description": "Detailed description of what is visible in the imagery (crater count, structural damage, burn marks, debris fields, vehicle displacement, etc.)"
+                },
+                "before_after_available": {
+                  "type": ["boolean", "null"],
+                  "description": "Whether before/after comparison imagery is available"
+                },
+                "imagery_url": {
+                  "type": ["string", "null"],
+                  "format": "uri",
+                  "description": "Direct link to the satellite imagery or analysis"
+                }
+              },
+              "required": ["observations"]
+            }
+          },
+          "required": ["source_type", "assessment"]
+        },
+        "narrative": {
+          "type": ["string", "null"],
+          "description": "Extended narrative description of this event in Markdown format. Can be blog-post length — covers context, sequence of events, significance, and analysis. Supports full Markdown including headings, lists, links, and embedded image references."
+        },
+        "thumbnail": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL to a representative thumbnail image for this event (for previews, cards, listings)"
+        },
+        "images": {
+          "type": "array",
+          "description": "Collection of images associated with this event (satellite imagery, ground photos, damage photos, maps)",
+          "items": {
+            "type": "object",
+            "required": ["url"],
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "URL to the image file"
+              },
+              "caption": {
+                "type": ["string", "null"],
+                "description": "Descriptive caption for the image"
+              },
+              "source": {
+                "type": ["string", "null"],
+                "description": "Attribution/source of the image (e.g. 'Planet Labs', 'IDF Spokesperson', 'Reuters')"
+              },
+              "image_type": {
+                "type": ["string", "null"],
+                "enum": ["satellite", "ground_photo", "damage_photo", "map", "diagram", "screenshot", "video_still", null],
+                "description": "Classification of the image content"
+              },
+              "date_taken": {
+                "type": ["string", "null"],
+                "format": "date",
+                "description": "Date the image was captured"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

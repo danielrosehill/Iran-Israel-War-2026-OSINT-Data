@@ -12367,10 +12367,10 @@
       "wave_number": 67,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Sixty-seventh wave of Operation True Promise 4. Day 18 (March 17). Hezbollah rocket barrage targeting northern Israel. Sirens in Nahariya and Upper Galilee (Kibbutz Zerait). Six people suffered mild smoke inhalation in Nahariya.",
+      "description": "Sixty-seventh wave of Operation True Promise 4. Day 18 (March 17). Hezbollah rocket and drone barrage targeting northern Israel. Sirens in multiple northern towns. No injuries reported from this salvo. Note: six injuries from smoke inhalation in Nahariya occurred on March 16 evening, not this wave.",
       "timing": {
         "announced_utc": "2026-03-17T08:00:00Z",
-        "announced_utc_note": "Estimated ~10:00 AM IST. Hezbollah rocket barrage on northern Israel. Six mild injuries from smoke inhalation in Nahariya.",
+        "announced_utc_note": "March 17. Hezbollah rocket/drone attacks on northern Israel. Exact time unconfirmed. No injuries in this wave.",
         "announcement_source": "IDF / OSINT",
         "announcement_x_url": null,
         "probable_launch_time": null,
@@ -12490,10 +12490,10 @@
         "cumulative_total": null
       },
       "impact": {
-        "damage": "Fires and smoke in Nahariya area.",
+        "damage": "No damage or injuries reported from this salvo.",
         "fatalities": 0,
-        "injuries": 6,
-        "civilian_casualties": 6,
+        "injuries": 0,
+        "civilian_casualties": 0,
         "military_casualties": 0
       },
       "escalation": {
@@ -12534,7 +12534,7 @@
       "description": "Sixty-eighth wave of Operation True Promise 4. Day 18 (March 17). Afternoon ballistic missile salvo with suspected cluster munitions targeting central Tel Aviv. Two men in their 50s sustained minor injuries. Impact crater and overturned car documented in Rishon Lezion.",
       "timing": {
         "announced_utc": "2026-03-17T11:00:00Z",
-        "announced_utc_note": "~13:00 IST (11:00 UTC). Afternoon salvo targeting central Tel Aviv. Two minor injuries. Cluster munitions suspected.",
+        "announced_utc_note": "Shortly after 13:00 IST (11:00 UTC). Air raid sirens across central Israel. Missile strike in Rishon Lezion area with cluster munition impacts. Two men in 50s lightly injured.",
         "announcement_source": "IDF / OSINT",
         "announcement_x_url": null,
         "probable_launch_time": null,
@@ -12701,7 +12701,7 @@
       "description": "Sixty-ninth wave of Operation True Promise 4. Day 18 (March 17). Afternoon ballistic missile salvo targeting Jerusalem and central Israel. Sirens at 15:39 IST. Small number of missiles likely intercepted or struck open areas. No injuries reported.",
       "timing": {
         "announced_utc": "2026-03-17T13:39:00Z",
-        "announced_utc_note": "15:39 IST (13:39 UTC). Afternoon salvo targeting Jerusalem and central Israel.",
+        "announced_utc_note": "15:39 IST (13:39 UTC). Seventh Iranian missile attack since midnight. Sirens in Jerusalem and central Israel. Small number of missiles likely intercepted. No injuries.",
         "announcement_source": "IDF / OSINT",
         "announcement_x_url": null,
         "probable_launch_time": null,
@@ -12863,10 +12863,10 @@
       "wave_number": 70,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Seventieth wave of Operation True Promise 4. Day 18 (March 17). Late afternoon ballistic missile salvo targeting central Israel. Seventh Iran-origin salvo since midnight. Sirens sounded across central Israel.",
+      "description": "Seventieth wave of Operation True Promise 4. Day 18 (March 17). Possible additional ballistic missile salvo targeting central Israel in the late afternoon. Timing and details unconfirmed — may overlap with wave 69 (15:39 IST). Assessment pending.",
       "timing": {
         "announced_utc": "2026-03-17T14:30:00Z",
-        "announced_utc_note": "Approximately 16:30 IST (14:30 UTC). Late afternoon salvo. Seventh Iranian missile attack since midnight March 17.",
+        "announced_utc_note": "Approximately 16:30 IST (14:30 UTC). Unconfirmed — user-reported salvo approximately 30 minutes before report time. May be a continuation of the 15:39 IST event.",
         "announcement_source": "IDF / OSINT",
         "announcement_x_url": null,
         "probable_launch_time": null,
