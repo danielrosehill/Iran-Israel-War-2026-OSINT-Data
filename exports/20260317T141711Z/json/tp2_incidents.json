@@ -1,0 +1,599 @@
+{
+  "metadata": {
+    "operation": "tp2",
+    "operation_name": "Operation True Promise II",
+    "operation_name_farsi": "عملیات وعده صادق ۲",
+    "version": "1.0",
+    "incident_count": 2,
+    "date_range": {
+      "start": "2024-10-01",
+      "end": "2024-10-01"
+    },
+    "canonical_format": "json",
+    "data_quality": "partial — reconstructed from news reports, Wikipedia, satellite imagery analysis, and OSINT; wave timing approximate; exact missile type counts unconfirmed",
+    "sources": [
+      "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel",
+      "https://english.iswnews.com/36492/operation-true-promise-ii-review-on-irans-missile-attack-on-israeli-regime/",
+      "https://www.iranwatch.org/our-publications/articles-reports/irans-second-missile-attack-israel",
+      "https://www.npr.org/2024/10/04/nx-s1-5140058/satellite-images-dozens-iranian-missiles-struck-near-israeli-air-base",
+      "https://defensemirror.com/news/37814/Iran_Releases_Info_on_Missiles_Used_in____Operation_True_Promise_II____against_Israel"
+    ],
+    "countries_targeted": [
+      "IL"
+    ],
+    "aggregate_stats": {
+      "total_ballistic_missiles": 200,
+      "total_cruise_missiles": 0,
+      "total_drones": 0,
+      "total_munitions_estimate": 200,
+      "interception_rate_claimed_israel": 0.99,
+      "interception_rate_claimed_iran": 0.9,
+      "total_killed": 2,
+      "total_wounded": 8,
+      "interceptor_systems": [
+        "Arrow-2",
+        "Arrow-3",
+        "David's Sling",
+        "THAAD"
+      ],
+      "trigger_event": "Israeli assassination of Hezbollah Secretary-General Hassan Nasrallah (27 Sep 2024) and Israeli ground invasion of southern Lebanon (Operation Northern Arrows)",
+      "countries_with_casualties": {
+        "IL": "1 killed (heart attack), 2 wounded",
+        "PS": "1 killed (debris in Jericho), 4 wounded",
+        "JO": "2 wounded (debris)"
+      },
+      "proxy_coordination": false,
+      "key_impacts": [
+        "Nevatim Airbase: 20-32 missile impacts confirmed by satellite imagery (hangar and taxiway damaged)",
+        "Tel Nof Airbase: 3 missile impacts confirmed by satellite imagery",
+        "Gedera: school hit by missile",
+        "Glilot area (Mossad/Unit 8200 HQ): missiles landed ~500m from complex",
+        "Fattah-1 hypersonic missile used in combat for the first time"
+      ],
+      "historical_significance": "First confirmed combat use of Iran's Fattah-1 hypersonic missile; ballistic-missile-only strike (no drones/cruise missiles); more missiles penetrated defenses than in TP1"
+    }
+  },
+  "incidents": [
+    {
+      "operation": "tp2",
+      "wave_number": 1,
+      "wave_codename_farsi": null,
+      "wave_codename_english": "First Ballistic Salvo",
+      "description": "First wave of approximately 100 ballistic missiles targeting Israeli military airbases and intelligence facilities. Unlike TP1, no drones or cruise missiles were used — Iran opted for a purely ballistic approach to minimize warning time. Missiles included Emad, Ghadr-H, Ghadr-F, and Kheibar Shekan. Iran gave only a few hours' warning to Arab states (compared to 72 hours in TP1).",
+      "timing": {
+        "announced_utc": "2024-10-01T16:30:00Z",
+        "announcement_source": "IRGC",
+        "announcement_x_url": null,
+        "probable_launch_time": "2024-10-01T16:30:00Z",
+        "launch_time_israel": "2024-10-01T19:30:00+0300",
+        "launch_time_iran": "2024-10-01T20:00:00+0330",
+        "solar_phase_launch_site": 0,
+        "solar_phase_target": 0,
+        "conflict_day": 1,
+        "hours_since_last_incident": null,
+        "time_between_incidents_minutes": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Emad, Ghadr-H, Ghadr-F, Kheibar Shekan ballistic missiles",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": true,
+          "ghadr_used": true,
+          "sejjil_used": false,
+          "kheibar_shekan_used": true,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "paveh_used": false,
+          "mohajer_6_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": true,
+          "bm_marv_equipped": true,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Nevatim Airbase (primary), Tel Nof Airbase, Hatzerim Airbase",
+        "landings_countries": [
+          "IL",
+          "PS",
+          "JO"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 30.89,
+          "lon": 34.78,
+          "generic_location": false
+        },
+        "critical_infrastructure": {
+          "targeted_airport": null,
+          "targeted_energy": null,
+          "targeted_port": null,
+          "targeted_government": null,
+          "targeted_industrial": null,
+          "targeted_telecom_data": null,
+          "targeted_diplomatic": null,
+          "targeted_research": null
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Nevatim / Negev",
+            "type": "israeli",
+            "hit": true
+          }
+        ]
+      },
+      "attacking_force": [
+        {
+          "actor": "Iran",
+          "subunit": "IRGC Aerospace Force"
+        }
+      ],
+      "launch_site": {
+        "description": "IRGC Aerospace Force launch sites in western Iran",
+        "lat": 33.5,
+        "lon": 50.0,
+        "generic_location": false
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "David's Sling",
+          "Aegis BMD / SM-3"
+        ],
+        "intercepted_by": {
+          "israel": true,
+          "us": true,
+          "uk": true,
+          "jordan": true,
+          "other": [
+            "France"
+          ]
+        },
+        "estimated_intercept_count": null,
+        "estimated_intercept_rate": null,
+        "exoatmospheric_interception": true,
+        "endoatmospheric_interception": true,
+        "interception_report": "Arrow-2 and Arrow-3 engaged incoming ballistic missiles. US Navy destroyers fired SM-3 interceptors. Despite interceptions, 20-32 missiles struck Nevatim Airbase area and 3 struck Tel Nof area per satellite analysis."
+      },
+      "munitions": {
+        "estimated_munitions_count": 100,
+        "munitions_targeting_israel": 100,
+        "munitions_targeting_us_bases": 0,
+        "cumulative_total": 100
+      },
+      "impact": {
+        "damage": "Nevatim Airbase: hangar and taxiway damaged (20-32 impacts confirmed by satellite); Tel Nof Airbase: several impacts; Gedera: school building hit",
+        "fatalities": 1,
+        "injuries": 4,
+        "civilian_casualties": 5,
+        "military_casualties": null
+      },
+      "escalation": {
+        "new_country_targeted": false,
+        "new_weapon_first_use": false
+      },
+      "proxy": {
+        "involvement": false,
+        "description": "No proxy coordination — TP2 was a unilateral IRGC operation unlike the multi-front TP1"
+      },
+      "sources": {
+        "idf_statement": "IDF reported approximately 200 ballistic missiles fired in two waves",
+        "urls": [
+          "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel",
+          "https://www.npr.org/2024/10/04/nx-s1-5140058/satellite-images-dozens-iranian-missiles-struck-near-israeli-air-base"
+        ]
+      },
+      "events": [
+        {
+          "event_type": "interception",
+          "location_name": "Over Israeli airspace",
+          "lat": null,
+          "lon": null,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": "Arrow-3",
+          "interception_method": "surface_to_air_missile",
+          "intercept_phase": "exoatmospheric",
+          "intercepting_force": "Israel",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "Arrow-2 and Arrow-3 engaged incoming ballistic missiles",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "interception",
+          "location_name": "Over eastern Mediterranean",
+          "lat": null,
+          "lon": null,
+          "country_code": null,
+          "weapon_type": null,
+          "defense_system": "Aegis BMD / SM-3",
+          "interception_method": "surface_to_air_missile",
+          "intercept_phase": null,
+          "intercepting_force": "US",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "US Navy destroyers fired SM-3 interceptors",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Nevatim Airbase",
+          "lat": 31.208,
+          "lon": 35.012,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "20-32 missile impacts confirmed by satellite imagery; hangar and taxiway damaged",
+          "target_type": "military",
+          "source_url": "https://www.npr.org/2024/10/04/nx-s1-5140058/satellite-images-dozens-iranian-missiles-struck-near-israeli-air-base",
+          "confidence": "confirmed",
+          "iranian_claim": "Direct hits on Nevatim Airbase; runways and F-35 shelters destroyed; 90% of missiles hit their targets",
+          "israeli_claim": "99% interception rate; minor damage to infrastructure; base remained fully operational; no aircraft damaged",
+          "us_claim": null,
+          "bda": {
+            "source_type": "satellite_imagery",
+            "source_name": "Planet Labs / AP analysis",
+            "source_url": "https://www.npr.org/2024/10/04/nx-s1-5140058/satellite-images-dozens-iranian-missiles-struck-near-israeli-air-base",
+            "assessment_date": "2024-10-04",
+            "assessment": "Satellite imagery showed 20-32 distinct impact craters at Nevatim Airbase. At least one hangar and taxiway sections damaged. Impact pattern suggests missiles were aimed at aircraft shelters and runway infrastructure. Contradicts Israeli claim of 99% interception.",
+            "damage_confirmed": true,
+            "impact_count": 32
+          }
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Tel Nof Airbase",
+          "lat": 31.839,
+          "lon": 34.818,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "3 missile impacts confirmed by satellite imagery",
+          "target_type": "military",
+          "source_url": null,
+          "confidence": "confirmed",
+          "iranian_claim": "Direct hits on Tel Nof Airbase",
+          "israeli_claim": "No significant damage",
+          "us_claim": null,
+          "bda": {
+            "source_type": "satellite_imagery",
+            "source_name": "Planet Labs",
+            "source_url": null,
+            "assessment_date": "2024-10-04",
+            "assessment": "Satellite imagery confirmed 3 distinct impact points at Tel Nof Airbase",
+            "damage_confirmed": true,
+            "impact_count": 3
+          }
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Gedera",
+          "lat": 31.814,
+          "lon": 34.779,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "School building hit by missile",
+          "target_type": "civilian",
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Jericho (debris)",
+          "lat": 31.857,
+          "lon": 35.461,
+          "country_code": "PS",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 1,
+          "injuries": 4,
+          "damage_description": "Missile debris killed 1 Palestinian and wounded 4 in Jericho",
+          "target_type": "civilian",
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Jordan (debris)",
+          "lat": null,
+          "lon": null,
+          "country_code": "JO",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 2,
+          "damage_description": "2 Jordanians wounded by missile debris",
+          "target_type": "civilian",
+          "source_url": null,
+          "confidence": "confirmed"
+        }
+      ]
+    },
+    {
+      "operation": "tp2",
+      "wave_number": 2,
+      "wave_codename_farsi": null,
+      "wave_codename_english": "Second Ballistic Salvo (Fattah-1)",
+      "description": "Second wave included Iran's Fattah-1 hypersonic missile in its first confirmed combat use, alongside additional Emad and Kheibar Shekan missiles. This wave targeted the Mossad/Unit 8200 headquarters complex at Glilot near Tel Aviv in addition to the airbases. Satellite imagery later showed missiles landing approximately 500m from the Mossad complex.",
+      "timing": {
+        "announced_utc": null,
+        "announcement_source": null,
+        "announcement_x_url": null,
+        "probable_launch_time": "2024-10-01T16:45:00Z",
+        "launch_time_israel": "2024-10-01T19:45:00+0300",
+        "launch_time_iran": "2024-10-01T20:15:00+0330",
+        "solar_phase_launch_site": 0,
+        "solar_phase_target": 0,
+        "conflict_day": 1,
+        "hours_since_last_incident": 0.25,
+        "time_between_incidents_minutes": 15,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Fattah-1 hypersonic missiles, Emad, Kheibar Shekan ballistic missiles",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": true,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": true,
+          "fattah_used": true,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "paveh_used": false,
+          "mohajer_6_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": true,
+          "bm_marv_equipped": true,
+          "bm_hypersonic": true,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Mossad/Unit 8200 HQ at Glilot (north Tel Aviv), Nevatim Airbase, Tel Nof Airbase",
+        "landings_countries": [
+          "IL",
+          "PS",
+          "JO"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.15,
+          "lon": 34.79,
+          "generic_location": false
+        },
+        "critical_infrastructure": {
+          "targeted_airport": null,
+          "targeted_energy": null,
+          "targeted_port": null,
+          "targeted_government": true,
+          "targeted_industrial": null,
+          "targeted_telecom_data": null,
+          "targeted_diplomatic": null,
+          "targeted_research": null
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Tel Aviv",
+            "type": "israeli",
+            "hit": true
+          },
+          {
+            "name": "Nevatim / Negev",
+            "type": "israeli",
+            "hit": true
+          }
+        ]
+      },
+      "attacking_force": [
+        {
+          "actor": "Iran",
+          "subunit": "IRGC Aerospace Force"
+        }
+      ],
+      "launch_site": {
+        "description": "IRGC Aerospace Force launch sites in western Iran",
+        "lat": 33.5,
+        "lon": 50.0,
+        "generic_location": false
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "David's Sling"
+        ],
+        "intercepted_by": {
+          "israel": true,
+          "us": true,
+          "uk": false,
+          "jordan": false,
+          "other": []
+        },
+        "estimated_intercept_count": null,
+        "estimated_intercept_rate": null,
+        "exoatmospheric_interception": true,
+        "endoatmospheric_interception": true,
+        "interception_report": "Most missiles intercepted. Closest impact to Mossad HQ was approximately 500m. Fattah-1 hypersonic missile performance debated — Israel claimed successful interception, Iran claimed successful penetration."
+      },
+      "munitions": {
+        "estimated_munitions_count": 100,
+        "munitions_targeting_israel": 100,
+        "munitions_targeting_us_bases": 0,
+        "cumulative_total": 200
+      },
+      "impact": {
+        "damage": "Missiles landed near Mossad/Unit 8200 HQ (~500m); homes and restaurant damaged in north Tel Aviv area; additional impacts at Nevatim and Tel Nof",
+        "fatalities": 1,
+        "injuries": 4,
+        "civilian_casualties": 5,
+        "military_casualties": null
+      },
+      "escalation": {
+        "new_country_targeted": false,
+        "new_weapon_first_use": true
+      },
+      "proxy": {
+        "involvement": false,
+        "description": null
+      },
+      "sources": {
+        "idf_statement": null,
+        "urls": [
+          "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel",
+          "https://english.iswnews.com/36492/operation-true-promise-ii-review-on-irans-missile-attack-on-israeli-regime/",
+          "https://defensemirror.com/news/37814/Iran_Releases_Info_on_Missiles_Used_in____Operation_True_Promise_II____against_Israel"
+        ]
+      },
+      "events": [
+        {
+          "event_type": "impact",
+          "outcome_status": "disputed",
+          "location_name": "Near Glilot (Mossad/Unit 8200 HQ)",
+          "lat": 32.15,
+          "lon": 34.79,
+          "country_code": "IL",
+          "weapon_type": "fattah_1",
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "Ground-level impacts approximately 500m from Mossad/Unit 8200 HQ complex. Nature of impacts disputed.",
+          "target_type": "military",
+          "source_url": null,
+          "confidence": "confirmed",
+          "iranian_claim": "Fattah-1 hypersonic missile successfully penetrated Israeli defenses and struck Mossad headquarters complex directly",
+          "israeli_claim": "Fattah-1 was successfully intercepted; debris fell near the area; no damage to intelligence facilities",
+          "us_claim": null,
+          "bda": {
+            "source_type": "satellite_imagery",
+            "source_name": "Maxar / open-source analysts",
+            "source_url": null,
+            "assessment_date": "2024-10-03",
+            "assessment": "Satellite imagery showed impact craters approximately 500m from the Mossad/Unit 8200 complex at Glilot. Unclear whether impacts were from intercepted debris or intact warheads. No visible structural damage to the main complex.",
+            "damage_confirmed": true,
+            "impact_count": null
+          }
+        },
+        {
+          "event_type": "strike",
+          "location_name": "North Tel Aviv area",
+          "lat": 32.11,
+          "lon": 34.79,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 1,
+          "injuries": 4,
+          "damage_description": "Homes and restaurant damaged in north Tel Aviv area",
+          "target_type": "civilian",
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Nevatim Airbase (additional impacts)",
+          "lat": 31.208,
+          "lon": 35.012,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "Additional missile impacts at Nevatim from second salvo",
+          "target_type": "military",
+          "source_url": null,
+          "confidence": "probable"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Tel Nof Airbase (additional impacts)",
+          "lat": 31.839,
+          "lon": 34.818,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "Additional impacts at Tel Nof from second salvo",
+          "target_type": "military",
+          "source_url": null,
+          "confidence": "probable"
+        }
+      ]
+    }
+  ]
+}

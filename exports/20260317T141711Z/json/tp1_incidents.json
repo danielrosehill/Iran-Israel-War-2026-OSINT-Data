@@ -1,0 +1,522 @@
+{
+  "metadata": {
+    "operation": "tp1",
+    "operation_name": "Operation True Promise",
+    "operation_name_farsi": "عملیات وعده صادق",
+    "version": "1.0",
+    "incident_count": 2,
+    "date_range": {
+      "start": "2024-04-13",
+      "end": "2024-04-14"
+    },
+    "canonical_format": "json",
+    "data_quality": "partial — reconstructed from news reports, Wikipedia, and OSINT; wave boundaries approximate; weapon type attribution varies across sources",
+    "sources": [
+      "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel",
+      "https://www.aljazeera.com/news/2024/4/14/true-promise-why-and-how-did-iran-launch-a-historic-attack-on-israel",
+      "https://besacenter.org/operation-true-promise-irans-missile-attack-on-israel/",
+      "https://iranprimer.usip.org/blog/2024/apr/15/iran%E2%80%99s-unprecedented-attack-israel",
+      "https://www.iranwatch.org/our-publications/articles-reports/irans-missile-attack-against-israel"
+    ],
+    "countries_targeted": [
+      "IL"
+    ],
+    "aggregate_stats": {
+      "total_ballistic_missiles": 120,
+      "total_cruise_missiles": 30,
+      "total_drones": 170,
+      "total_munitions_estimate": 320,
+      "interception_rate_claimed": 0.99,
+      "total_killed": 0,
+      "total_wounded": 32,
+      "interceptor_systems": [
+        "Arrow-2",
+        "Arrow-3",
+        "Iron Dome",
+        "David's Sling",
+        "SM-3",
+        "Patriot"
+      ],
+      "trigger_event": "Israeli airstrike on Iranian consulate in Damascus (1 Apr 2024) killing IRGC Quds Force generals Mohammad Reza Zahedi and Mohammad Hadi Haji Rahimi",
+      "countries_with_casualties": {
+        "IL": "0 killed, 32 wounded (1 serious — 7-year-old Bedouin girl; 31 minor injuries/anxiety)"
+      },
+      "proxy_coordination": true,
+      "proxy_participants": [
+        "Hezbollah (Lebanon)",
+        "Islamic Resistance in Iraq",
+        "Ansar Allah (Houthis, Yemen)"
+      ],
+      "key_impacts": [
+        "Minor damage to Nevatim Airbase (remained operational)",
+        "Debris fell in Arad region and Golan Heights",
+        "7-year-old Bedouin girl seriously injured by missile debris"
+      ],
+      "historical_significance": "First direct Iranian military attack on Israeli territory; largest drone attack ever carried out by any country at the time"
+    }
+  },
+  "incidents": [
+    {
+      "operation": "tp1",
+      "wave_number": 1,
+      "wave_codename_farsi": null,
+      "wave_codename_english": "Drone/Cruise Missile Wave",
+      "description": "First wave of Shahed-136 loitering munitions and Paveh cruise missiles intended to saturate Israeli air defenses (Iron Dome, David's Sling) ahead of the ballistic missile wave. Drones launched several hours before ballistic missiles due to slower flight speed (~185 km/h for Shahed-136 vs minutes for ballistic missiles).",
+      "timing": {
+        "announced_utc": "2024-04-13T19:00:00Z",
+        "announcement_source": "IRGC",
+        "announcement_x_url": null,
+        "probable_launch_time": "2024-04-13T19:00:00Z",
+        "launch_time_israel": "2024-04-13T22:00:00+0300",
+        "launch_time_iran": "2024-04-13T22:30:00+0330",
+        "solar_phase_launch_site": 0,
+        "solar_phase_target": 0,
+        "conflict_day": 1,
+        "hours_since_last_incident": null,
+        "time_between_incidents_minutes": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "170 Shahed-136 loitering munitions and 30 Paveh cruise missiles",
+        "drones_used": true,
+        "ballistic_missiles_used": false,
+        "cruise_missiles_used": true,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": true,
+          "shahed_238_used": false,
+          "shahed_131_used": true,
+          "paveh_used": true,
+          "mohajer_6_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": null,
+          "bm_solid_fueled": null,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": null,
+          "bm_cluster_warhead": null
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Nevatim Airbase, sites in Negev desert and Israeli-occupied Golan Heights",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": true,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 30.89,
+          "lon": 34.78,
+          "generic_location": false
+        },
+        "critical_infrastructure": {
+          "targeted_airport": null,
+          "targeted_energy": null,
+          "targeted_port": null,
+          "targeted_government": null,
+          "targeted_industrial": null,
+          "targeted_telecom_data": null,
+          "targeted_diplomatic": null,
+          "targeted_research": null
+        },
+        "target_hit": false,
+        "target_locations": [
+          {
+            "name": "Nevatim / Negev",
+            "type": "israeli",
+            "hit": false
+          },
+          {
+            "name": "Northern Israel",
+            "type": "israeli",
+            "hit": false
+          }
+        ]
+      },
+      "attacking_force": [
+        {
+          "actor": "Iran",
+          "subunit": "IRGC Aerospace Force"
+        }
+      ],
+      "launch_site": {
+        "description": "Multiple sites across Iran; Shahed drones also launched from Iraq and Yemen by proxies",
+        "lat": 33.0,
+        "lon": 52.0,
+        "generic_location": false
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Iron Dome",
+          "David's Sling",
+          "Patriot PAC-3",
+          "Aegis BMD / SM-3"
+        ],
+        "intercepted_by": {
+          "israel": true,
+          "us": true,
+          "uk": true,
+          "jordan": true,
+          "other": [
+            "France"
+          ]
+        },
+        "estimated_intercept_count": 198,
+        "estimated_intercept_rate": 0.99,
+        "exoatmospheric_interception": false,
+        "endoatmospheric_interception": true,
+        "interception_report": "US CENTCOM reported destroying more than 80 one-way attack drones and at least 6 ballistic missiles. Jordan and UK RAF also intercepted drones over Jordanian airspace. France contributed to interception efforts."
+      },
+      "munitions": {
+        "estimated_munitions_count": 200,
+        "munitions_targeting_israel": 200,
+        "munitions_targeting_us_bases": 0,
+        "cumulative_total": 200
+      },
+      "impact": {
+        "damage": "Minimal — most munitions intercepted before reaching Israeli airspace",
+        "fatalities": 0,
+        "injuries": 0,
+        "civilian_casualties": 0,
+        "military_casualties": 0
+      },
+      "escalation": {
+        "new_country_targeted": true,
+        "new_weapon_first_use": false
+      },
+      "proxy": {
+        "involvement": true,
+        "description": "Coordinated with Hezbollah (Lebanon), Islamic Resistance in Iraq, and Ansar Allah (Houthis, Yemen). Drones and rockets also launched from Iraqi, Yemeni, and Lebanese territory."
+      },
+      "sources": {
+        "idf_statement": "IDF reported 170 drones, 30 cruise missiles, 120 ballistic missiles launched; 99% interception rate",
+        "urls": [
+          "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel",
+          "https://www.aljazeera.com/news/2024/4/14/true-promise-why-and-how-did-iran-launch-a-historic-attack-on-israel"
+        ]
+      },
+      "events": [
+        {
+          "event_type": "interception",
+          "location_name": "Over Jordanian airspace",
+          "lat": null,
+          "lon": null,
+          "country_code": "JO",
+          "weapon_type": "shahed_136",
+          "defense_system": null,
+          "interception_method": "air_to_air_missile",
+          "intercept_phase": "endoatmospheric",
+          "intercepting_force": "Jordan",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "Jordanian Air Force intercepted drones transiting Jordanian airspace",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "interception",
+          "location_name": "Over Jordanian airspace",
+          "lat": null,
+          "lon": null,
+          "country_code": "JO",
+          "weapon_type": "shahed_136",
+          "defense_system": null,
+          "interception_method": "air_to_air_missile",
+          "intercept_phase": "endoatmospheric",
+          "intercepting_force": "UK RAF",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "UK RAF Typhoons intercepted drones over Jordan",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "interception",
+          "location_name": "Over Iraq and eastern Jordan",
+          "lat": null,
+          "lon": null,
+          "country_code": null,
+          "weapon_type": "shahed_136",
+          "defense_system": null,
+          "interception_method": "air_to_air_missile",
+          "intercept_phase": "endoatmospheric",
+          "intercepting_force": "US",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "US CENTCOM reported destroying more than 80 one-way attack drones and at least 6 ballistic missiles",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "interception",
+          "location_name": "Over France-assigned sector",
+          "lat": null,
+          "lon": null,
+          "country_code": null,
+          "weapon_type": "shahed_136",
+          "defense_system": null,
+          "interception_method": "air_to_air_missile",
+          "intercept_phase": "endoatmospheric",
+          "intercepting_force": "France",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "France contributed to interception efforts",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        }
+      ]
+    },
+    {
+      "operation": "tp1",
+      "wave_number": 2,
+      "wave_codename_farsi": null,
+      "wave_codename_english": "Ballistic Missile Wave",
+      "description": "Second wave of 120 ballistic missiles (Emad, Ghadr, Kheibar Shekan, possibly Shahab-3B) timed to arrive after drone wave had engaged Israeli air defense systems. Ballistic missiles launched later but arrived within minutes due to much higher velocity. Several missiles struck Nevatim Airbase area causing minor damage.",
+      "timing": {
+        "announced_utc": null,
+        "announcement_source": null,
+        "announcement_x_url": null,
+        "probable_launch_time": "2024-04-13T23:00:00Z",
+        "launch_time_israel": "2024-04-14T02:00:00+0300",
+        "launch_time_iran": "2024-04-14T02:30:00+0330",
+        "solar_phase_launch_site": 0,
+        "solar_phase_target": 0,
+        "conflict_day": 1,
+        "hours_since_last_incident": 4.0,
+        "time_between_incidents_minutes": 240,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "120 ballistic missiles including Emad, Ghadr (Ghadr-S/H/F variants), Kheibar Shekan, possibly Shahab-3B",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": true,
+          "ghadr_used": true,
+          "sejjil_used": false,
+          "kheibar_shekan_used": true,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahab_3_used": true,
+          "paveh_used": false,
+          "mohajer_6_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": true,
+          "bm_marv_equipped": true,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Nevatim Airbase (primary), Ramon Airbase area, sites in Negev desert and Golan Heights",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": true,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 30.89,
+          "lon": 34.78,
+          "generic_location": false
+        },
+        "critical_infrastructure": {
+          "targeted_airport": null,
+          "targeted_energy": null,
+          "targeted_port": null,
+          "targeted_government": null,
+          "targeted_industrial": null,
+          "targeted_telecom_data": null,
+          "targeted_diplomatic": null,
+          "targeted_research": null
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Nevatim / Negev",
+            "type": "israeli",
+            "hit": true
+          },
+          {
+            "name": "Northern Israel",
+            "type": "israeli",
+            "hit": null
+          }
+        ]
+      },
+      "attacking_force": [
+        {
+          "actor": "Iran",
+          "subunit": "IRGC Aerospace Force"
+        }
+      ],
+      "launch_site": {
+        "description": "IRGC Aerospace Force launch sites in western and central Iran",
+        "lat": 33.5,
+        "lon": 50.0,
+        "generic_location": false
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "Aegis BMD / SM-3",
+          "Patriot PAC-3"
+        ],
+        "intercepted_by": {
+          "israel": true,
+          "us": true,
+          "uk": false,
+          "jordan": true,
+          "other": []
+        },
+        "estimated_intercept_count": 119,
+        "estimated_intercept_rate": 0.99,
+        "exoatmospheric_interception": true,
+        "endoatmospheric_interception": true,
+        "interception_report": "Arrow-2 and Arrow-3 intercepted ballistic missiles, with Arrow-3 performing exoatmospheric interceptions. SM-3 from US Navy destroyers was used in combat for the first time. A small number of ballistic missiles struck Nevatim Airbase causing minor damage; the base remained fully operational."
+      },
+      "munitions": {
+        "estimated_munitions_count": 120,
+        "munitions_targeting_israel": 120,
+        "munitions_targeting_us_bases": 0,
+        "cumulative_total": 320
+      },
+      "impact": {
+        "damage": "Minor damage to Nevatim Airbase (base remained operational); debris fell in Arad region",
+        "fatalities": 0,
+        "injuries": 32,
+        "civilian_casualties": 32,
+        "military_casualties": 0
+      },
+      "escalation": {
+        "new_country_targeted": false,
+        "new_weapon_first_use": false
+      },
+      "proxy": {
+        "involvement": false,
+        "description": "Ballistic missile wave launched directly by IRGC Aerospace Force from Iranian territory"
+      },
+      "sources": {
+        "idf_statement": "99% of incoming weapons intercepted; minor damage to Nevatim Airbase",
+        "urls": [
+          "https://en.wikipedia.org/wiki/April_2024_Iranian_strikes_on_Israel",
+          "https://besacenter.org/operation-true-promise-irans-missile-attack-on-israel/",
+          "https://www.iranwatch.org/our-publications/articles-reports/irans-missile-attack-against-israel"
+        ]
+      },
+      "events": [
+        {
+          "event_type": "interception",
+          "location_name": "Over Israeli airspace (exoatmospheric)",
+          "lat": null,
+          "lon": null,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": "Arrow-3",
+          "interception_method": "surface_to_air_missile",
+          "intercept_phase": "exoatmospheric",
+          "intercepting_force": "Israel",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "Arrow-3 performed first confirmed exoatmospheric combat interceptions",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "interception",
+          "location_name": "Eastern Mediterranean / Jordan",
+          "lat": null,
+          "lon": null,
+          "country_code": null,
+          "weapon_type": null,
+          "defense_system": "Aegis BMD / SM-3",
+          "interception_method": "surface_to_air_missile",
+          "intercept_phase": "exoatmospheric",
+          "intercepting_force": "US",
+          "fatalities": null,
+          "injuries": null,
+          "damage_description": "SM-3 from US Navy destroyers used in combat for the first time against ballistic missiles",
+          "target_type": null,
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Nevatim Airbase",
+          "lat": 31.208,
+          "lon": 35.012,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 0,
+          "damage_description": "Minor damage to Nevatim Airbase; base remained fully operational",
+          "target_type": "military",
+          "source_url": null,
+          "confidence": "confirmed"
+        },
+        {
+          "event_type": "strike",
+          "location_name": "Arad region (debris)",
+          "lat": 31.26,
+          "lon": 35.21,
+          "country_code": "IL",
+          "weapon_type": null,
+          "defense_system": null,
+          "intercept_phase": null,
+          "intercepting_force": null,
+          "fatalities": 0,
+          "injuries": 1,
+          "damage_description": "Missile debris fell in Arad region; 7-year-old Bedouin girl seriously injured by debris",
+          "target_type": "civilian",
+          "source_url": null,
+          "confidence": "confirmed"
+        }
+      ]
+    }
+  ]
+}

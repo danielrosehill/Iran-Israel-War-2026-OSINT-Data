@@ -4399,6 +4399,439 @@
         "layer": "launch_site",
         "generic_location": true
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 64,
+        "wave_number": 64,
+        "wave_id": "tp4_w64",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T01:37:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Ballistic missiles targeting Israel. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 63,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 65,
+        "wave_number": 65,
+        "wave_id": "tp4_w65",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T02:57:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Ballistic missiles targeting Israel. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL",
+          "PS"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 64,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 66,
+        "wave_number": 66,
+        "wave_id": "tp4_w66",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T04:37:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Ballistic missiles targeting Israel. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 65,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4,
+          33.3
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 67,
+        "wave_number": 67,
+        "wave_id": "tp4_w67",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T08:00:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Hezbollah rockets targeting northern Israel. Multiple rockets fired.",
+        "drones_used": false,
+        "ballistic_missiles_used": false,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 6,
+        "launch_site_description": "Southern Lebanon",
+        "attacking_force_actor": "Hezbollah",
+        "attacking_force_branch": "hezbollah",
+        "attacking_force_actors": [
+          "Hezbollah"
+        ],
+        "actor_salvo_number": 2,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 68,
+        "wave_number": 68,
+        "wave_id": "tp4_w68",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T11:00:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Ballistic missiles targeting Israel. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 2,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 66,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 69,
+        "wave_number": 69,
+        "wave_id": "tp4_w69",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T13:39:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Ballistic missiles targeting Israel. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 67,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 70,
+        "wave_number": 70,
+        "wave_id": "tp4_w70",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T14:30:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "Ballistic missiles targeting Israel. Small number launched.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC missile launch sites in western Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 68,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 71,
+        "wave_number": 71,
+        "wave_id": "tp4_w71",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T03:00:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "At least 5 drones and 2 Katyusha rockets targeting US Embassy Baghdad.",
+        "drones_used": true,
+        "ballistic_missiles_used": false,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": 7,
+        "munitions_targeting_israel": 0,
+        "munitions_targeting_us_bases": 7,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": false,
+        "us_bases_targeted": true,
+        "landing_countries": [
+          "IQ"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": null,
+        "launch_site_description": "Iraqi militia positions, likely southern Baghdad or Anbar Province",
+        "attacking_force_actor": "Islamic Resistance in Iraq",
+        "attacking_force_branch": "iraqi_militias",
+        "attacking_force_actors": [
+          "Islamic Resistance in Iraq"
+        ],
+        "actor_salvo_number": 1,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          28.0
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 72,
+        "wave_number": 72,
+        "wave_id": "tp4_w72",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T05:00:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 18,
+        "payload": "10 ballistic missiles and 45+ drones targeting UAE. Shahed-136, Shahed-107, and Shahed-238 identified.",
+        "drones_used": true,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": 55,
+        "munitions_targeting_israel": 0,
+        "munitions_targeting_us_bases": 0,
+        "interception_rate": 0.9,
+        "intercepted_count": 55,
+        "israel_targeted": false,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "AE"
+        ],
+        "casualties_killed": 1,
+        "casualties_wounded": 0,
+        "launch_site_description": "IRGC launch sites in southern Iran",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": "irgc",
+        "attacking_force_actors": [
+          "Iran"
+        ],
+        "actor_salvo_number": 69,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "launch_site",
+        "generic_location": true
+      }
     }
   ]
 }
