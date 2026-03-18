@@ -122,7 +122,8 @@
         "target_coordinates": {
           "lat": 31.07,
           "lon": 34.79,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -164,7 +165,14 @@
         "description": "Multiple sites in western Iran including Kermanshah and Tabriz regions",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -302,7 +310,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.77,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -333,7 +342,14 @@
         "description": "Western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -482,7 +498,8 @@
         "target_coordinates": {
           "lat": 32.58,
           "lon": 35.09,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -535,7 +552,14 @@
         "description": "Western and southwestern Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -668,7 +692,8 @@
         "target_coordinates": {
           "lat": 31.66,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -704,7 +729,14 @@
         "description": "Western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -854,7 +886,8 @@
         "target_coordinates": {
           "lat": 29.24,
           "lon": 47.97,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -886,7 +919,14 @@
         "description": "Western Iran, IRGC naval positions",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -1013,7 +1053,8 @@
         "target_coordinates": {
           "lat": 32.445,
           "lon": 34.885,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -1049,7 +1090,14 @@
         "description": "Western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -1206,7 +1254,8 @@
         "target_coordinates": {
           "lat": 29.35,
           "lon": 47.52,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -1250,7 +1299,14 @@
         "description": "Western Iran, IRGC naval positions",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -1401,7 +1457,9 @@
         "us_naval_vessels": [],
         "target_coordinates": {
           "lat": null,
-          "lon": null
+          "lon": null,
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -1426,7 +1484,14 @@
         "description": "Western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -1582,7 +1647,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.77,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -1613,7 +1679,14 @@
         "description": "Western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -1777,7 +1850,8 @@
         "target_coordinates": {
           "lat": 32.09,
           "lon": 34.78,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -1827,7 +1901,8 @@
         "description": "Central Iran",
         "lat": 33.5,
         "lon": 52.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -1991,7 +2066,8 @@
         "target_coordinates": {
           "lat": 31.9875,
           "lon": 35.07,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -2047,7 +2123,14 @@
         "description": "Western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -2218,7 +2301,8 @@
         "target_coordinates": {
           "lat": 28.93,
           "lon": 48.1,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -2260,7 +2344,14 @@
         "description": "IRGC naval positions, western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -2420,7 +2511,8 @@
         "target_coordinates": {
           "lat": 28.93,
           "lon": 48.1,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -2462,7 +2554,8 @@
         "description": "IRGC positions",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -2628,7 +2721,8 @@
         "target_coordinates": {
           "lat": 25.92,
           "lon": 50.59,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -2664,7 +2758,8 @@
         "description": "IRGC naval positions",
         "lat": 26.5,
         "lon": 53.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -2811,7 +2906,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.77,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -2858,7 +2954,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -2991,7 +3088,8 @@
         "target_coordinates": {
           "lat": 32.46,
           "lon": 35.135,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -3031,7 +3129,14 @@
         "description": "Western Iran, IRGC ground force positions",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -3158,7 +3263,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.77,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -3193,7 +3299,14 @@
         "description": "Central/western Iran",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": null,
@@ -3359,7 +3472,8 @@
         "target_coordinates": {
           "lat": 32.01,
           "lon": 34.87,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -3405,7 +3519,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -3558,7 +3673,8 @@
         "target_coordinates": {
           "lat": 31.925,
           "lon": 34.995,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -3616,7 +3732,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -3757,7 +3874,8 @@
         "target_coordinates": {
           "lat": 32.0853,
           "lon": 34.7818,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -3792,7 +3910,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -3935,7 +4054,8 @@
         "target_coordinates": {
           "lat": 32.0853,
           "lon": 34.7818,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -3970,7 +4090,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -4115,7 +4236,8 @@
         "target_coordinates": {
           "lat": 32.445,
           "lon": 34.885,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -4167,7 +4289,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -4341,7 +4464,8 @@
         "target_coordinates": {
           "lat": 31.25,
           "lon": 34.79,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -4400,7 +4524,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -4548,7 +4673,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.77,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -4583,7 +4709,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -4732,7 +4859,8 @@
         "target_coordinates": {
           "lat": 32.85,
           "lon": 35.5,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -4779,7 +4907,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -4937,7 +5066,8 @@
         "target_coordinates": {
           "lat": 32.85,
           "lon": 35.5,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -4989,7 +5119,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -5142,7 +5273,8 @@
         "target_coordinates": {
           "lat": 32.82,
           "lon": 35.0,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -5183,7 +5315,8 @@
         "description": null,
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -5339,7 +5472,8 @@
         "target_coordinates": {
           "lat": 31.66,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -5390,7 +5524,8 @@
         "description": "Iran — IRGC Aerospace Force",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -5523,7 +5658,8 @@
         "target_coordinates": {
           "lat": 31.66,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -5563,7 +5699,8 @@
         "description": "Iran — IRGC Aerospace Force",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -5694,7 +5831,8 @@
         "target_coordinates": {
           "lat": 32.33,
           "lon": 34.86,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -5725,7 +5863,8 @@
         "description": "Iran — IRGC",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -5875,7 +6014,8 @@
         "target_coordinates": {
           "lat": 32.02,
           "lon": 34.75,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -5926,7 +6066,8 @@
         "description": "Iran — IRGC Aerospace Force and IRGC Navy",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -6062,7 +6203,8 @@
         "target_coordinates": {
           "lat": 32.4,
           "lon": 34.85,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -6103,7 +6245,8 @@
         "description": "Iran — IRGC Aerospace Force",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -6247,7 +6390,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.77,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -6284,7 +6428,8 @@
         "description": "Iran — IRGC Aerospace Force",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -6416,7 +6561,8 @@
         "target_coordinates": {
           "lat": 31.93,
           "lon": 34.87,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -6441,7 +6587,8 @@
         "description": "Southern Lebanon",
         "lat": 33.4,
         "lon": 35.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -6566,7 +6713,8 @@
         "target_coordinates": {
           "lat": 32.03,
           "lon": 34.89,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -6597,7 +6745,14 @@
         "description": "Khorramabad (Imam Ali) Missile Base (approximate OSINT location)",
         "lat": 33.5525,
         "lon": 48.2142,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Khorramabad Airport",
+          "category": "airbase",
+          "distance_km": 14.4
+        }
       },
       "interception": {
         "intercepted": null,
@@ -6723,7 +6878,8 @@
         "target_coordinates": {
           "lat": 25.12,
           "lon": 51.31,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -6755,7 +6911,14 @@
         "description": "Dezful Missile Base (approximate OSINT location)",
         "lat": 32.6131,
         "lon": 48.3284,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Munition Depot",
+          "category": "underground",
+          "distance_km": 8.7
+        }
       },
       "interception": {
         "intercepted": true,
@@ -6883,7 +7046,8 @@
         "target_coordinates": {
           "lat": 31.77,
           "lon": 35.21,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -6919,7 +7083,14 @@
         "description": "Kermanshah Missile Base (approximate OSINT location)",
         "lat": 34.435,
         "lon": 47.189,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 9.7
+        }
       },
       "interception": {
         "intercepted": null,
@@ -7041,7 +7212,8 @@
         "target_coordinates": {
           "lat": 32.79,
           "lon": 35.0,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -7072,7 +7244,14 @@
         "description": "Dezful Missile Base (approximate OSINT location)",
         "lat": 32.6131,
         "lon": 48.3284,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Munition Depot",
+          "category": "underground",
+          "distance_km": 8.7
+        }
       },
       "interception": {
         "intercepted": null,
@@ -7191,7 +7370,8 @@
         "target_coordinates": {
           "lat": 31.75,
           "lon": 34.99,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -7222,7 +7402,14 @@
         "description": "Khorramabad (Imam Ali) Missile Base (approximate OSINT location)",
         "lat": 33.5525,
         "lon": 48.2142,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Khorramabad Airport",
+          "category": "airbase",
+          "distance_km": 14.4
+        }
       },
       "interception": {
         "intercepted": null,
@@ -7343,7 +7530,8 @@
         "target_coordinates": {
           "lat": 31.95,
           "lon": 35.0,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -7384,7 +7572,8 @@
         "description": "Kangavar Missile Base (approximate OSINT location)",
         "lat": 34.4419,
         "lon": 47.8735,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint"
       },
       "interception": {
         "intercepted": true,
@@ -7505,7 +7694,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -7546,7 +7736,14 @@
         "description": "Panj Pelleh Underground Base (approximate OSINT location)",
         "lat": 34.3583,
         "lon": 47.2356,
-        "generic_location": false
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.2
+        }
       },
       "interception": {
         "intercepted": true,
@@ -7690,7 +7887,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -7745,7 +7943,8 @@
         "description": "Western Iran (multiple launch sites)",
         "lat": 33.5,
         "lon": 47.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -7941,7 +8140,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -7978,7 +8178,8 @@
         "description": "Multiple IRGC sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -8131,7 +8332,8 @@
         "target_coordinates": {
           "lat": 32.81,
           "lon": 35.0,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -8190,7 +8392,14 @@
         "description": "Multiple IRGC sites in western Iran (Kermanshah region)",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -8339,7 +8548,8 @@
         "target_coordinates": {
           "lat": 32.81,
           "lon": 35.0,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -8409,7 +8619,14 @@
         "description": "Multiple IRGC sites in western Iran (Kermanshah region); Hezbollah from southern Lebanon",
         "lat": 34.31,
         "lon": 47.07,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": {
+          "name": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+          "category": "airbase",
+          "distance_km": 8.6
+        }
       },
       "interception": {
         "intercepted": true,
@@ -8561,7 +8778,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -8614,7 +8832,8 @@
         "description": "Multiple IRGC sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -8757,7 +8976,8 @@
         "target_coordinates": {
           "lat": 31.25,
           "lon": 34.79,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -8799,7 +9019,8 @@
         "description": "Multiple IRGC sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -8935,7 +9156,8 @@
         "target_coordinates": {
           "lat": 29.56,
           "lon": 34.95,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -9000,7 +9222,8 @@
         "description": "Multiple IRGC sites in western Iran; Hezbollah from southern Lebanon",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -9153,7 +9376,8 @@
         "target_coordinates": {
           "lat": 24.25,
           "lon": 54.55,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -9194,7 +9418,8 @@
         "description": "IRGC Navy positions in southern/western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -9354,7 +9579,8 @@
         "target_coordinates": {
           "lat": 24.25,
           "lon": 54.55,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -9405,7 +9631,8 @@
         "description": "IRGC Aerospace Force positions in Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -9545,7 +9772,8 @@
         "target_coordinates": {
           "lat": 24.06,
           "lon": 47.58,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -9576,7 +9804,8 @@
         "description": "IRGC missile sites in western/central Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -9727,7 +9956,8 @@
         "target_coordinates": {
           "lat": 32.09,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -9773,7 +10003,8 @@
         "description": "IRGC sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -9916,7 +10147,8 @@
         "target_coordinates": {
           "lat": 24.25,
           "lon": 54.55,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -9957,7 +10189,8 @@
         "description": "IRGC missile and drone launch sites in Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": null,
@@ -10095,7 +10328,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -10136,7 +10370,8 @@
         "description": "IRGC missile launch sites in Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -10282,7 +10517,8 @@
         "target_coordinates": {
           "lat": 31.5,
           "lon": 34.8,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -10313,7 +10549,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -10453,7 +10690,8 @@
         "target_coordinates": {
           "lat": 31.25,
           "lon": 34.79,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -10484,7 +10722,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -10624,7 +10863,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -10655,7 +10895,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -10797,7 +11038,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -10843,7 +11085,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -10986,7 +11229,8 @@
         "target_coordinates": {
           "lat": 32.07,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -11022,7 +11266,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -11165,7 +11410,8 @@
         "target_coordinates": {
           "lat": 31.78,
           "lon": 35.22,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -11226,7 +11472,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -11384,7 +11631,8 @@
         "target_coordinates": {
           "lat": 25.13,
           "lon": 56.33,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": false,
@@ -11445,7 +11693,8 @@
         "description": "IRGC missile and drone launch sites in Iran",
         "lat": 33.0,
         "lon": 50.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -11596,7 +11845,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -11632,7 +11882,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -11772,7 +12023,8 @@
         "target_coordinates": {
           "lat": 25.25,
           "lon": 55.36,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -11803,7 +12055,8 @@
         "description": "IRGC drone launch sites in southern Iran",
         "lat": 27.0,
         "lon": 54.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": false,
@@ -11943,7 +12196,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -11968,7 +12222,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -12109,7 +12364,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -12134,7 +12390,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -12274,7 +12531,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -12299,7 +12557,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -12440,7 +12699,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -12465,7 +12725,8 @@
         "description": "Southern Lebanon",
         "lat": 33.3,
         "lon": 35.4,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -12604,7 +12865,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -12629,7 +12891,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -12771,7 +13034,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -12796,7 +13060,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -12936,7 +13201,8 @@
         "target_coordinates": {
           "lat": 32.0,
           "lon": 34.9,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": null,
@@ -12961,7 +13227,8 @@
         "description": "IRGC missile launch sites in western Iran",
         "lat": 33.5,
         "lon": 48.5,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -13106,7 +13373,8 @@
         "target_coordinates": {
           "lat": 33.3,
           "lon": 44.4,
-          "generic_location": false
+          "geolocation_approximate": false,
+          "geolocation_source": "osint"
         },
         "critical_infrastructure": {
           "targeted_airport": false,
@@ -13137,7 +13405,8 @@
         "description": "Iraqi militia positions, likely southern Baghdad or Anbar Province",
         "lat": 33.0,
         "lon": 44.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -13276,7 +13545,8 @@
         "target_coordinates": {
           "lat": 25.1,
           "lon": 56.3,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -13317,7 +13587,8 @@
         "description": "IRGC launch sites in southern Iran",
         "lat": 28.0,
         "lon": 55.0,
-        "generic_location": true
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated"
       },
       "interception": {
         "intercepted": true,
@@ -13457,7 +13728,8 @@
         "target_coordinates": {
           "lat": 32.08,
           "lon": 34.81,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": false,
@@ -13475,9 +13747,12 @@
         "branch": "Aerospace"
       },
       "launch_site": {
-        "country": "Iran",
         "description": "Western Iran launch sites",
-        "coordinates": null
+        "lat": null,
+        "lon": null,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
       },
       "interception": {
         "intercepted": true,
@@ -13596,7 +13871,8 @@
         "target_coordinates": {
           "lat": 32.08,
           "lon": 34.78,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": false,
@@ -13614,9 +13890,12 @@
         "branch": "Aerospace"
       },
       "launch_site": {
-        "country": "Iran",
         "description": "Multiple launch sites across Iran",
-        "coordinates": null
+        "lat": null,
+        "lon": null,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
       },
       "interception": {
         "intercepted": true,
@@ -13734,7 +14013,8 @@
         "target_coordinates": {
           "lat": 25.41,
           "lon": 51.49,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -13752,9 +14032,12 @@
         "branch": "Aerospace"
       },
       "launch_site": {
-        "country": "Iran",
         "description": "Southern Iran launch sites",
-        "coordinates": null
+        "lat": null,
+        "lon": null,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
       },
       "interception": {
         "intercepted": true,
@@ -13866,7 +14149,8 @@
         "target_coordinates": {
           "lat": 32.09,
           "lon": 34.88,
-          "generic_location": true
+          "geolocation_approximate": true,
+          "geolocation_source": "estimated"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -13884,9 +14168,12 @@
         "branch": "Aerospace"
       },
       "launch_site": {
-        "country": "Iran",
         "description": "Western Iran launch sites",
-        "coordinates": null
+        "lat": null,
+        "lon": null,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
       },
       "interception": {
         "intercepted": true,

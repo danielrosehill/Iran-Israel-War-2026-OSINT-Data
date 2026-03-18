@@ -6971,10 +6971,10 @@
         "coordinated_with_salvo": null,
         "layer": "target",
         "target_index": 0,
-        "target_name": true,
+        "target_name": null,
         "target_type": "legacy",
         "target_hit": true,
-        "generic_location": true
+        "generic_location": null
       }
     },
     {

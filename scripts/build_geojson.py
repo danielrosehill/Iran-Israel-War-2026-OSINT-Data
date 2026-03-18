@@ -433,7 +433,12 @@ def build_features(incidents, israeli_ref, us_ref):
         launch_props = {
             **props,
             "layer": "launch_site",
-            "generic_location": ls.get('generic_location'),
+            "generic_location": ls.get('generic_location', ls.get('geolocation_approximate')),
+            "geolocation_approximate": ls.get('geolocation_approximate', ls.get('generic_location')),
+            "geolocation_source": ls.get('geolocation_source'),
+            "geolocation_corroborated_by": ls.get('geolocation_corroborated_by'),
+            "nearest_known_site": (ls.get('nearest_known_site') or {}).get('name'),
+            "nearest_known_site_distance_km": (ls.get('nearest_known_site') or {}).get('distance_km'),
         }
         launch_features.append({
             "type": "Feature",

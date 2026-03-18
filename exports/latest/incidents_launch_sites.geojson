@@ -46,7 +46,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -94,7 +99,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -144,7 +154,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -194,7 +209,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -242,7 +262,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -290,7 +315,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -338,7 +368,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -386,7 +421,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -434,7 +474,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -482,7 +527,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -530,7 +580,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -578,7 +633,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -626,7 +686,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -674,7 +739,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -722,7 +792,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -770,7 +845,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -818,7 +898,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -866,7 +951,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -914,7 +1004,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -962,7 +1057,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1010,7 +1110,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1058,7 +1163,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1106,7 +1216,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1154,7 +1269,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1202,7 +1322,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1250,7 +1375,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": null,
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1304,7 +1434,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1353,7 +1488,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1407,7 +1547,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1457,7 +1602,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1507,7 +1657,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1555,7 +1710,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1608,7 +1768,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1658,7 +1823,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1710,7 +1880,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1760,7 +1935,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1817,7 +1997,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1870,7 +2055,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -1919,7 +2109,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -1969,7 +2164,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2022,7 +2222,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2077,7 +2282,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -2126,7 +2336,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -2176,7 +2391,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2228,7 +2448,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2277,7 +2502,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2326,7 +2556,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2377,7 +2612,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2431,7 +2671,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2480,7 +2725,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2530,7 +2780,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2581,7 +2836,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2631,7 +2891,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2681,7 +2946,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2730,7 +3000,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2778,7 +3053,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2828,7 +3108,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2876,7 +3161,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2925,7 +3215,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -2973,7 +3268,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3021,7 +3321,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Khorramabad Airport",
+        "nearest_known_site_distance_km": 14.4
       }
     },
     {
@@ -3069,7 +3374,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Munition Depot",
+        "nearest_known_site_distance_km": 8.7
       }
     },
     {
@@ -3117,7 +3427,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 9.7
       }
     },
     {
@@ -3165,7 +3480,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Munition Depot",
+        "nearest_known_site_distance_km": 8.7
       }
     },
     {
@@ -3213,7 +3533,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Khorramabad Airport",
+        "nearest_known_site_distance_km": 14.4
       }
     },
     {
@@ -3261,7 +3586,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3309,7 +3639,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": false
+        "generic_location": false,
+        "geolocation_approximate": false,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.2
       }
     },
     {
@@ -3363,7 +3698,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3413,7 +3753,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3464,7 +3809,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -3517,7 +3867,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "osint",
+        "geolocation_corroborated_by": "geoconfirmed.org",
+        "nearest_known_site": "Shahid Ashrafi Esfahani Airport (Kermanshah)",
+        "nearest_known_site_distance_km": 8.6
       }
     },
     {
@@ -3567,7 +3922,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3616,7 +3976,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3665,7 +4030,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3715,7 +4085,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3766,7 +4141,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3814,7 +4194,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3864,7 +4249,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3913,7 +4303,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -3961,7 +4356,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4009,7 +4409,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4057,7 +4462,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4105,7 +4515,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4153,7 +4568,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4201,7 +4621,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4249,7 +4674,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4300,7 +4730,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4349,7 +4784,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4397,7 +4837,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4445,7 +4890,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4494,7 +4944,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4542,7 +4997,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4590,7 +5050,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4638,7 +5103,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4686,7 +5156,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4734,7 +5209,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4782,7 +5262,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4830,7 +5315,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": true
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4870,7 +5360,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": null
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4913,7 +5408,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": null
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4957,7 +5457,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": null
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     },
     {
@@ -4997,7 +5502,12 @@
         "coordinated_attack": false,
         "coordinated_with_salvo": null,
         "layer": "launch_site",
-        "generic_location": null
+        "generic_location": true,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "geolocation_corroborated_by": null,
+        "nearest_known_site": null,
+        "nearest_known_site_distance_km": null
       }
     }
   ]
