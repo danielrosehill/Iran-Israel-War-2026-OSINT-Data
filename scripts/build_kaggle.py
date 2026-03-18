@@ -40,12 +40,14 @@ def flatten_incident(op, wave):
     iloc = tgt.get('israeli_locations', {})
     ls = wave.get('launch_site', {})
     interc = wave.get('interception', {})
-    iby = interc.get('intercepted_by', {})
+    iby_raw = interc.get('intercepted_by', {})
+    iby = iby_raw if isinstance(iby_raw, dict) else {}
     mun = wave.get('munitions', {})
     imp = wave.get('impact', {})
     esc = wave.get('escalation', {})
     prx = wave.get('proxy', {})
-    src = wave.get('sources', {})
+    src_raw = wave.get('sources', {})
+    src = src_raw if isinstance(src_raw, dict) else {}
     tc = tgt.get('target_coordinates', {}) or {}
 
     wave_uid = get_wave_uid(op, wave.get('wave_number', 0))
