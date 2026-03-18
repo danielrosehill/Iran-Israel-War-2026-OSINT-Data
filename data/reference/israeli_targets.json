@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Savidor Central / Tel Aviv HaShalom",
+    "type": "train_station",
+    "city": "Tel Aviv",
+    "lat": 32.0753,
+    "lon": 34.7922
+  },
+  {
+    "name": "Ramat Gan",
+    "type": "city",
+    "city": "Ramat Gan",
+    "lat": 32.0804,
+    "lon": 34.8131
+  }
+]

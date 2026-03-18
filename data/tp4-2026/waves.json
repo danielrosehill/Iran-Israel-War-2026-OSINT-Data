@@ -13739,7 +13739,19 @@
           "targeted_military_base": true,
           "targeted_civilian_area": true,
           "targeted_transport": true
-        }
+        },
+        "target_locations": [
+          {
+            "name": "Savidor Central / Tel Aviv HaShalom",
+            "type": "israeli",
+            "hit": true
+          },
+          {
+            "name": "Ramat Gan",
+            "type": "israeli",
+            "hit": true
+          }
+        ]
       },
       "attacking_force": {
         "actor": "Iran",
@@ -13748,8 +13760,8 @@
       },
       "launch_site": {
         "description": "Western Iran launch sites",
-        "lat": null,
-        "lon": null,
+        "lat": 33.49,
+        "lon": 48.35,
         "geolocation_approximate": true,
         "geolocation_source": "estimated",
         "country": "Iran"
@@ -13891,8 +13903,8 @@
       },
       "launch_site": {
         "description": "Multiple launch sites across Iran",
-        "lat": null,
-        "lon": null,
+        "lat": 32.65,
+        "lon": 51.68,
         "geolocation_approximate": true,
         "geolocation_source": "estimated",
         "country": "Iran"
@@ -14033,8 +14045,8 @@
       },
       "launch_site": {
         "description": "Southern Iran launch sites",
-        "lat": null,
-        "lon": null,
+        "lat": 29.62,
+        "lon": 52.53,
         "geolocation_approximate": true,
         "geolocation_source": "estimated",
         "country": "Iran"
@@ -14169,8 +14181,8 @@
       },
       "launch_site": {
         "description": "Western Iran launch sites",
-        "lat": null,
-        "lon": null,
+        "lat": 34.31,
+        "lon": 47.07,
         "geolocation_approximate": true,
         "geolocation_source": "estimated",
         "country": "Iran"

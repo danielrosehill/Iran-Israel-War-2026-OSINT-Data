@@ -5325,7 +5325,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35,
+          33.49
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 73,
@@ -5370,7 +5376,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.68,
+          32.65
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 74,
@@ -5418,7 +5430,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53,
+          29.62
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 75,
@@ -5467,7 +5485,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.07,
+          34.31
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 76,

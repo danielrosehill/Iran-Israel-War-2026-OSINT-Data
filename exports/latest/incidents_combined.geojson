@@ -5325,7 +5325,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.35,
+          33.49
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 73,
@@ -5370,7 +5376,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.68,
+          32.65
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 74,
@@ -5418,7 +5430,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53,
+          29.62
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 75,
@@ -5467,7 +5485,13 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.07,
+          34.31
+        ]
+      },
       "properties": {
         "operation": "tp4",
         "sequence": 76,
@@ -18096,10 +18120,60 @@
         "coordinated_with_salvo": null,
         "layer": "target",
         "target_index": 0,
-        "target_name": "Tel Aviv (general)",
+        "target_name": "Savidor Central / Tel Aviv HaShalom",
         "target_type": "israeli",
-        "target_hit": null,
-        "generic_location": "Tel Aviv (general)"
+        "target_hit": true,
+        "generic_location": "Savidor Central / Tel Aviv HaShalom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81,
+          32.08
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 73,
+        "wave_number": 73,
+        "wave_id": "tp4_w73",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-17T22:00:00Z",
+        "probable_launch_time": null,
+        "conflict_day": 19,
+        "payload": "100+ missiles including Khorramshahr-4 (multi-warhead), Qadr, Emad, Kheibar Shekan. Cluster warheads confirmed.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 2,
+        "casualties_wounded": 3,
+        "launch_site_description": "Western Iran launch sites",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": null,
+        "attacking_force_actors": [],
+        "actor_salvo_number": 70,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 1,
+        "target_name": "Ramat Gan",
+        "target_type": "israeli",
+        "target_hit": true,
+        "generic_location": "Ramat Gan"
       }
     },
     {
