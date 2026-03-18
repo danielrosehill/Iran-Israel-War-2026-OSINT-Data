@@ -39,7 +39,9 @@
       "historical_significance": "First Iranian operation to directly target US military bases and naval vessels alongside Israel; first confirmed combat use of cluster munition warheads on ballistic missiles; expanded theater to 12 countries across Middle East",
       "total_drones_estimate": "~3,560",
       "total_ballistic_missiles_estimate": "~2,410"
-    }
+    },
+    "total_incidents": 76,
+    "last_updated": "2026-03-18T17:00:00Z"
   },
   "incidents": [
     {
@@ -13378,6 +13380,554 @@
           "url": null
         }
       }
+    },
+    {
+      "sequence": 73,
+      "wave_number": 73,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Seventy-third wave of Operation True Promise 4. Day 19 (March 18). IRGC 61st announced wave. Massive missile barrage targeting central Israel using Khorramshahr-4 multi-warhead and Qadr missiles. Cluster warheads deployed. Two killed in Ramat Gan (elderly couple). Shrapnel damage at Tel Aviv train station. Partial blackout reported in Tel Aviv.",
+      "timing": {
+        "announced_utc": "2026-03-17T22:00:00Z",
+        "announced_utc_note": "Overnight Tuesday into Wednesday. IRGC 61st wave announcement. Cluster missiles hit central Israel. 2 killed in Ramat Gan.",
+        "announcement_source": "IRGC statement / IDF / OSINT",
+        "announcement_x_url": null,
+        "probable_launch_time": null,
+        "launch_time_israel": null,
+        "launch_time_iran": null,
+        "solar_phase_launch_site": "night",
+        "solar_phase_target": "night",
+        "conflict_day": 19,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "100+ missiles including Khorramshahr-4 (multi-warhead), Qadr, Emad, Kheibar Shekan. Cluster warheads confirmed.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": true,
+          "ghadr_used": true,
+          "sejjil_used": null,
+          "kheibar_shekan_used": true,
+          "fattah_used": null,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": true
+        },
+        "categories": {
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": true,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": true
+        },
+        "cluster_warhead": {
+          "confirmed": true,
+          "carrier_missile": "Khorramshahr-4",
+          "submunition_count": null,
+          "submunition_explosive_kg": null,
+          "dispersal_radius_km": null,
+          "dispersal_altitude_ft": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Central Israel. Ramat Gan (2 killed). Tel Aviv train station (shrapnel damage). Partial blackout in Tel Aviv. Over 100 military and security targets claimed by IRGC.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.08,
+          "lon": 34.81,
+          "generic_location": true
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": true,
+          "targeted_civilian_area": true,
+          "targeted_transport": true
+        }
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "country": "Iran",
+        "description": "Western Iran launch sites",
+        "coordinates": null
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-3",
+          "David's Sling"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": "Israel"
+      },
+      "munitions": {
+        "total_estimated": 100,
+        "ballistic_missiles": 100,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 2,
+        "injuries": 3,
+        "damage": "Two killed in Ramat Gan (elderly couple in their 70s). 3 injured including 2 children. Shrapnel damage at Tel Aviv train station. Partial power outage in Tel Aviv. Homes and vehicles damaged."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel liveblog",
+        "Al Jazeera",
+        "IRGC statement",
+        "Sunday Guardian Live"
+      ],
+      "reactions": null,
+      "iranian_media_claims": "IRGC claimed 61st wave struck over 100 military and security targets in 'heart of occupied territories' without obstruction. Described as revenge for killing of Ali Larijani.",
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 74,
+      "wave_number": 74,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Seventy-fourth wave of Operation True Promise 4. Day 19 (March 18). IRGC 62nd announced wave. Ballistic missiles targeting four Israeli cities (Akko, Haifa, Tel Aviv, Beer Sheva) and US bases (Al Dhafra, Ali Al Salem, Al-Azraq).",
+      "timing": {
+        "announced_utc": "2026-03-18T12:22:00Z",
+        "announced_utc_note": "12:22 UTC March 18. IRGC 62nd wave. Targeted Akko, Haifa, Tel Aviv, Beer Sheva plus US bases Al Dhafra, Ali Al Salem, Al-Azraq.",
+        "announcement_source": "IRGC statement / OSINT",
+        "announcement_x_url": null,
+        "probable_launch_time": null,
+        "launch_time_israel": null,
+        "launch_time_iran": null,
+        "solar_phase_launch_site": "day",
+        "solar_phase_target": "day",
+        "conflict_day": 19,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting 4 Israeli cities and 3 US/coalition bases.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": null,
+          "ghadr_used": null,
+          "sejjil_used": null,
+          "kheibar_shekan_used": null,
+          "fattah_used": null,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": null
+        },
+        "categories": {
+          "bm_liquid_fueled": null,
+          "bm_solid_fueled": null,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": null
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": true,
+        "targets": "Akko, Haifa, Tel Aviv, Beer Sheva (Israel). Al Dhafra (UAE), Ali Al Salem (Kuwait), Al-Azraq (Jordan).",
+        "landings_countries": [
+          "IL",
+          "AE",
+          "KW",
+          "JO"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": true,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": true,
+          "targeted_eilat": false
+        },
+        "us_bases": [
+          "Al Dhafra Air Base",
+          "Ali Al Salem Air Base",
+          "Muwaffaq Salti (Al-Azraq)"
+        ],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.08,
+          "lon": 34.78,
+          "generic_location": true
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": true,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        }
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "country": "Iran",
+        "description": "Multiple launch sites across Iran",
+        "coordinates": null
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-3",
+          "David's Sling",
+          "THAAD",
+          "Patriot"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": "Israel / US / Coalition"
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": null
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Pravda EN",
+        "IRGC statement"
+      ],
+      "reactions": null,
+      "iranian_media_claims": "IRGC claimed 62nd round destroyed targets in Akko, Haifa, Tel Aviv and Beer Sheva after disabling air defences.",
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 75,
+      "wave_number": 75,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Seventy-fifth wave of Operation True Promise 4. Day 19 (March 18). Missile and drone attacks on Gulf states. Qatar intercepted missile attack. Kuwait shot down drone at dawn. UAE intercepted missiles and drones (multiple explosions in Dubai). Saudi Arabia destroyed drone in Eastern Region. Bahrain also intercepted missiles and drones.",
+      "timing": {
+        "announced_utc": "2026-03-18T03:00:00Z",
+        "announced_utc_note": "Dawn March 18 Gulf time (~03:00 UTC). Multi-country attacks on Gulf states. Qatar, Kuwait, UAE, Saudi Arabia, Bahrain all reported interceptions.",
+        "announcement_source": "Gulf state MoDs / Al Jazeera / OSINT",
+        "announcement_x_url": null,
+        "probable_launch_time": null,
+        "launch_time_israel": null,
+        "launch_time_iran": null,
+        "solar_phase_launch_site": "night",
+        "solar_phase_target": "dawn",
+        "conflict_day": 19,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Missiles and drones targeting multiple Gulf states simultaneously.",
+        "drones_used": true,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": null,
+          "ghadr_used": null,
+          "sejjil_used": null,
+          "kheibar_shekan_used": null,
+          "fattah_used": null,
+          "shahed_136_used": null,
+          "shahed_238_used": null,
+          "shahed_131_used": null,
+          "shahed_107_used": null,
+          "shahed_129_used": null,
+          "mohajer_6_used": null,
+          "khorramshahr_4_used": null
+        },
+        "categories": {
+          "bm_liquid_fueled": null,
+          "bm_solid_fueled": null,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": null
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": false,
+        "us_bases_targeted": true,
+        "targets": "Qatar (missile intercepted). Kuwait (drone shot down at dawn). UAE (multiple explosions in Dubai, missiles and drones intercepted). Saudi Arabia (drone destroyed in Eastern Region). Bahrain (missiles and drones intercepted).",
+        "landings_countries": [
+          "QA",
+          "KW",
+          "AE",
+          "SA",
+          "BH"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [
+          "Al Udeid Air Base"
+        ],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 25.41,
+          "lon": 51.49,
+          "generic_location": true
+        },
+        "critical_infrastructure": {
+          "targeted_airport": true,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": true,
+          "targeted_civilian_area": false,
+          "targeted_transport": false
+        }
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "country": "Iran",
+        "description": "Southern Iran launch sites",
+        "coordinates": null
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Patriot",
+          "THAAD"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": "Qatar / Kuwait / UAE / Saudi Arabia / Bahrain / US"
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": null
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "Multiple explosions heard in Dubai. All Gulf states reported successful interceptions."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Al Jazeera",
+        "Qatar MoD",
+        "Kuwait National Guard",
+        "Saudi MoD"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 76,
+      "wave_number": 76,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Seventy-sixth wave of Operation True Promise 4. Day 19 (March 18). Additional missile strikes on central and northern Israel. Petah Tikva and Haifa/Krayot suburbs impacted. 3 private aircraft damaged at Ben Gurion Airport. 9 total Iranian missile attacks reported on Israel on this day.",
+      "timing": {
+        "announced_utc": "2026-03-18T15:00:00Z",
+        "announced_utc_note": "Afternoon/evening Israel time (~17:00 IST / 15:00 UTC). 9th attack on Israel for the day. Haifa/Krayot suburbs. Ben Gurion Airport aircraft damaged.",
+        "announcement_source": "IDF / Times of Israel / OSINT",
+        "announcement_x_url": null,
+        "probable_launch_time": null,
+        "launch_time_israel": null,
+        "launch_time_iran": null,
+        "solar_phase_launch_site": "day",
+        "solar_phase_target": "day",
+        "conflict_day": 19,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting central and northern Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": null,
+          "ghadr_used": null,
+          "sejjil_used": null,
+          "kheibar_shekan_used": null,
+          "fattah_used": null,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": null
+        },
+        "categories": {
+          "bm_liquid_fueled": null,
+          "bm_solid_fueled": null,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": null
+        },
+        "cluster_warhead": null
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Central and northern Israel. Petah Tikva area. Haifa/Krayot suburbs. 3 private aircraft damaged at Ben Gurion Airport.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": true,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.09,
+          "lon": 34.88,
+          "generic_location": true
+        },
+        "critical_infrastructure": {
+          "targeted_airport": true,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": true,
+          "targeted_civilian_area": true,
+          "targeted_transport": true
+        }
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "country": "Iran",
+        "description": "Western Iran launch sites",
+        "coordinates": null
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-3",
+          "David's Sling",
+          "Iron Dome"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": "Israel"
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "3 private aircraft damaged at Ben Gurion Airport. Homes damaged in Petah Tikva. Impact reported in Haifa/Krayot suburbs."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel",
+        "IDF",
+        "OSINT"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
     }
   ]
 }
