@@ -13143,6 +13143,106 @@
         "target_hit": null,
         "generic_location": "Haifa Naval Base"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77,
+          32.07
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 77,
+        "wave_number": 77,
+        "wave_id": "tp4_w77",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-18T06:00:00Z",
+        "probable_launch_time": "2026-03-18T05:45:00Z",
+        "conflict_day": 19,
+        "payload": "Ballistic missiles targeting central and northern Israel. Cluster munition debris confirmed (Holon).",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 3,
+        "launch_site_description": "Western Iran launch sites",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": null,
+        "attacking_force_actors": [],
+        "actor_salvo_number": 74,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 0,
+        "target_name": "Tel Aviv (general)",
+        "target_type": "israeli",
+        "target_hit": null,
+        "generic_location": "Tel Aviv (general)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          32.82
+        ]
+      },
+      "properties": {
+        "operation": "tp4",
+        "sequence": 77,
+        "wave_number": 77,
+        "wave_id": "tp4_w77",
+        "wave_codename_english": null,
+        "wave_codename_farsi": null,
+        "announced_utc": "2026-03-18T06:00:00Z",
+        "probable_launch_time": "2026-03-18T05:45:00Z",
+        "conflict_day": 19,
+        "payload": "Ballistic missiles targeting central and northern Israel. Cluster munition debris confirmed (Holon).",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "estimated_munitions_count": null,
+        "munitions_targeting_israel": null,
+        "munitions_targeting_us_bases": null,
+        "interception_rate": null,
+        "intercepted_count": null,
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "landing_countries": [
+          "IL"
+        ],
+        "casualties_killed": 0,
+        "casualties_wounded": 3,
+        "launch_site_description": "Western Iran launch sites",
+        "attacking_force_actor": "Iran",
+        "attacking_force_branch": null,
+        "attacking_force_actors": [],
+        "actor_salvo_number": 74,
+        "coordinated_attack": false,
+        "coordinated_with_salvo": null,
+        "layer": "target",
+        "target_index": 1,
+        "target_name": "Haifa Naval Base",
+        "target_type": "israeli",
+        "target_hit": null,
+        "generic_location": "Haifa Naval Base"
+      }
     }
   ]
 }

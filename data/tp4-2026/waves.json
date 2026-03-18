@@ -4,7 +4,7 @@
     "operation_name": "Operation True Promise 4",
     "operation_name_farsi": "عملیات وعده صادق ۴",
     "version": "2.1",
-    "incident_count": 72,
+    "incident_count": 77,
     "date_range": {
       "start": "2026-02-28",
       "end": "2026-03-17"
@@ -40,8 +40,8 @@
       "total_drones_estimate": "~3,560",
       "total_ballistic_missiles_estimate": "~2,410"
     },
-    "total_incidents": 76,
-    "last_updated": "2026-03-18T17:00:00Z"
+    "total_incidents": 77,
+    "last_updated": "2026-03-18T20:00:00Z"
   },
   "incidents": [
     {
@@ -14097,7 +14097,7 @@
       "wave_number": 76,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Seventy-sixth wave of Operation True Promise 4. Day 19 (March 18). Additional missile strikes on central and northern Israel. Petah Tikva and Haifa/Krayot suburbs impacted. 3 private aircraft damaged at Ben Gurion Airport. 9 total Iranian missile attacks reported on Israel on this day.",
+      "description": "Seventy-sixth wave of Operation True Promise 4. Day 19 (March 18). Missile strikes on central Israel including Ben Gurion Airport area. 3 private aircraft damaged at Ben Gurion Airport (one caught fire). Haifa/Krayot suburbs also impacted. IRGC claimed Khorramshahr-4 missiles with 1-ton warheads targeted the airport and nearby IAF 27th Squadron base.",
       "timing": {
         "announced_utc": "2026-03-18T15:00:00Z",
         "announced_utc_note": "Afternoon/evening Israel time (~17:00 IST / 15:00 UTC). 9th attack on Israel for the day. Haifa/Krayot suburbs. Ben Gurion Airport aircraft damaged.",
@@ -14144,7 +14144,7 @@
       "targets": {
         "israel_targeted": true,
         "us_bases_targeted": false,
-        "targets": "Central and northern Israel. Petah Tikva area. Haifa/Krayot suburbs. 3 private aircraft damaged at Ben Gurion Airport.",
+        "targets": "Central Israel. 3 private aircraft damaged at Ben Gurion Airport. Haifa/Krayot suburbs impacted. IRGC claimed IAF 27th Squadron base near airport also targeted.",
         "landings_countries": [
           "IL"
         ],
@@ -14159,10 +14159,10 @@
         "us_bases": [],
         "us_naval_vessels": [],
         "target_coordinates": {
-          "lat": 32.09,
-          "lon": 34.88,
-          "geolocation_approximate": true,
-          "geolocation_source": "estimated"
+          "lat": 32.0094,
+          "lon": 34.8828,
+          "geolocation_approximate": false,
+          "geolocation_source": "Ben Gurion International Airport (LLBG)"
         },
         "critical_infrastructure": {
           "targeted_airport": true,
@@ -14206,7 +14206,7 @@
       "impact": {
         "fatalities": 0,
         "injuries": 0,
-        "damage": "3 private aircraft damaged at Ben Gurion Airport. Homes damaged in Petah Tikva. Impact reported in Haifa/Krayot suburbs."
+        "damage": "3 private aircraft damaged at Ben Gurion Airport (one caught fire from fragments). Impact in Haifa/Krayot suburbs."
       },
       "escalation": {
         "new_weapon_type": false,
@@ -14221,6 +14221,149 @@
       "sources": [
         "Times of Israel",
         "IDF",
+        "OSINT"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 77,
+      "wave_number": 77,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Seventy-seventh wave of Operation True Promise 4. Day 19 (March 18). Morning missile attack on central and northern Israel (~08:00 IST / 06:00 UTC). Sirens sounded across central and northern regions. Shrapnel impact in Petah Tikva (man and two children injured) and Kiryat Bialik. Cars ignited in Holon after power line downed by Iranian cluster munition debris.",
+      "timing": {
+        "announced_utc": "2026-03-18T06:00:00Z",
+        "announced_utc_note": "Approximately 08:00 IST (06:00 UTC) March 18. Morning wave. Sirens in central and northern Israel. Shrapnel impacts in Petah Tikva and Kiryat Bialik.",
+        "announcement_source": "IDF / MDA / Jerusalem Post / OSINT",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-18T05:45:00Z",
+        "launch_time_israel": "~07:45 IST",
+        "launch_time_iran": "~09:15 IRST",
+        "solar_phase_launch_site": 5,
+        "solar_phase_target": 5,
+        "conflict_day": 19,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting central and northern Israel. Cluster munition debris confirmed (Holon).",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": null,
+          "ghadr_used": null,
+          "sejjil_used": null,
+          "kheibar_shekan_used": null,
+          "fattah_used": null,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": null
+        },
+        "categories": {
+          "bm_liquid_fueled": null,
+          "bm_solid_fueled": null,
+          "bm_marv_equipped": null,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": true
+        },
+        "cluster_warhead": {
+          "confirmed": true,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": "Cluster munition debris downed power line in Holon, igniting cars."
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Central and northern Israel. Petah Tikva (shrapnel impact — 3 injured including 2 children). Kiryat Bialik (shrapnel). Holon (cluster munition debris downed power line, cars ignited).",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": true,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.0841,
+          "lon": 34.8878,
+          "geolocation_approximate": true,
+          "geolocation_source": "Petah Tikva city center (primary impact site)"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        }
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-3",
+          "David's Sling",
+          "Iron Dome"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": "Israel"
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 3,
+        "damage": "44-year-old man and two children (aged 12, 13) injured by shrapnel in Petah Tikva while on a field. Shrapnel impact in Kiryat Bialik. Cars ignited in Holon after cluster munition debris downed power line."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Jerusalem Post",
+        "Times of Israel",
+        "IDF",
+        "Magen David Adom",
         "OSINT"
       ],
       "reactions": null,
