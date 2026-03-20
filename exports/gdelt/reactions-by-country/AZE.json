@@ -1,0 +1,192 @@
+[
+  {
+    "date": "20260303",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "http://www.haberler.com/dunya/pehlevi-trump-tan-vize-alamadi-19621340-haberi/"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 30,
+    "source_url": "https://www.diariosur.es/internacional/oriente-proximo/azerbaiyan-exige-explicaciones-iran-tras-impacto-dron-20260305124005-ntrc.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.yahoo.com/news/articles/azerbaijans-foreign-ministry-accuses-iran-085309852.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.kristeligt-dagblad.dk/udland/aserbajdsjan-beskylder-iran-affyre-droner-ind-i-enklave"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "http://pressorg24.com/news?id=820631"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/05/azerbaijan-accuses-neighbor-iran-of-a-drone-attack-and-vows-to-retaliate"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.nieuwsblad.be/buitenland/live-midden-oosten.-spanje-stuurt-militaire-versterking-naar-cyprus-nieuwe-reeks-explosies-treft-qatarese-hoofdstad-doha/27532402.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.wsoctv.com/news/latest-new-iranian/Z6T4CAAINU4SLEOCMPMXROK7HQ/"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/05/azerbaijan-accuses-neighbor-iran-of-a-drone-attack-and-vows-to-retaliate"
+  },
+  {
+    "date": "20260305",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.inewsgr.com/184/LIVE-iranikoi-pyravloi-kai-drones-chtypisan-konta-se-aerodromio-tou-azerbaitzan.htm"
+  },
+  {
+    "date": "20260306",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://m.kauno.diena.lt/naujienos/pasaulis/konfliktai-nelaimes/azerbaidzanas-evakuoja-diplomatus-irano-1745667"
+  },
+  {
+    "date": "20260307",
+    "actor": "AZERBAIJAN",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.sabah.com.tr/yazarlar/ovur/2026/03/07/turkiye-ile-azerbaycana-saldiri-kimin-isine-yarar"
+  },
+  {
+    "date": "20260307",
+    "actor": "BAKU",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.larepubliquedespyrenees.fr:443/societe/afp/israel-pilonne-teheran-apres-une-semaine-de-guerre-28171395.php"
+  },
+  {
+    "date": "20260307",
+    "actor": "BAKU",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860938/azerbaijan-massing-troops-near-iran-as-fears-grow-of-new-front-in-war-and-push-for-greater-turan%20title="
+  },
+  {
+    "date": "20260308",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/politika/macron-aliyev-ile-goruserek-tahliye-icin-tesekkur-etti-19637870-haberi/"
+  },
+  {
+    "date": "20260308",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://english.news.cn/europe/20260308/16631c50f6244bcab3ab957f300c73c0/c.html"
+  },
+  {
+    "date": "20260309",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Azerbaidzhan-osudi-iranskiya-balistich-2917806"
+  },
+  {
+    "date": "20260313",
+    "actor": "AZERBAIJAN",
+    "target_country": "ISR",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 20,
+    "source_url": "https://www.tanea.gr/print/2026/03/13/opinions/i-synexeia-tou-polemou-cri-tourkia-kai-to-azermpaitzan/"
+  },
+  {
+    "date": "20260319",
+    "actor": "AZERBAIJAN",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 21,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25949458.donald-trump-says-us-will-retaliate-iran-attacks-qatar/"
+  }
+]

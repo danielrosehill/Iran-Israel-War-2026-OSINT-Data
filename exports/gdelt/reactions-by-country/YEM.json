@@ -1,0 +1,32 @@
+[
+  {
+    "date": "20260228",
+    "actor": "YEMEN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.alsahwa-yemen.net/p-88507"
+  },
+  {
+    "date": "20260228",
+    "actor": "YEMEN",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://www.orlandosentinel.com/2026/02/28/the-latest-iran-launches-retaliatory-strikes-as-trump-calls-for-regime-change/"
+  },
+  {
+    "date": "20260301",
+    "actor": "YEMEN",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 24,
+    "source_url": "https://www.daytondailynews.com/news/nation-world/the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/LVLGXFTCRVJPXMWZU3H6LWOJMI/"
+  }
+]

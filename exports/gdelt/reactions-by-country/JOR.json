@@ -1,0 +1,42 @@
+[
+  {
+    "date": "20260304",
+    "actor": "JORDAN",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260304",
+    "actor": "JORDAN",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260310",
+    "actor": "JORDAN",
+    "target_country": "ISR",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 30,
+    "source_url": "http://www.haberler.com/guncel/kudus-valiligi-nden-mescid-i-aksa-uyarisi-asiri-gruplarin-kiskirtici-davranislari-tehlike-arz-ediyor-19642419-haberi/"
+  },
+  {
+    "date": "20260311",
+    "actor": "JORDAN",
+    "target_country": "ISR",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 16,
+    "source_url": "http://www.haberler.com/guncel/urdun-israil-in-mescid-i-aksa-yi-kapali-tutmasina-19646746-haberi/"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260228",
+    "actor": "MOROCCO",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.lavieeco.com/pouvoirs/le-maroc-condamne-fermement-lattaque-iranienne-contre-des-etats-arabes/"
+  },
+  {
+    "date": "20260303",
+    "actor": "MOROCCO",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "http://www.nigeriasun.com/news/278899366/the-entire-region-is-sliding-into-chaos-africa-reacts-to-the-middle-east-crisis"
+  }
+]

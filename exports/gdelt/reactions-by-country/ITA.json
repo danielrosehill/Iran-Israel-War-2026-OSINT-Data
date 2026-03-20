@@ -1,0 +1,52 @@
+[
+  {
+    "date": "20260302",
+    "actor": "ITALY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://ansabrasil.com.br/brasil/noticias/politica/2026/03/02/italia-diz-que-programa-nuclear-do-ira-ameaca-tambem-europa_28025a4a-e602-4ad2-91f5-a5b19ccb243e.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "ITALIAN",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://top-channel.tv/2026/03/02/live-konflikti-ne-lindjen-e-mesme-zgjerohet-izraeli-godet-libanin-raketa-iraniane-mbi-dubai-e-doha-drone-mbi-qipron-trump-irani-nuk-e-ka-pare-ende-valen-e-madhe65/"
+  },
+  {
+    "date": "20260307",
+    "actor": "ITALIAN",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.tp24.it/notizie-inchieste-eventi-a-trapani/c130-atterra-a-birgi-militari-italiani-rientrati-dal-kuwait-dopo-attacco-iraniano/230738"
+  },
+  {
+    "date": "20260313",
+    "actor": "ITALY",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 24,
+    "source_url": "https://www.zazoom.it/2026-03-13/ft-francia-e-italia-aprono-negoziati-con-liran-su-hormuz-strappo-con-gli-usa-e-trump-roma-smentisce-ma/18828189/"
+  },
+  {
+    "date": "20260313",
+    "actor": "ITALY",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.euro2day.gr/news/world/article/2341860/pazaria-eyropaion-me-teheranh-gia-asfalh-dieleysh.html"
+  }
+]

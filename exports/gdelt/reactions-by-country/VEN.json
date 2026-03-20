@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260310",
+    "actor": "VENEZUELA",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://bitlysdowssl-aws.com/2026/03/putin-y-trump-trataron-el-tema-de-iran-y-venezuela-en-su-primera-conversacion-telefonica-del-ano/"
+  },
+  {
+    "date": "20260317",
+    "actor": "VENEZUELA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "http://net.hr/danas/rtl-direkt/nema-struje-vode-ni-hrane-kuba-zivi-gore-nego-ikad-a-donald-trump-kaze-s-njima-mogu-sto-hocu-c9b6aac2-223f-11f1-936f-9600040c8f8e"
+  }
+]

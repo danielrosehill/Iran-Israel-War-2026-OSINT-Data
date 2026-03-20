@@ -1,0 +1,32 @@
+[
+  {
+    "date": "20260228",
+    "actor": "BELARUS",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://mfa.gov.by:443/press/news_mfa/e2c7c28130aa7b1b.html"
+  },
+  {
+    "date": "20260308",
+    "actor": "BELARUS",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "http://www.haberler.com/dunya/hindistan-iran-gemisinin-konumunu-israil-e-biz-19638634-haberi/"
+  },
+  {
+    "date": "20260319",
+    "actor": "MINSK",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://kauno.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/trumpo-pasiuntinys-aptareme-galima-lukasenkos-vizita-i-jav-1747678"
+  }
+]

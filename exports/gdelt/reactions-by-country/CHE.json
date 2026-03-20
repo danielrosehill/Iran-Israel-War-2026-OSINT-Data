@@ -1,0 +1,82 @@
+[
+  {
+    "date": "20260228",
+    "actor": "GENEVA",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 24,
+    "source_url": "https://www.mk.ru/politics/2026/02/28/bespilotnik-atakoval-mezhdunarodnyy-aeroport-kuveyta.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "SWITZERLAND",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 24,
+    "source_url": "https://www.local10.com/news/world/2026/02/28/us-and-israel-launch-a-major-attack-on-iran-trump-urges-iranians-to-take-over/"
+  },
+  {
+    "date": "20260301",
+    "actor": "GENEVA",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 30,
+    "source_url": "https://www.hna.de/politik/iran-angriffe-schueren-atomangst-iaea-beruft-krisensitzung-ein-zr-94192366.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "SWITZERLAND",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/i-elvetia-kalei-se-epistrofi-sti-diplomatia-en-meso-polemou-sti-mesi-anatoli.htm"
+  },
+  {
+    "date": "20260304",
+    "actor": "GENEVA",
+    "target_country": "IRN",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 16,
+    "source_url": "https://www.presstv.ir/Detail/2026/03/04/764940/iran-agreed-nuclear-concessions-geneva-talks-then-us-israel-bombed%20class=hover-effect"
+  },
+  {
+    "date": "20260304",
+    "actor": "GENEVA",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.ilmessaggero.it/mondo/guerra_iran_telefonata_trump_netanyahu-9395370.html"
+  },
+  {
+    "date": "20260307",
+    "actor": "GENEVA",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.tanea.gr/print/2026/03/14/opinions/epistrofi-stin-arxitektoniki-lftis-diplomatias/"
+  },
+  {
+    "date": "20260308",
+    "actor": "SWITZERLAND",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.dagelijksestandaard.nl/nieuws/zwitserland-noemt-aanval-op-iran-schending-internationaal-recht"
+  }
+]

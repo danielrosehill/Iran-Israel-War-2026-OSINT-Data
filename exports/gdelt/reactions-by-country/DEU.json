@@ -1,0 +1,242 @@
+[
+  {
+    "date": "20260228",
+    "actor": "BERLIN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 21,
+    "source_url": "http://www.bignewsnetwork.com/news/278894455/marc-thiessen-the-ground-forces-are-the-iranian-people"
+  },
+  {
+    "date": "20260228",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://www.stcatharinesstandard.ca/news/world/middle-east/europeans-cautious-as-they-scramble-to-digest-major-us-and-israeli-attack-on-iran/article_31ae2578-1b77-5a2b-935f-7fbe950fb355.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.arbresh.info/bota/britania-e-madhe-franca-dhe-gjermania-denojne-sulmet-hakmarrese-te-iranit/"
+  },
+  {
+    "date": "20260228",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.balkanweb.com/smorem-pjese-ne-bombardime-britania-franca-dhe-gjermania-me-deklarate-te-perbashket-denojme-sulmet-hakmarrese-te-iranit/"
+  },
+  {
+    "date": "20260228",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859453/vretania-kai-germania-speydoun-na-syndramoun-me-mesa-aeramynas-to-israil-en-meso-katarrefsis-tou-iron-dome%20title="
+  },
+  {
+    "date": "20260302",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 40,
+    "source_url": "http://www.op-online.de/politik/was-bedeutet-der-iran-krieg-fuer-die-sicherheit-hierzulande-zr-94193562.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "GERMAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.obozrevatel.com/novosti-mir/germaniya-frantsiya-i-britaniya-gotovyi-vstupit-v-vojnu-protiv-irana-chto-proishodit.htm"
+  },
+  {
+    "date": "20260302",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://unn.ua/ru/news/merts-podderzhal-deistviya-ssha-i-izrailya-protiv-irana-nazvav-yego-rezhim-terroristicheskim"
+  },
+  {
+    "date": "20260302",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.spacewar.com/afp/260227194629.lz5u1kvj.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.spacewar.com/afp/260227194629.lz5u1kvj.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://www.spacewar.com/afp/260227194629.lz5u1kvj.html"
+  },
+  {
+    "date": "20260303",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "http://www.batonrougepost.com/news/278898951/president-trump-to-meet-german-chancellor-at-white-house-hold-bilateral-talks"
+  },
+  {
+    "date": "20260305",
+    "actor": "GERMANY",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://froggyweb.com/2026/03/04/berlin-film-festival-director-to-stay-in-role-after-gaza-tensions/"
+  },
+  {
+    "date": "20260307",
+    "actor": "DEUTSCHE",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://panarmenian.net/eng/news/331373/"
+  },
+  {
+    "date": "20260310",
+    "actor": "GERMAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.dagbladet.no/nyheter/hegseth-i-dag-kommer-de-mest-intense-angrepene/84344895"
+  },
+  {
+    "date": "20260310",
+    "actor": "GERMAN",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 24,
+    "source_url": "https://www.aa.com.tr/sq/bota/kancelari-gjerman-i-k%c3%abrkon-izraelit-t%c3%ab-heq%c3%ab-dor%c3%ab-nga-planet-p%c3%abr-aneksimin-e-bregut-per%c3%abndimor/3858258"
+  },
+  {
+    "date": "20260310",
+    "actor": "BERLIN",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.syri.net/bote/870895/merz-planet-e-aneksimit-te-bregut-perendimor-gabim-i-madh-nga-izraeli/"
+  },
+  {
+    "date": "20260310",
+    "actor": "GERMAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.dagbladet.no/nyheter/hegseth-i-dag-kommer-de-mest-intense-angrepene/84344895"
+  },
+  {
+    "date": "20260311",
+    "actor": "GERMAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/11/trump-keeps-telling-america-hes-winning-in-iran-hes-less-clear-in-explaining-how-the-war-ends"
+  },
+  {
+    "date": "20260311",
+    "actor": "GERMAN",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/11/trump-keeps-telling-america-hes-winning-in-iran-hes-less-clear-in-explaining-how-the-war-ends"
+  },
+  {
+    "date": "20260316",
+    "actor": "GERMAN",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.federalna.ba/njemacki-kancelar-merz-odbacio-trumpov-zahtjev-za-pomorskom-misijom-i-poziva-na-brzo-politicko-okoncanje-rata-s-iranom-aepg4"
+  },
+  {
+    "date": "20260318",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.index.hr/vijesti/clanak/izrael-tvrdi-da-je-ubio-iranskog-ministra-gori-najvece-plinsko-postrojenje-u-iranu/2772344.aspx?index_ref=homepage_comment_box_d&commentId=10772456"
+  },
+  {
+    "date": "20260320",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.guampdn.com/news/national/war-in-the-middle-east-latest-developments/article_5f0a6450-aa09-5495-8989-ab005da7bbba.html"
+  },
+  {
+    "date": "20260320",
+    "actor": "GERMANY",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.aa.com.tr/sq/bota/gjermania-kritikon-planin-e-trumpit-p%c3%abr-t%c3%ab-leht%c3%absuar-sanksionet-e-naft%c3%abs-ndaj-rusis%c3%ab-dhe-iranit/3872687"
+  }
+]

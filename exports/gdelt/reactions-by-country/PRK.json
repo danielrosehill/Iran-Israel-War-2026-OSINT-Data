@@ -1,0 +1,52 @@
+[
+  {
+    "date": "20260301",
+    "actor": "NORTH KOREA",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 30,
+    "source_url": "https://www.index.hr/vijesti/clanak/sjeverna-koreja-osudila-napade-na-iran-to-je-ilegalna-agresija/2766019.aspx?index_tid=938501&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260301",
+    "actor": "NORTH KOREA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://www.index.hr/vijesti/clanak/sjeverna-koreja-osudila-napade-na-iran-to-je-ilegalna-agresija/2766019.aspx?index_tid=938501&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260304",
+    "actor": "NORTH KOREA",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.voria.gr/article/parembasi-kim-gioyngk-oyn-gia-ti-mesi-anatoli-iran-zitisei-pyrayloys-tha-toy-steiloyme"
+  },
+  {
+    "date": "20260304",
+    "actor": "NORTH KOREA",
+    "target_country": "IRN",
+    "event_code": "033",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 16,
+    "source_url": "https://www.voria.gr/article/parembasi-kim-gioyngk-oyn-gia-ti-mesi-anatoli-iran-zitisei-pyrayloys-tha-toy-steiloyme"
+  },
+  {
+    "date": "20260305",
+    "actor": "NORTH KOREA",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "http://www.bignewsnetwork.com/news/278903355/the-middle-east-is-on-fire-will-this-gulf-become-another-oil-haven"
+  }
+]

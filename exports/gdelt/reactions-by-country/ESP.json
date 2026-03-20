@@ -1,0 +1,182 @@
+[
+  {
+    "date": "20260302",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 24,
+    "source_url": "https://nbc16.com/news/nation-world/spain-rejects-us-base-use-for-iran-strikes-absolutely-none-international-law-joint-strikes-defense-minister-margarita-robles-rota-moron-bilateral-defense-agreement-british-bases-starmer-operation-epic-fury"
+  },
+  {
+    "date": "20260302",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 24,
+    "source_url": "https://nbc16.com/news/nation-world/spain-rejects-us-base-use-for-iran-strikes-absolutely-none-international-law-joint-strikes-defense-minister-margarita-robles-rota-moron-bilateral-defense-agreement-british-bases-starmer-operation-epic-fury"
+  },
+  {
+    "date": "20260302",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://3yonnews.com/1962178"
+  },
+  {
+    "date": "20260302",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/02/world-leaders-react-to-us-and-israeli-strikes-death-of-irans-supreme-leader-khamenei"
+  },
+  {
+    "date": "20260302",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://3yonnews.com/1962178"
+  },
+  {
+    "date": "20260302",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://3yonnews.com/1962178"
+  },
+  {
+    "date": "20260303",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 24,
+    "source_url": "https://wset.com/news/nation-world/president-donald-trump-threatens-to-cut-all-trade-with-spain-over-lack-of-iran-strike-support-naval-bases-rota-moron-us-israel-joint-strike-nuclear-weapons-international-law-uk-starmer"
+  },
+  {
+    "date": "20260304",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 36,
+    "source_url": "https://torontosun.com/news/national/mark-carney-expresses-some-regret-iran-strikes"
+  },
+  {
+    "date": "20260304",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 26,
+    "source_url": "http://www.haberler.com/guncel/iran-cumhurbaskani-ndan-ispanya-ya-tesekkur-19625096-haberi/"
+  },
+  {
+    "date": "20260304",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "http://www.haberler.com/guncel/iran-cumhurbaskani-ndan-ispanya-ya-tesekkur-19625096-haberi/"
+  },
+  {
+    "date": "20260304",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.latribunadetoledo.es/opinion/z8e2d9483-9c53-4bba-a24bdd1daf31d9b2/202603/el-lado-correcto-de-la-historia"
+  },
+  {
+    "date": "20260307",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.index.hr/vijesti/clanak/spanjolski-premijer-ponovno-osudio-rat-u-iranu-nismo-sami-mi-smo-prvi/2768679.aspx?index_tid=946835&index_ref=naslovnica_vijesti_ostalo_d_0"
+  },
+  {
+    "date": "20260307",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.diariodeibiza.es/nacional/2026/03/07/guerra-campana-pedro-sanchez-psoe-elecciones-castilla-y-leon-127672995.html"
+  },
+  {
+    "date": "20260308",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.the-messenger.com/news/national/article_b89a9a46-ff09-53de-bdb2-1ce33597ff49.html"
+  },
+  {
+    "date": "20260311",
+    "actor": "SPANISH",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.laprovincia.es/economia/2026/03/11/energia-solar-disparo-12-5-2025-alcanzo-mix-electrico-127842379.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 21,
+    "source_url": "https://home.nzcity.co.nz/news/article.aspx?id=441682&fm=psp,tsf"
+  },
+  {
+    "date": "20260312",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.lequotidien-oran.com/?news=5345748"
+  },
+  {
+    "date": "20260319",
+    "actor": "SPAIN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.lequotidien-oran.com/index.php?news=5345951"
+  }
+]

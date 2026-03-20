@@ -1,0 +1,372 @@
+[
+  {
+    "date": "20260228",
+    "actor": "TURKEY",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "http://mignews.com/news/politic/turciya-osudila-eskalaciyu-i-prizvala-storony-k-nemedlennomu-prekrasheniyu-ognya.html"
+  },
+  {
+    "date": "20260301",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859626/erdogan-i-tourkia-etoimi-na-stiriksei-tin-eiriniki-epilysi-tis-krisis-sto-iran"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 240,
+    "source_url": "https://www.index.hr/vijesti/clanak/turska-iranski-projektil-letio-je-prema-nama-nyt-iran-u-tajnosti-trazi-kraj-rata/2767139.aspx?index_ref=homepage_comment_box_d&commentId=10651305"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 204,
+    "source_url": "https://www.index.hr/vijesti/clanak/britanski-brod-pogodjen-u-hormuskom-tjesnacu-iranski-projektil-letio-prema-turskoj/2767139.aspx?index_ref=homepage_comment_box_d&commentId=10650736"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 68,
+    "source_url": "https://www.index.hr/vijesti/clanak/britanski-brod-pogodjen-u-hormuskom-tjesnacu-iranski-projektil-letio-prema-turskoj/2767139.aspx?index_ref=homepage_comment_box_d&commentId=10650736"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 60,
+    "source_url": "https://www.index.hr/vijesti/clanak/turska-iranski-projektil-letio-je-prema-nama-nyt-iran-u-tajnosti-trazi-kraj-rata/2767139.aspx?index_ref=homepage_comment_box_d&commentId=10651305"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 30,
+    "source_url": "https://www.index.hr/vijesti/clanak/sad-obecao-punu-potporu-turskoj-nakon-iranskih-raketnih-napada/2767571.aspx?index_tid=943366&index_ref=naslovnica_vijesti_ostalo_d_1"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 30,
+    "source_url": "https://www.birgun.net/haber/multeciler-ve-uzmanlar-anlatti-irandan-yeni-goc-dalgasi-gelir-mi-697259%20class=slide-legend-link%20target=_blank"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/guncel/hollanda-iran-in-saldirilarina-karsi-tepki-gosterdi-19625394-haberi/"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "114",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.vizionplus.tv/nato-konfirmon-raketa-e-iraniane-u-rrezua-ne-territorin-turk/"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.freemalaysiatoday.com/category/world/2026/03/04/turkey-says-missile-launched-from-iran-destroyed-by-nato"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860350/apokalypsi-wsj-iranikoi-vallistikoi-stoxefsan-tin-tourkiki-vasi-incirlik-stoxos-oi-pyrinikes-vomves-b61-ton-ipa"
+  },
+  {
+    "date": "20260304",
+    "actor": "ANKARA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "http://www.bignewsnetwork.com/news/278901529/cia-working-to-armkurds-to-attack-iran-media"
+  },
+  {
+    "date": "20260304",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "114",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.newsbeast.gr/world/arthro/12939127/i-proti-antidrasi-tou-erntogan-meta-tin-pyravliki-apeili-stin-tourkia"
+  },
+  {
+    "date": "20260305",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 32,
+    "source_url": "http://www.britainnews.net/news/278902712/us-senate-blocks-bid-to-limit-trumps-iran-war-powers"
+  },
+  {
+    "date": "20260305",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 24,
+    "source_url": "http://www.britainnews.net/news/278902712/us-senate-blocks-bid-to-limit-trumps-iran-war-powers"
+  },
+  {
+    "date": "20260306",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 32,
+    "source_url": "https://www.thenorthernecho.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260306",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.thenorthernecho.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260306",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://acento.com.do/bbc-news-mundo/iran-no-puede-derrotar-a-ee-uu-militarmente-pero-asi-es-como-sus-lideres-planean-sobrevivir-9635228.html"
+  },
+  {
+    "date": "20260307",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 80,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260307",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 80,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260307",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 40,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260307",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260307",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260308",
+    "actor": "TURKISH",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://dominicanrepublicpost.com/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work/"
+  },
+  {
+    "date": "20260309",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 32,
+    "source_url": "https://ktul.com/news/nation-world/iran-installs-another-hardline-leader-signaling-long-fight-amid-us-israeli-pressure-mojtaba-khamenei-middle-east-war-nuclear-weapons-ballistic-missiles"
+  },
+  {
+    "date": "20260309",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 30,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Turciya-privika-iranskiya-poslanik-zaradi-balistichnata-raketa-izstrelyana-p-2917994"
+  },
+  {
+    "date": "20260309",
+    "actor": "ISTANBUL",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://english.news.cn/20260309/217d170816d74faab9eb5de4f48ae88f/c.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 40,
+    "source_url": "http://www.wlz-online.de/politik/abgeschossene-raketen-irans-regime-bestreitet-verantwortlichkeit-zr-94210026.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.finanzen.net/nachricht/aktien/tuerkei-verstaerkt-nach-abschuss-von-raketen-aus-dem-iran-die-luftabwehr-15545454"
+  },
+  {
+    "date": "20260310",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.inewsgr.com/93/tilefoniki-epikoinonia-fintan--aragtsi-aparadekti-i-paraviasi-tou-tourkikou-enaeriou-chorou.htm"
+  },
+  {
+    "date": "20260310",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.stiripesurse.ro/premiera-baza-militara-germana-atacata-de-iran_3866323"
+  },
+  {
+    "date": "20260311",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.gercekgundem.com/guncel/patriotlar-yola-cikti-hedef-malatya-olaganustu-guvenlik-onlemleri-567925"
+  },
+  {
+    "date": "20260314",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Aragchi-blagodari-na-Turciya-za-solid-2923552"
+  },
+  {
+    "date": "20260316",
+    "actor": "TURKEY",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 17,
+    "source_url": "https://www.al-monitor.com/originals/2026/03/israel-army-says-ground-assault-against-hezbollah-underway-lebanon"
+  },
+  {
+    "date": "20260319",
+    "actor": "TURK",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.yahoo.com/news/articles/death-toll-surpasses-1-000-154711430.html"
+  },
+  {
+    "date": "20260319",
+    "actor": "TURKEY",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.bd-pratidin.com/international-news/2026/03/19/1230052"
+  }
+]

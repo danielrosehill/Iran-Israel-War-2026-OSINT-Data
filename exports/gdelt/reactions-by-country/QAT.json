@@ -1,0 +1,112 @@
+[
+  {
+    "date": "20260228",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://ua.korrespondent.net/world/4858695-u-katari-iranska-raketa-vpala-na-zhytlovyi-kvartal"
+  },
+  {
+    "date": "20260228",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.ita-savo.fi/uutissuomalainen/9264450"
+  },
+  {
+    "date": "20260303",
+    "actor": "AL JAZEERA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://nebraska.tv/news/nation-world/fact-check-team-who-is-in-charge-of-iran-right-now-ayatollah-regime-war-strike-us-israel"
+  },
+  {
+    "date": "20260304",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260304",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260314",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 30,
+    "source_url": "http://www.bignewsnetwork.com/news/278922133/qatar-strongly-condemns-second-attack-on-uae-consulate-in-kurdistan-region-of-iraq"
+  },
+  {
+    "date": "20260319",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 30,
+    "source_url": "https://www.eldiariomontanes.es/internacional/oriente-proximo/sigue-directo-ultima-hora-guerra-oriente-medio-20260319191720-dirc.html"
+  },
+  {
+    "date": "20260319",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.sofokleousin.gr/agores/peftoun-pano-apo-1-sto-anoigma-oi-eyroagores"
+  },
+  {
+    "date": "20260319",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://ua.interfax.com.ua/news/general/1152742.html"
+  },
+  {
+    "date": "20260320",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://www.cotswoldjournal.co.uk/news/national/25952669.iran-intensifies-attacks-gulf-energy-sites-israel-struck-key-gas-field/"
+  },
+  {
+    "date": "20260320",
+    "actor": "QATAR",
+    "target_country": "IRN",
+    "event_code": "113",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "http://www.jpost.com/opinion/article-890601"
+  }
+]

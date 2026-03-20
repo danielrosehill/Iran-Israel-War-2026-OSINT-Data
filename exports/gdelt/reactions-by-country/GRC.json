@@ -1,0 +1,62 @@
+[
+  {
+    "date": "20260302",
+    "actor": "GREECE",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859860/greece-on-the-brink-of-war-georgian-brought-in-at-souda-for-espionage-panic-in-athens-over-potential-bloody-strike-by-iran"
+  },
+  {
+    "date": "20260303",
+    "actor": "GREEK",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 30,
+    "source_url": "https://www.newsit.gr/uncategorized/ypeks-kamia-symmetoxi-tis-elladas-se-epixeiriseis-kata-tou-iran-diarkis-i-stiriksi-stin-kypro/4615372/"
+  },
+  {
+    "date": "20260303",
+    "actor": "GREECE",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/oi-panigyrismoi-kai-oi-fovoi-gia-tin-epomeni-imera.htm"
+  },
+  {
+    "date": "20260309",
+    "actor": "GREEK",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/861305/i-ollandia-stelnei-fregata-sti-mesogeio-epeita-apo-aitima-tis-gallias%20title="
+  },
+  {
+    "date": "20260312",
+    "actor": "ATHENS",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.newsit.gr/politikh/mesi-anatoli-i-elliniki-presveia-stin-texerani-metegkatastathike-sto-mpakou-gia-logous-asfaleias/4623860/"
+  },
+  {
+    "date": "20260318",
+    "actor": "GREEK",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.tanea.gr/print/2026/03/18/opinions/an-eixame-kai-allous-tetoious-ierarxes/"
+  }
+]

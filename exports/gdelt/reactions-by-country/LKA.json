@@ -1,0 +1,42 @@
+[
+  {
+    "date": "20260304",
+    "actor": "SRI LANKA",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 20,
+    "source_url": "https://www.juneesoutherncross.com.au/story/9190829/us-sub-sinks-iranian-warship-off-sri-lanka-killing-87/"
+  },
+  {
+    "date": "20260305",
+    "actor": "SRI LANKAN",
+    "target_country": "ISR",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://english.news.cn/20260305/264f5686b94943dc9cd84e1804ae2bf0/c.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "SRI LANKA",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.dailypress.com/2026/03/05/us-iran-israel-attacks/"
+  },
+  {
+    "date": "20260305",
+    "actor": "SRI LANKAN",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://english.news.cn/20260305/264f5686b94943dc9cd84e1804ae2bf0/c.html"
+  }
+]

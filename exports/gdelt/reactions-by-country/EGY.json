@@ -1,0 +1,82 @@
+[
+  {
+    "date": "20260303",
+    "actor": "EGYPTIAN",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.birminghammail.co.uk/travel/parts-cyprus-turkey-greece-egypt-33524040"
+  },
+  {
+    "date": "20260304",
+    "actor": "EGYPT",
+    "target_country": "ISR",
+    "event_code": "114",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.3yonnews.com/1962928"
+  },
+  {
+    "date": "20260304",
+    "actor": "EGYPTIAN",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.koreaherald.com:443/article/10686370"
+  },
+  {
+    "date": "20260316",
+    "actor": "EGYPT",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "http://french.people.com.cn/Afrique/n3/2026/0316/c96852-20436119.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "EGYPT",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "http://french.people.com.cn/Afrique/n3/2026/0316/c96852-20436119.html"
+  },
+  {
+    "date": "20260319",
+    "actor": "EGYPT",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.vetogate.com/5618058"
+  },
+  {
+    "date": "20260319",
+    "actor": "EGYPT",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.vetogate.com/5618058"
+  },
+  {
+    "date": "20260319",
+    "actor": "EGYPTIAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 24,
+    "source_url": "https://lancasteronline.com/news/world/the-latest-global-fuel-prices-soar-as-iran-hits-back-at-multiple-gulf-refineries/article_99e588d1-a372-59c3-b17d-e03ad4a24382.html"
+  }
+]

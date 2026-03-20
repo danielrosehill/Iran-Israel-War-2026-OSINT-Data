@@ -1,0 +1,52 @@
+[
+  {
+    "date": "20260304",
+    "actor": "AZORES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://english.news.cn/20260305/709666c217b34591b3c333e6ea7af9ba/c.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "ANTONIO GUTERRES",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://alwasat.ly/news/international/510930"
+  },
+  {
+    "date": "20260312",
+    "actor": "ANTONIO GUTERRES",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.prokerala.com/news/articles/a1738428.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "ANTONIO GUTERRES",
+    "target_country": "IRN",
+    "event_code": "025",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 18,
+    "source_url": "https://www.newsargus.com/news/national/hezbollah-says-ready-for-long-battle-as-israel-threatens-lebanese-infrastructure/article_a0753701-b898-57e3-b1aa-ded369fb6335.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "ANTONIO GUTERRES",
+    "target_country": "ISR",
+    "event_code": "025",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 18,
+    "source_url": "https://www.newsargus.com/news/national/hezbollah-says-ready-for-long-battle-as-israel-threatens-lebanese-infrastructure/article_a0753701-b898-57e3-b1aa-ded369fb6335.html"
+  }
+]

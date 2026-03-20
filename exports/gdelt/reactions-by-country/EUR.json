@@ -1,0 +1,322 @@
+[
+  {
+    "date": "20260228",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.tanea.gr/2026/02/28/world/kosta-fon-nter-laien-oi-ekselikseis-sto-iran-einai-eksairetika-anisyxitikes/"
+  },
+  {
+    "date": "20260301",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 22,
+    "source_url": "https://www.kgw.com/article/news/nation-world/world-leaders-react-us-and-israeli-strikes-on-iran/507-7a5cf770-290e-4ba8-ab49-e2c8f2a2db5d"
+  },
+  {
+    "date": "20260301",
+    "actor": "EUROPEAN COMMISSION",
+    "target_country": "IRN",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 20,
+    "source_url": "https://www.kouvolansanomat.fi/uutissuomalainen/9265838"
+  },
+  {
+    "date": "20260301",
+    "actor": "EUROPE",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.mesagerul.ro/cluj/declaratie-surprinzatoare-de-la-cluj-despre-moartea-liderului-iranului-daniel-buda-intervine-in-scandalul-global-incepe-un-nou-capitol__52304/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE EUROPEAN UNION",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16445214.html"
+  },
+  {
+    "date": "20260301",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.thepeterboroughexaminer.com/politics/federal/world-leaders-react-to-israeli-u-s-strikes-in-iran-reza-pahlavi-calls-them-humanitarian/article_c1c01c74-ec00-5133-8831-2caa61708836.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "EUROPEAN",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 40,
+    "source_url": "https://www.news4jax.com/news/world/2026/03/02/europe-defends-military-bases-and-struggles-to-evacuate-citizens-as-it-is-drawn-into-the-war-on-iran/"
+  },
+  {
+    "date": "20260302",
+    "actor": "EUROPEAN COMMISSION",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "http://mignews.com/news/politic/kollegiya-evrokomissii-po-bezopasnosti-provela-zasedanie-po-iranu.html"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE EUROPEAN UNION",
+    "target_country": "IRN",
+    "event_code": "025",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 30,
+    "source_url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260301-ec01.htm"
+  },
+  {
+    "date": "20260303",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.nakanune.ru/news/2026/03/03/22861149/"
+  },
+  {
+    "date": "20260303",
+    "actor": "EUROPE",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.aa.com.tr/tr/dunya/trump-abdyi-iranla-savasa-israilin-soktugu-yonundeki-gorusleri-reddetti/3848760"
+  },
+  {
+    "date": "20260304",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.3yonnews.com/1963032"
+  },
+  {
+    "date": "20260304",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.index.hr/vijesti/clanak/s%C3%A1nchez-vise-nije-jedini-europski-celnik-koji-kritizira-americki-napad-na-iran/2767504.aspx?index_tid=943168&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260305",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://www.aol.com/articles/highlights-nato-chiefs-interview-reuters-132943581.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://www.aol.com/articles/highlights-nato-chiefs-interview-reuters-132943581.html"
+  },
+  {
+    "date": "20260306",
+    "actor": "EUROPEAN UNION",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 24,
+    "source_url": "https://www.index.hr/clanak.aspx?id=2768474"
+  },
+  {
+    "date": "20260307",
+    "actor": "EUROPE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/dunya/ispanya-nin-ardindan-avrupa-nin-en-buyuk-ulkesi-19632914-haberi/"
+  },
+  {
+    "date": "20260309",
+    "actor": "THE EU",
+    "target_country": "ISR",
+    "event_code": "025",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 30,
+    "source_url": "https://wlac.iheart.com/content/2026-03-09-france-sends-warships-to-the-middle-east-to-help-reopen-strait-of-hormuz/"
+  },
+  {
+    "date": "20260310",
+    "actor": "THE EU",
+    "target_country": "ISR",
+    "event_code": "025",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 18,
+    "source_url": "https://kfyi.iheart.com/content/2026-03-09-france-sends-warships-to-the-middle-east-to-help-reopen-strait-of-hormuz/"
+  },
+  {
+    "date": "20260311",
+    "actor": "EUROPEAN",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.index.hr/vijesti/clanak/eu-i-britanija-traze-od-izraela-da-zaustavi-val-nasilja-na-zapadnoj-obali/2770093.aspx?index_tid=951197&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260312",
+    "actor": "EUROPE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://home.nzcity.co.nz/news/article.aspx?id=441682&fm=psp,tsf"
+  },
+  {
+    "date": "20260313",
+    "actor": "EUROPE",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://webradio.hu/hirek/terrorizmus/tuz-utott-ki-egy-rotterdami-zsinagoga-bejaratanal"
+  },
+  {
+    "date": "20260313",
+    "actor": "EUROPEAN",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://www.presstv.ir/Detail/2026/03/13/765345/us-backed-lebanese-govt-enabling-israeli-aggression-while-attacking-resistance%20class=hover-effect"
+  },
+  {
+    "date": "20260313",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.newsbeast.gr/world/arthro/12960697/oie-antiparatheseis-sto-sa-gia-ton-michanismo-snapback-kata-tou-iran"
+  },
+  {
+    "date": "20260316",
+    "actor": "EUROPE",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.index.hr/vijesti/clanak/eksplozije-u-iraku-pet-zemalja-upozorava-izrael-trump-ne-zelim-rat/2771511.aspx?index_ref=homepage_comment_box_d&commentId=10759159"
+  },
+  {
+    "date": "20260317",
+    "actor": "THE EUROPEAN UNION",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.whtimes.co.uk/news/national/25945459.iran-keeps-attacks-neighbours-israel-says-killed-two-top-officials/"
+  },
+  {
+    "date": "20260318",
+    "actor": "THE EUROPEAN UNION",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 64,
+    "source_url": "https://www.gazetteandherald.co.uk/news/national/25945459.iran-keeps-attacking-neighbours-confirms-israel-killed-two-top-officials/"
+  },
+  {
+    "date": "20260318",
+    "actor": "THE EUROPEAN UNION",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.gazetteandherald.co.uk/news/national/25945459.iran-keeps-attacking-neighbours-confirms-israel-killed-two-top-officials/"
+  },
+  {
+    "date": "20260319",
+    "actor": "THE EU",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 54,
+    "source_url": "https://www.tivysideadvertiser.co.uk/news/national/25950741.eu-leaders-resist-joining-middle-east-fight-amid-concern-high-energy-prices/"
+  },
+  {
+    "date": "20260319",
+    "actor": "EUROPEAN",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.dw.com/bs/eu-strahuje-od-izbjeglica-iz-libanona-i-preklinje-izrael/a-76428684"
+  },
+  {
+    "date": "20260320",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 25,
+    "source_url": "http://www.afghanistansun.com/news/278932422/european-nations-japan-condemn-iranian-strikes-on-vessels-in-hormuz-call-for-safe-navigation"
+  },
+  {
+    "date": "20260320",
+    "actor": "EUROPEAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.kathimerini.gr/politics/foreign-policy/564135154/eyropaiko-symvoylio-anisychia-gia-tin-klimakosi-sti-mesi-anatoli-stirixi-stin-kypro/"
+  }
+]

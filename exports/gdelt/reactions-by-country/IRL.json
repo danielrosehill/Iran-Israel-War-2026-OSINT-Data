@@ -1,0 +1,72 @@
+[
+  {
+    "date": "20260228",
+    "actor": "IRISH",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 54,
+    "source_url": "https://www.newarkadvertiser.co.uk/national/helen-mcentee-deeply-concerned-over-missile-strikes-on-iran-163345/"
+  },
+  {
+    "date": "20260228",
+    "actor": "IRISH",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 24,
+    "source_url": "https://www.freepressseries.co.uk/news/national/25896672.possible-steps-must-taken-avoid-middle-east-escalation---connolly/"
+  },
+  {
+    "date": "20260228",
+    "actor": "IRISH",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 24,
+    "source_url": "https://www.freepressseries.co.uk/news/national/25896672.possible-steps-must-taken-avoid-middle-east-escalation---connolly/"
+  },
+  {
+    "date": "20260305",
+    "actor": "DUBLIN",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.braintreeandwithamtimes.co.uk/news/national/25912833.so-happy-home-passengers-second-plane-dubai-return-ireland/"
+  },
+  {
+    "date": "20260308",
+    "actor": "DUBLIN",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 60,
+    "source_url": "https://www.gazetteseries.co.uk/news/national/25917558.relieved-family-reunions-dublin-airport-chartered-flight-lands/"
+  },
+  {
+    "date": "20260312",
+    "actor": "CORK",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 28,
+    "source_url": "https://www.witneygazette.co.uk/news/national/25932737.keir-starmer-micheal-martin-meet-business-leaders-cork/"
+  },
+  {
+    "date": "20260313",
+    "actor": "CORK",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 24,
+    "source_url": "https://www.harwichandmanningtreestandard.co.uk/news/national/25932737.keir-starmer-micheal-martin-meet-business-leaders-cork/"
+  }
+]

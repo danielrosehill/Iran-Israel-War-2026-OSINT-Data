@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260304",
+    "actor": "AFGHANISTAN",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.ariananews.af/russia-ready-to-mediate-afghanistan-pakistan-conflict-kabulov/"
+  },
+  {
+    "date": "20260311",
+    "actor": "AFGHAN",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://english.news.cn/asiapacific/20260311/38898473029a431c9b4ea489230d89ae/c.html"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "date": "20260228",
+    "actor": "DUBAI",
+    "target_country": "ISR",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://www.chicoer.com/2026/02/27/iran-says-5-students-killed-at-a-girls-school-in-israeli-us-strike/"
+  },
+  {
+    "date": "20260228",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "0234",
+    "event_root": "02",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.sandiegouniontribune.com/2026/02/27/trump-appeals-to-the-iranian-people-to-take-over-your-government/"
+  },
+  {
+    "date": "20260301",
+    "actor": "DUBAI",
+    "target_country": "ISR",
+    "event_code": "1121",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://economictimes.indiatimes.com/news/international/world-news/iran-speaker-brands-us-israel-chiefs-filthy-criminals-warns-of-retaliation/articleshow/128906767.cms"
+  },
+  {
+    "date": "20260301",
+    "actor": "DUBAI",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.journal-news.com/news/nation-world/hundreds-of-thousands-of-travelers-stranded-by-flight-disruptions-after-attack-on-iran/ZZCKPS3J7RJMRDZ6NNQIDG72R4/"
+  },
+  {
+    "date": "20260302",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 42,
+    "source_url": "https://www.bendigoadvertiser.com.au/story/9188336/australians-stranded-in-middle-east-as-airspace-shuts/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.macleayargus.com.au/story/9188336/significant-challenge-in-helping-stuck-aussies/"
+  },
+  {
+    "date": "20260303",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 40,
+    "source_url": "https://www.goulburnpost.com.au/story/9188336/fresh-travel-warning-as-aussie-base-hit-in-middle-east/"
+  },
+  {
+    "date": "20260303",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 24,
+    "source_url": "https://www.manningrivertimes.com.au/story/9188336/significant-challenge-in-helping-stuck-aussies/"
+  },
+  {
+    "date": "20260303",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://www.siasat.com/avoid-embassy-until-further-notice-us-embassy-in-saudi-arabia-tells-americans-3397217/"
+  },
+  {
+    "date": "20260303",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.elcorreo.com/opinion/rosa-belmonte-ofelia-indignada-20260304161651-ntrc.html"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 20,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260304",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.elcomercio.es/opinion/rosa-belmonte-ofelia-indignada-20260304161651-ntrc.html"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260305",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.yahoo.com/news/articles/azerbaijans-foreign-ministry-accuses-iran-085309852.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.wral.com/news/ap/6a766-azerbaijans-foreign-ministry-accuses-iran-of-drone-attack-says-2-civilians-injured/"
+  },
+  {
+    "date": "20260305",
+    "actor": "ABU DHABI",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 18,
+    "source_url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1449139"
+  },
+  {
+    "date": "20260306",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 28,
+    "source_url": "https://www.butlereagle.com/20260306/trump-rules-out-talks-absent-irans-unconditional-surrender-as-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260306",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 18,
+    "source_url": "https://www.sanfordherald.com/news/national/only-nine-commercial-ships-detected-crossing-hormuz-strait-since-monday/article_8e0c9664-555d-5693-9701-ecdfa7a2750b.html"
+  },
+  {
+    "date": "20260306",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 15,
+    "source_url": "https://www.al-monitor.com/originals/2026/03/only-nine-commercial-ships-detected-crossing-hormuz-strait-monday"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 60,
+    "source_url": "https://www.portstephensexaminer.com.au/story/9194591/australia-answers-gulfs-pleas-with-spy-plane-missiles/"
+  },
+  {
+    "date": "20260310",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.razon.com.mx/opinion/2026/03/10/la-vista-desde-el-burj-khalifa/"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "ISR",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://community.scoop.co.nz/2026/03/uae-israel-and-the-hexagon-alliance/"
+  },
+  {
+    "date": "20260312",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.bozemandailychronicle.com/ap_news/business/iran-s-supreme-leader-ayatollah-mojtaba-khamenei-issues-first-statement-as-war-with-us-and/article_5bcc9fb5-b4e1-5500-8e95-dfb8f01ef7dd.html"
+  },
+  {
+    "date": "20260315",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.upi.com/Top_News/World-News/2026/03/15/iran-israel-war/7381773583236/"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.gdnonline.com:443/Details/1378672/GCC-countries-%E2%80%98are-more-united-and-stronger-now%E2%80%99-"
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 28,
+    "source_url": "https://www.yasstribune.com.au/story/9202500/iran-conflict-to-end-as-us-has-achieved-aims-albanese/"
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 21,
+    "source_url": "https://www.yasstribune.com.au/story/9202500/iran-conflict-to-end-as-us-has-achieved-aims-albanese/"
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.begadistrictnews.com.au/story/9202500/australia-urged-to-stay-far-away-from-middle-east-war/"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 42,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25949458.donald-trump-says-us-will-retaliate-iran-attacks-qatar/"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25949458.donald-trump-says-us-will-retaliate-iran-attacks-qatar/"
+  },
+  {
+    "date": "20260319",
+    "actor": "DUBAI",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/dramatikes-ores-sto-ntoubai--kindynos-na-meinei-choris-nero-meta-to-chtypima-se-agogo.htm"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED ARAB EMIRATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.nbcphiladelphia.com/news/national-international/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again/4371043/"
+  }
+]

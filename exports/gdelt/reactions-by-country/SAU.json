@@ -1,0 +1,172 @@
+[
+  {
+    "date": "20260228",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.mk.ru/politics/2026/02/28/bespilotnik-atakoval-mezhdunarodnyy-aeroport-kuveyta.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.ita-savo.fi/uutissuomalainen/9264450"
+  },
+  {
+    "date": "20260301",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.tv2.no/direkte/jpybz/siste-nytt/69a40f80ab1b55ba13152b80/skyskraperkompleks-i-abu-dhabi-truffet-norges-ambassade-ligger-i-et-av-byggene"
+  },
+  {
+    "date": "20260301",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.tv2.no/direkte/jpybz/siste-nytt/69a40f80ab1b55ba13152b80/skyskraperkompleks-i-abu-dhabi-truffet-norges-ambassade-ligger-i-et-av-byggene"
+  },
+  {
+    "date": "20260301",
+    "actor": "SAUDI",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.andaluciainformacion.es/articulo/mundo/iran-esgrime-que-ataques-regionales-van-dirigidos-bases-militares-eeuu-que-son-suelo-estadounidense/202603011427413221321.html"
+  },
+  {
+    "date": "20260303",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 24,
+    "source_url": "https://www.index.hr/vijesti/clanak/amerika-nakon-iranskih-udara-zatvorila-dvije-ambasade-na-bliskom-istoku/2766853.aspx?index_tid=941141&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260303",
+    "actor": "MECCA",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.kob.com/ap-top-news/the-latest-trump-says-iran-war-could-last-weeks-as-netanyahu-defends-decision-to-attack/"
+  },
+  {
+    "date": "20260304",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260304",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260307",
+    "actor": "SAUDI",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 18,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Sauditska-Arabiya-predupredi-Iran-Teheran-da-se-pazi-ot-pogreshni-precenki-2915092"
+  },
+  {
+    "date": "20260309",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "http://mignews.com/news/arabisrael/pyat-prichin-po-kotorym-iran-atakuet-strany-zaliva.html"
+  },
+  {
+    "date": "20260309",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 18,
+    "source_url": "https://www.news-gazette.com/news/nation-world/iran-names-mojtaba-khamenei-to-succeed-his-slain-father-as-supreme-leader/article_a2fd3257-f591-5281-bbea-8357acf856cb.html"
+  },
+  {
+    "date": "20260309",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.dailybreeze.com/2026/03/09/iran-war-unknowns/"
+  },
+  {
+    "date": "20260313",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 60,
+    "source_url": "http://www.tz.de/welt/schwarzer-regen-in-teheran-toxisches-gemisch-kann-tausende-kilometer-fliegen-zr-94216881.html"
+  },
+  {
+    "date": "20260315",
+    "actor": "SAUDI ARABIA",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://www.marketscreener.com/news/iran-wants-serious-review-of-arab-gulf-ties-denies-role-in-saudi-oil-attacks--ce7e5fd3d080f426"
+  },
+  {
+    "date": "20260315",
+    "actor": "RIYADH",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 15,
+    "source_url": "https://www.marketscreener.com/news/iran-wants-serious-review-of-arab-gulf-ties-denies-role-in-saudi-oil-attacks--ce7e5fd3d080f426"
+  },
+  {
+    "date": "20260319",
+    "actor": "SAUDI",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.razon.com.mx/mundo/2026/03/19/inteligencia-de-eu-admite-que-teheran-no-tenia-plan-nuclear/"
+  }
+]

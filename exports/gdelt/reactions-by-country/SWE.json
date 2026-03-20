@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260305",
+    "actor": "SWEDEN",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.lasprovincias.es/economia/lehendakari-convoca-urgencia-grupo-defensa-industrial-crisis-20260305105531-ntrc.html"
+  },
+  {
+    "date": "20260318",
+    "actor": "SWEDEN",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.kouvolansanomat.fi/uutissuomalainen/9310585"
+  }
+]

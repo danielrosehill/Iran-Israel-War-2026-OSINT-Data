@@ -1,0 +1,62 @@
+[
+  {
+    "date": "20260228",
+    "actor": "KUWAIT",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.tanjug.rs/bliski-istok/vesti/233663/kuvajt-osudio-iranski-napad-zadrzava-pravo-na-odgovor/vest"
+  },
+  {
+    "date": "20260302",
+    "actor": "KUWAIT",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.wamc.org/2026-03-02/trump-defends-iran-strikes-offers-objectives-for-military-operation"
+  },
+  {
+    "date": "20260302",
+    "actor": "KUWAIT",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.wamc.org/2026-03-02/trump-defends-iran-strikes-offers-objectives-for-military-operation"
+  },
+  {
+    "date": "20260304",
+    "actor": "KUWAIT",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260304",
+    "actor": "KUWAIT",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260315",
+    "actor": "KUWAIT",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/dunya/turkiye-ye-atilan-fuzeler-icin-iranli-komutandan-19660166-haberi/"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "date": "20260228",
+    "actor": "MARK CARNEY",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://classic107.com/articles/carney-says-canada-supports-us-military-action-in-iran"
+  },
+  {
+    "date": "20260301",
+    "actor": "CANADA",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.edmontonexaminer.com:443/news/local-news/iran-solidarity-rally"
+  },
+  {
+    "date": "20260303",
+    "actor": "CANADA",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 18,
+    "source_url": "https://www.nugget.ca:443/news/unbearable-sault-college-student-from-iran-still-unable-to-contact-family-friends"
+  },
+  {
+    "date": "20260304",
+    "actor": "MARK CARNEY",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 23,
+    "source_url": "https://www.therecord.com/politics/federal/mark-carney-backs-u-s--israeli-strikes-on-iran-despite-doubts-over-their-legality/article_7b273086-3c52-5a42-8e8a-c781a0e8fa2a.html"
+  },
+  {
+    "date": "20260304",
+    "actor": "MARK CARNEY",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://torontosun.com/news/national/mark-carney-expresses-some-regret-iran-strikes"
+  },
+  {
+    "date": "20260305",
+    "actor": "CANADA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 80,
+    "source_url": "https://www.swindonadvertiser.co.uk/news/national/25912755.canada-australia-leaders-urge-de-escalation-iran-war/"
+  },
+  {
+    "date": "20260305",
+    "actor": "CANADA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.granbyexpress.com/nouvelles-nationales/malgre-les-regrets-de-carney-le-canada-pourrait-etre-entraine-dans-le-conflit/"
+  },
+  {
+    "date": "20260306",
+    "actor": "CANADA",
+    "target_country": "IRN",
+    "event_code": "1211",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.northumberlandnews.com/news/ontario-food-recalls-march-3/article_6989a24b-968b-5643-b123-d6c0ae08fcf3.html"
+  },
+  {
+    "date": "20260307",
+    "actor": "TORONTO",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 30,
+    "source_url": "https://lethbridgeherald.com/news/national-news/2026/03/07/more-canadians-arriving-from-middle-east-as-iran-war-reaches-one-week-mark/"
+  },
+  {
+    "date": "20260316",
+    "actor": "CANADA",
+    "target_country": "ISR",
+    "event_code": "026",
+    "event_root": "02",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.times-series.co.uk/news/national/25941653.trump-hits-uk-starmer-seeks-viable-plan-reopen-strait-hormuz/"
+  },
+  {
+    "date": "20260316",
+    "actor": "CANADIAN",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.stratford-herald.com/national/starmer-plans-zelensky-talks-amid-fear-of-russian-oil-windfall-164067/"
+  },
+  {
+    "date": "20260320",
+    "actor": "EDMONTON",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 32,
+    "source_url": "https://edmontonsun.com/entertainment/celebrity/josh-duggar-brother-joseph-arrest"
+  }
+]

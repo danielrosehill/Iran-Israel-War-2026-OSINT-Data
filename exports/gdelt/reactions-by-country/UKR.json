@@ -1,0 +1,222 @@
+[
+  {
+    "date": "20260302",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 20,
+    "source_url": "https://www.tanea.gr/2026/03/02/world/o-zelenski-prothymos-na-voithisei-stin-katarripsi-ton-iranikon-drones-ti-zitei-gia-antalla/"
+  },
+  {
+    "date": "20260303",
+    "actor": "UKRAINE",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "http://mignews.com/news/politic/prezidenty-ukrainy-i-oae-obsudili-situaciyu-na-blizhnem-vostoke-i-ee-posledstviya.html"
+  },
+  {
+    "date": "20260303",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.philenews.com/kosmos/diethni/article/1689012/pos-i-exontosi-chamene%CE%90-anazopironi-tous-fovous-tou-poutin-ke-sklireni-ti-stasi-tou-stin-oukrania/"
+  },
+  {
+    "date": "20260304",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://ogunhaber.com/dunya/almanya-basbakani-merz-beyaz-sarayda-trump-ile-bir-araya-geldi-2998423h.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "023",
+    "event_root": "02",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.teraz.sk/zahranicie/zelenskyj-usa-poziadali-ukrajinu-o-pom/946009-clanok.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://m.kauno.diena.lt/naujienos/pasaulis/konfliktai-nelaimes/zelenskis-ukraina-niekada-neturejo-tiek-raketu-patriot-kiek-tris-dienas-panaudota-irane-1745553"
+  },
+  {
+    "date": "20260307",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860993/asynithisti-symmaxia-oi-ipa-zitoyn-epeigontos-voitheia-apo-tin-oukrania-gia-ta-iranika-drones-ti-einai-to-heavenly-fortress"
+  },
+  {
+    "date": "20260307",
+    "actor": "KIEV",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860884/panikos-me-iskander-kai-kalibr-dielysan-kievo-kharkiv-odisso-erxetai-arsi-kyroseon-vretania-o-zelensky-exei-thrasos"
+  },
+  {
+    "date": "20260309",
+    "actor": "UKRAINE",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://news.mail.ru/incident/70088922/"
+  },
+  {
+    "date": "20260310",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 16,
+    "source_url": "https://www.unian.ua/politics/viyna-na-blizkomu-shodi-shcho-otrimaye-ukrajini-yakshcho-nadast-bezpekovu-dopomogu-inshim-krajinam-13310850.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.unian.ua/politics/viyna-na-blizkomu-shodi-shcho-otrimaye-ukrajini-yakshcho-nadast-bezpekovu-dopomogu-inshim-krajinam-13310850.html"
+  },
+  {
+    "date": "20260313",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "0332",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 24,
+    "source_url": "https://www.index.hr/vijesti/clanak/zelenski-ublazavanje-sankcija-rusiji-ne-pomaze-miru-u-ukrajini/2770927.aspx?index_tid=953873&index_ref=naslovnica_vijesti_ostalo_d_1"
+  },
+  {
+    "date": "20260313",
+    "actor": "UKRAINIAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.unian.ua/weapons/viyna-v-irani-ssha-vidpravili-na-blizkiy-shid-10000-droniv-perehoplyuvachiv-merops-13314633.html"
+  },
+  {
+    "date": "20260313",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.spacewar.com/afp/260313040706.ywlj211r.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.hometownregister.com/news/national/war-in-the-middle-east-latest-developments/article_f9a945c2-ffc9-57e4-a89d-9d543d4b10c9.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "http://www.haberler.com/dunya/avrupa-ulkesi-de-savasa-dahil-oldu-iran-mesru-19657624-haberi/"
+  },
+  {
+    "date": "20260315",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://www.karjalainen.fi/uutissuomalainen/9300453"
+  },
+  {
+    "date": "20260316",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 20,
+    "source_url": "http://pressorg24.com/news?id=822053"
+  },
+  {
+    "date": "20260316",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 20,
+    "source_url": "https://interfax.com.ua/news/general/1152019.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 20,
+    "source_url": "https://interfax.com.ua/news/general/1152019.html"
+  },
+  {
+    "date": "20260318",
+    "actor": "UKRAINIAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.europapress.es/internacional/noticia-zelenski-reconoce-guerra-iran-disminuye-ayuda-ucrania-pide-buscar-alternativas-patriots-20260318140916.html"
+  },
+  {
+    "date": "20260320",
+    "actor": "UKRAINE",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 24,
+    "source_url": "https://www.chathamdailynews.ca/news/local-news/iran-war-wreaking-havoc-with-fertilizer-fuel-costs-across-southwestern-ontario-farm-belt"
+  }
+]

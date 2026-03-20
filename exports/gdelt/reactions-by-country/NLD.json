@@ -1,0 +1,42 @@
+[
+  {
+    "date": "20260305",
+    "actor": "DUTCH",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.newsbeast.gr/world/arthro/12941515/oi-ollandoi-anisychoun-oti-i-sygkrousi-me-to-iran-tha-exelichthei-se-neo-pagkosmio-polemo"
+  },
+  {
+    "date": "20260312",
+    "actor": "NETHERLANDS",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://drimble.nl/binnenlands-nieuws/106200631/d66-geen-begrip-voor-aposoorlog-zonder-planapos-in-iran.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "NETHERLANDS",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://nieuws.nl/politiek/groenlinks-pvda-wil-niet-betrokken-worden-bij-oorlog-in-iran-HTadEL"
+  },
+  {
+    "date": "20260319",
+    "actor": "NETHERLANDS",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.zazoom.it/2026-03-19/stretto-di-hormuz-piano-di-6-paesi-per-la-riapertura-ce-anche-litalia-lannuncio-e-cosa-prevede/18860509/"
+  }
+]

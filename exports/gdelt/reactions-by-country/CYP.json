@@ -1,0 +1,72 @@
+[
+  {
+    "date": "20260301",
+    "actor": "CYPRUS",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://kauno.diena.lt/naujienos/pasaulis/konfliktai-nelaimes/irano-raketos-skriejo-i-kipro-puse-1744739"
+  },
+  {
+    "date": "20260302",
+    "actor": "CYPRUS",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://riasv.ru/obshhestvo/2026/03/02/krivoi-rog-podvergsia-nochnoi-atake-est-povrejdeniia-na-predpriiatii/"
+  },
+  {
+    "date": "20260302",
+    "actor": "CYPRUS",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://riasv.ru/obshhestvo/2026/03/02/krivoi-rog-podvergsia-nochnoi-atake-est-povrejdeniia-na-predpriiatii/"
+  },
+  {
+    "date": "20260302",
+    "actor": "CYPRUS",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.newsit.gr/kosmos/kypros-se-kokkino-synagermo-oi-astynomikes-arxes-me-to-daktylo-sti-skandali-se-sxoleia-synagoges-kai-presveies/4614485/"
+  },
+  {
+    "date": "20260303",
+    "actor": "CYPRUS",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 30,
+    "source_url": "https://www.yahoo.com/news/articles/france-deploys-aircraft-carrier-mediterranean-204703888.html"
+  },
+  {
+    "date": "20260303",
+    "actor": "CYPRUS",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.yahoo.com/news/articles/france-deploys-aircraft-carrier-mediterranean-204703888.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "CYPRUS",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 18,
+    "source_url": "https://www.thenorthernecho.co.uk/news/national/25910999.starmer-update-middle-east-war-defence-secretary-travels-cyprus/"
+  }
+]

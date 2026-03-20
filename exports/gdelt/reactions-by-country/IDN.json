@@ -1,0 +1,42 @@
+[
+  {
+    "date": "20260228",
+    "actor": "INDONESIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 26,
+    "source_url": "http://govoritmoskva.ru/news/483856/"
+  },
+  {
+    "date": "20260302",
+    "actor": "INDONESIA",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://kabar24.bisnis.com/read/20260302/15/1956851/mui-dukung-prabowo-jadi-juru-damai-as-israel-iran-rilis-sepuluh-poin-tausiyah"
+  },
+  {
+    "date": "20260304",
+    "actor": "INDONESIAN",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 15,
+    "source_url": "https://en.tempo.co/read/2090681/prabowo-sends-condolence-letter-to-iran-on-khameneis-death"
+  },
+  {
+    "date": "20260315",
+    "actor": "INDONESIA",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/15/ap-finds-an-israeli-group-discreetly-organized-the-mystery-flights-evacuating-palestinians-from-gaza-2"
+  }
+]

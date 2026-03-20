@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260301",
+    "actor": "SERBIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://naslovi.net/2026-03-01/nin/djuric-podrzavamo-hitnu-deeskalaciju-tenzija-na-bliskom-istoku/41416244"
+  },
+  {
+    "date": "20260318",
+    "actor": "SERBIA",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://naslovi.net/2026-03-18/n1-info/srbija-ipak-podrzala-odluku-o-stavljanju-iranske-revolucionarne-garde-na-teroristicku-listu/41501158"
+  }
+]

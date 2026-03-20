@@ -105,6 +105,79 @@ ORDER BY SQLDATE DESC, total_articles DESC
 | 195 | Employ aerial weapons |
 | 196 | Violate ceasefire |
 
+### `international_reactions_*.json`
+
+International diplomatic reactions to the Iran-Israel conflict — statements, appeals, disapprovals, demands, and cooperation signals from 77 countries.
+
+**Source table:** `gdelt-bq.gdeltv2.events`
+
+**Query:**
+```sql
+SELECT
+  SQLDATE,
+  Actor1Name,
+  Actor1CountryCode,
+  Actor2CountryCode,
+  EventCode,
+  EventRootCode,
+  GoldsteinScale,
+  NumArticles,
+  SOURCEURL
+FROM `gdelt-bq.gdeltv2.events`
+WHERE (Actor2CountryCode IN ("IRN", "ISR")
+    OR Actor1CountryCode IN ("IRN", "ISR"))
+  AND EventRootCode IN ("01", "02", "03", "04", "05", "10", "11", "12")
+  AND Actor1CountryCode NOT IN ("IRN", "ISR")
+  AND SQLDATE >= {START}
+  AND NumArticles >= 15
+ORDER BY SQLDATE ASC, NumArticles DESC
+```
+
+**Key fields:**
+- `Actor1CountryCode` — The reacting country (ISO 3166 FIPS code)
+- `Actor1Name` — Specific actor (e.g. "DOWNING STREET", "WASHINGTON", "TURKEY")
+- `Actor2CountryCode` — Whether the reaction is directed at IRN or ISR
+- `EventRootCode` — Type of reaction (see CAMEO codes below)
+- `GoldsteinScale` — Sentiment score (-10 hostile to +10 cooperative)
+- `NumArticles` — Media coverage volume (signal strength)
+
+**CAMEO reaction codes:**
+| Code | Description |
+|------|-------------|
+| 01 | Make public statement |
+| 02 | Appeal |
+| 03 | Express intent to cooperate |
+| 04 | Consult |
+| 05 | Diplomatic cooperation |
+| 10 | Demand |
+| 11 | Disapprove |
+| 12 | Reject |
+
+**Notes:**
+- Filtered to `NumArticles >= 15` to reduce noise
+- Excludes Iran and Israel as the reacting actor (only third-party reactions)
+- Goldstein scale tracks sentiment shifts over time per country
+- Some GDELT actor names are locations (e.g. "MOSCOW" = Russia, "DUBLIN" = Ireland)
+
+### `reactions-by-country/*.json`
+
+Pre-split per-country files derived from `international_reactions_*.json` for easy site consumption. Each file contains an array of reaction events for one country, with simplified fields:
+
+```json
+{
+  "date": "20260301",
+  "actor": "DOWNING STREET",
+  "target_country": "IRN",
+  "event_code": "111",
+  "event_root": "11",
+  "goldstein": -2.0,
+  "articles": 90,
+  "source_url": "https://..."
+}
+```
+
+77 country files generated. Top countries by event count: USA (271), LBN (84), RUS (73), GBR (60), CHN (42), TUR (37), AUS (33), ARE (32), EUR (32), FRA (29).
+
 ## Re-running Queries
 
 ```bash
@@ -115,4 +188,8 @@ bq query --use_legacy_sql=false --format=json --max_rows=5000 \
 # Events dump
 bq query --use_legacy_sql=false --format=json --max_rows=5000 \
   'QUERY_HERE' 2>/dev/null > events_193_iran_STARTDATE_ENDDATE.json
+
+# International reactions dump
+bq query --use_legacy_sql=false --format=json --max_rows=2000 \
+  'QUERY_HERE' 2>/dev/null > international_reactions_STARTDATE_ENDDATE.json
 ```

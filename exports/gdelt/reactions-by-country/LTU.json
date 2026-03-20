@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260228",
+    "actor": "LITHUANIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://www.15min.lt/naujiena/aktualu/lietuva/kestutis-budrys-lietuva-smerkia-irano-ispuolius-pries-jordanija-ir-persijos-ilankos-regiono-salis-56-2631814"
+  },
+  {
+    "date": "20260228",
+    "actor": "LITHUANIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://klaipeda.diena.lt/naujienos/lietuva/politika/budrys-lietuva-smerkia-irano-ispuolius-1744691"
+  }
+]

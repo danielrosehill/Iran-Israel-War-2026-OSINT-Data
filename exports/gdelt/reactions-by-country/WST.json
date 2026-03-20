@@ -1,0 +1,32 @@
+[
+  {
+    "date": "20260302",
+    "actor": "NATO",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/politika/nato-genel-sekreteri-rutte-iran-a-saldirilara-katilmayi-planlamiyoruz-19618113-haberi/"
+  },
+  {
+    "date": "20260304",
+    "actor": "NATO",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 60,
+    "source_url": "https://makfax.com.mk/svet/%D0%B8%D1%80%D0%B0%D0%BA-%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%B5%D0%BD-%D0%B4%D1%80%D0%BE%D0%BD-%D0%BA%D0%B0%D1%98-%D0%BC%D0%B5%D1%93%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BE%D1%82-%D0%B0/"
+  },
+  {
+    "date": "20260305",
+    "actor": "NATO",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://home.nzcity.co.nz/news/article.aspx?id=441296&fm=psp,tst"
+  }
+]

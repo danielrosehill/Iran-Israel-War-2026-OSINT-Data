@@ -1,0 +1,292 @@
+[
+  {
+    "date": "20260228",
+    "actor": "PARIS",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 18,
+    "source_url": "https://economictimes.indiatimes.com/news/defence/united-nations-security-council-to-hold-emergency-meeting-on-israel-iran-conflict/articleshow/128890622.cms"
+  },
+  {
+    "date": "20260228",
+    "actor": "FRENCH",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.tanjug.rs/svet/politika/233745/makron-francuska-nije-bila-unapred-obavestena-o-napadima-na-iran/vest"
+  },
+  {
+    "date": "20260228",
+    "actor": "PARIS",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://economictimes.indiatimes.com/news/defence/united-nations-security-council-to-hold-emergency-meeting-on-israel-iran-conflict/articleshow/128890622.cms"
+  },
+  {
+    "date": "20260301",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 34,
+    "source_url": "https://www.dw.com/ru/premer-izraila-netanahu-dopuskaet-gibel-aatolly-ali-hamenei/a-76168636"
+  },
+  {
+    "date": "20260301",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "026",
+    "event_root": "02",
+    "goldstein": 4.0,
+    "articles": 18,
+    "source_url": "https://www.wdbo.com/news/world/un-chief-condemns-us/CMIFAZKH5I763E3AVC3CGJ3FRM/"
+  },
+  {
+    "date": "20260302",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.southcarolinapublicradio.org/news/2026-02-28/heres-how-world-leaders-are-reacting-to-the-u-s-israel-strikes-on-iran"
+  },
+  {
+    "date": "20260302",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.southcarolinapublicradio.org/news/2026-02-28/heres-how-world-leaders-are-reacting-to-the-u-s-israel-strikes-on-iran"
+  },
+  {
+    "date": "20260304",
+    "actor": "FRENCH",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.emakedonia.gr/neo-kyma-pligmaton-toy-israil-stin-techerani-deite-vinteo"
+  },
+  {
+    "date": "20260305",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://ru.apa.az/evropa/franciya-osudila-ataku-iranskix-dronov-na-naxcyvanskii-mezdunarodnyi-aeroport-639397"
+  },
+  {
+    "date": "20260308",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/politika/macron-aliyev-ile-goruserek-tahliye-icin-tesekkur-etti-19637870-haberi/"
+  },
+  {
+    "date": "20260308",
+    "actor": "FRENCH",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.ess.fi/uutissuomalainen/9283845"
+  },
+  {
+    "date": "20260309",
+    "actor": "FRANCE",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/guncel/eski-fransa-basbakani-villepin-den-iran-a-saldiran-19639937-haberi/"
+  },
+  {
+    "date": "20260309",
+    "actor": "FRANCE",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.dagelijksestandaard.nl/binnenland/politie-zet-eindelijk-groot-geschut-in-100-laffe-oplichters-en-nepagenten-met-de-billen-bloot-op-tv-en-billboards?comment=932525"
+  },
+  {
+    "date": "20260312",
+    "actor": "FRENCH",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.guadeloupe.franceantilles.fr/actualite/economie/liran-pret-a-une-guerre-dusure-trump-veut-finir-le-boulot-1071510.php"
+  },
+  {
+    "date": "20260312",
+    "actor": "FRENCH",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://athina984.gr/2026/03/12/etoimo-gia-makry-polemo-fthoras-to-iran-konta-stin-itta-i-techerani-diavevaionei-o-tramp/"
+  },
+  {
+    "date": "20260313",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://www.zazoom.it/2026-03-13/riapertura-dello-stretto-di-hormuz-italia-e-francia-cercano-un-accordo-con-liran/18828234/"
+  },
+  {
+    "date": "20260313",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://nuz.uz/2026/03/13/francziya-i-italiya-nachali-peregovory-s-iranom-o-propuske-svoih-sudov-cherez-ormuzskij-proliv/"
+  },
+  {
+    "date": "20260313",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 18,
+    "source_url": "https://vesti.az/v-mire/ft-pariz-i-rim-obsuzdayut-s-tegeranom-bezopasnyi-proxod-sudov-cerez-ormuzskii-proliv-583979"
+  },
+  {
+    "date": "20260313",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://rus.delfi.lv/57862/v-mire/120110607/ft-v-es-obsuzhdayut-s-iranom-razblokirovku-ormuzskogo-proliva"
+  },
+  {
+    "date": "20260313",
+    "actor": "FRANCE",
+    "target_country": "ISR",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.hometownregister.com/news/national/strikes-target-gulf-as-french-soldier-killed-in-iraq/article_f49d0a60-0767-5d01-9c7b-9962051f8f09.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "PARIS",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 56,
+    "source_url": "http://www.parisguardian.com/news/278919443/middle-east-war-causes-largest-oil-supply-disruption-ever"
+  },
+  {
+    "date": "20260314",
+    "actor": "FRANCE",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 21,
+    "source_url": "https://www.idahostatejournal.com/news/national/the-latest-trump-threatens-irans-oil-infrastructure-after-us-bombs-strategic-island/article_962ddafb-284c-5092-92dc-24e54af2c5c7.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "PARIS",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.bresciaoggi.it/news/mondo/media-parigi-propone-riconoscimento-di-israele-da-parte-del-libano-1.12956263"
+  },
+  {
+    "date": "20260314",
+    "actor": "FRENCH",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.news.gr/kosmos/article/4097287/o-emanouel-makron-kali-to-israil-se-apefthias-sinomilies-me-ton-livano.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "FRANCE",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 15,
+    "source_url": "https://www.idahostatejournal.com/news/national/the-latest-trump-threatens-irans-oil-infrastructure-after-us-bombs-strategic-island/article_962ddafb-284c-5092-92dc-24e54af2c5c7.html"
+  },
+  {
+    "date": "20260315",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.spacewar.com/afp/260315191350.vv3btj5m.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "FRANCE",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://world.comments.ua/news/near-east/makron-ozvuchil-zhestkiy-ultimatum-iranu-v-razgovore-s-prezidentom-strany-800775.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "FRANCE",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "http://french.people.com.cn/Afrique/n3/2026/0316/c96852-20436119.html"
+  },
+  {
+    "date": "20260320",
+    "actor": "PARIS",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/03/20/iranian-diaspora-marks-nowruz-with-heavy-hearts-as-war-cuts-contact-with-loved-ones"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "20260305",
+    "actor": "LIBYA",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860452/to-iran-kerdizei-tis-entyposeis-epitheseis-sok-tel-aviv-stoxos-to-yp-amynas-israil-paradoxi-ipa-asyllipta-ta-shahed"
+  },
+  {
+    "date": "20260306",
+    "actor": "LIBYAN",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://nuclear-news.net/2026/03/06/"
+  },
+  {
+    "date": "20260314",
+    "actor": "TRIPOLI",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 63,
+    "source_url": "https://www.penarthtimes.co.uk/news/national/25936444.us-orders-2-500-marines-assault-ship-middle-east/"
+  },
+  {
+    "date": "20260314",
+    "actor": "TRIPOLI",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 21,
+    "source_url": "https://www.tivysideadvertiser.co.uk/news/national/25936476.donald-trump-says-us-forces-obliterated-military-targets-iranian-island/"
+  }
+]

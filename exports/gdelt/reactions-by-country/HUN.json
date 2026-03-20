@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260301",
+    "actor": "HUNGARIAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.index.hr/vijesti/clanak/madjarska-osudila-iranske-napade-na-bliskom-istoku/2765994.aspx?index_tid=938416&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260314",
+    "actor": "HUNGARIAN",
+    "target_country": "ISR",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 18,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Siyarto-Konfliktut-v-Blizkiya-iztok-shte-produlzhi-dulgo-vreme-Sigurnostta-n-2923763"
+  }
+]

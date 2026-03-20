@@ -1,0 +1,602 @@
+[
+  {
+    "date": "20260228",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 27,
+    "source_url": "https://www.dailyecho.co.uk/news/national/25895913.trump-says-iran-threatened-europe-confirms-strikes-tehran/"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 16,
+    "source_url": "https://www.smdailyjournal.com/news/national/the-latest-iran-launches-retaliatory-strikes-as-trump-calls-for-regime-change/article_8f743d54-a4ef-5cb4-a9b0-5739064e71f6.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.yahoo.com/news/articles/us-israel-bomb-iran-timeline-113131466.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859453/vretania-kai-germania-speydoun-na-syndramoun-me-mesa-aeramynas-to-israil-en-meso-katarrefsis-tou-iron-dome%20title="
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 24,
+    "source_url": "https://www.daytondailynews.com/news/nation-world/the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/LVLGXFTCRVJPXMWZU3H6LWOJMI/"
+  },
+  {
+    "date": "20260301",
+    "actor": "BRITAIN",
+    "target_country": "IRN",
+    "event_code": "026",
+    "event_root": "02",
+    "goldstein": 4.0,
+    "articles": 24,
+    "source_url": "https://www.wdbo.com/news/world/un-chief-condemns-us/CMIFAZKH5I763E3AVC3CGJ3FRM/"
+  },
+  {
+    "date": "20260301",
+    "actor": "LONDON",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 20,
+    "source_url": "https://www.tanjug.rs/svet/politika/234007/starmer-velika-britanija-prihvatila-zahtev-sad-da-koriste-britanske-baze/vest"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "011",
+    "event_root": "01",
+    "goldstein": -0.1,
+    "articles": 18,
+    "source_url": "https://www.penarthtimes.co.uk/news/national/25897117.uk-declines-say-whether-us-israeli-strikes-iran-legal/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 80,
+    "source_url": "https://www.thewestonmercury.co.uk/news/national/25899759.first-minister-says-uk-made-absolutely-wrong-call-iran-involvement/"
+  },
+  {
+    "date": "20260302",
+    "actor": "BRITAIN",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://english.news.cn/20260302/b9af6aa2dca048b2a4cd9313d8a32998/c.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.thewestonmercury.co.uk/news/national/25899759.first-minister-says-uk-made-absolutely-wrong-call-iran-involvement/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.tanea.gr/2026/03/02/world/germania-eksetazei-to-endexomeno-na-symmetasxei-stis-epixeiriseis-tou-israil-kai-ton-ipa-kata-tou-iran/"
+  },
+  {
+    "date": "20260302",
+    "actor": "DOWNING STREET",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.somersetcountygazette.co.uk/news/national/uk-today/25897716.aa-warn-petrol-prices-uk-rise-amid-iran-attacks/"
+  },
+  {
+    "date": "20260302",
+    "actor": "DOWNING STREET",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.somersetcountygazette.co.uk/news/national/uk-today/25897716.aa-warn-petrol-prices-uk-rise-amid-iran-attacks/"
+  },
+  {
+    "date": "20260302",
+    "actor": "BRITISH",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.3yonnews.com/1962175"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.readingchronicle.co.uk/news/national/25899759.first-minister-says-uk-made-absolutely-wrong-call-iran-involvement/"
+  },
+  {
+    "date": "20260303",
+    "actor": "LONDON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 80,
+    "source_url": "https://www.messengernewspapers.co.uk/news/national/25903059.government-flight-rescue-britons-stranded-oman/"
+  },
+  {
+    "date": "20260303",
+    "actor": "LONDON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 80,
+    "source_url": "https://www.wirralglobe.co.uk/news/national/25903059.government-flight-rescue-britons-stranded-oman/"
+  },
+  {
+    "date": "20260303",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 35,
+    "source_url": "https://www.harwichandmanningtreestandard.co.uk/news/national/25903406.too-soon-know-middle-east-war-will-affect-small-boat-arrivals---experts/"
+  },
+  {
+    "date": "20260303",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 30,
+    "source_url": "https://www.index.hr/vijesti/clanak/trump-o-britanskom-premijeru-ocito-nemamo-posla-s-winstonom-churchillom/2767116.aspx"
+  },
+  {
+    "date": "20260303",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.newsbeast.gr/world/arthro/12934235/efcharistoume-tin-ellada-pou-kanei-ti-douleia-tou-starmer-thetikes-antidraseis-sti-vretania-gia-tin-elliniki-syndromi-stin-kypro"
+  },
+  {
+    "date": "20260303",
+    "actor": "DOWNING STREET",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.ardrossanherald.com/news/25899150.aa-warn-petrol-prices-uk-rise-amid-iran-attacks/"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 32,
+    "source_url": "https://www.oxfordmail.co.uk/news/national/25907529.starmer-says-uk-us-relationship-not-mean-hanging-trumps-words/"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 22,
+    "source_url": "https://www.timesandstar.co.uk/news/national/25906758.starmer-defends-response-iran-crisis-criticism-trump-tories/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 66,
+    "source_url": "https://www.falmouthpacket.co.uk/news/national/25908977.iran-war-enters-sixth-day-flights-due-bring-britons-home-middle-east/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 45,
+    "source_url": "https://www.harrowtimes.co.uk/news/national/25910906.couple-back-uk-stranded-dubai-tell-absolute-chaos/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 36,
+    "source_url": "https://www.harrowtimes.co.uk/news/national/25910906.couple-back-uk-stranded-dubai-tell-absolute-chaos/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 28,
+    "source_url": "https://www.eadt.co.uk/news/national/25912756.john-healey-declines-rule-uk-aircraft-taking-part-strikes-iran/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 22,
+    "source_url": "https://www.falmouthpacket.co.uk/news/national/25908977.iran-war-enters-sixth-day-flights-due-bring-britons-home-middle-east/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 22,
+    "source_url": "https://www.falmouthpacket.co.uk/news/national/25908977.iran-war-enters-sixth-day-flights-due-bring-britons-home-middle-east/"
+  },
+  {
+    "date": "20260305",
+    "actor": "GLASGOW",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 21,
+    "source_url": "https://www.bridgwatermercury.co.uk/news/national/25911451.scots-iranians-rally-us-consulate-show-gratitude-strikes/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.index.hr/vijesti/clanak/starmer-dogovor-s-iranom-je-najbolji-put-naprijed/2767950.aspx?index_tid=944506&index_ref=naslovnica_vijesti_ostalo_d_1"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 18,
+    "source_url": "https://www.harrowtimes.co.uk/news/national/25910906.couple-back-uk-stranded-dubai-tell-absolute-chaos/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.harrowtimes.co.uk/news/national/25910906.couple-back-uk-stranded-dubai-tell-absolute-chaos/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25908977.iran-war-enters-sixth-day-flights-due-bring-britons-home-middle-east/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.eurointegration.com.ua/articles/2026/03/5/7232550/"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.army-technology.com/news/live-middle-east-iran-crisis/"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 60,
+    "source_url": "https://www.tivysideadvertiser.co.uk/news/national/25912756.john-healey-declines-rule-uk-aircraft-taking-part-strikes-iran/"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 36,
+    "source_url": "https://www.freepressseries.co.uk/news/national/25913015.four-arrested-suspicion-spying-jewish-community-iran/"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 48,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25916566.us-bomber-lands-uk-iran-war-enters-eighth-day/"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 30,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25916566.us-bomber-lands-uk-iran-war-enters-eighth-day/"
+  },
+  {
+    "date": "20260307",
+    "actor": "LONDON",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 20,
+    "source_url": "https://www.wdtimes.com/news/world/us-anti-drone-system-tested-in-ukraine-will-head-to-mideast-to-boost-us-defenses/article_b0b11ebc-5d7f-5ae2-9e15-30f6ee7ff5ca.html"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.thurrockgazette.co.uk/news/national/25916566.us-bomber-lands-uk-iran-war-enters-eighth-day/"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860884/panikos-me-iskander-kai-kalibr-dielysan-kievo-kharkiv-odisso-erxetai-arsi-kyroseon-vretania-o-zelensky-exei-thrasos"
+  },
+  {
+    "date": "20260307",
+    "actor": "LONDON",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.newsit.gr/kosmos/skines-xaous-sto-londino-agries-symplokes-ypostirikton-kai-antipalon-tou-iranikou-kathestotos-ekso-apo-tzami/4619481/"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.jpnews-sy.com/ar/news.php?id=247294"
+  },
+  {
+    "date": "20260307",
+    "actor": "LONDON",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.chardandilminsternews.co.uk/news/national/25917362.thousands-protest-us-embassy-london-calling-end-strikes-iran/"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.halsteadgazette.co.uk/news/national/25938307.starmer-trump-discuss-importance-reopening-strait-hormuz/"
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/863179/apokalypsi-sok-apo-vretania-to-iran-ekane-asylliptes-paraxoriseis-stis-ipa-to-israil-esyre-ton-trump-se-paranomo-polemo%20title="
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/863179/apokalypsi-sok-apo-vretania-to-iran-ekane-asylliptes-paraxoriseis-stis-ipa-to-israil-esyre-ton-trump-se-paranomo-polemo%20title="
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 24,
+    "source_url": "https://www.index.hr/vijesti/clanak/omanski-ministar-trump-je-izgubio-kontrolu-nad-vanjskom-politikom/2773015.aspx"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 24,
+    "source_url": "https://www.index.hr/vijesti/clanak/omanski-ministar-trump-je-izgubio-kontrolu-nad-vanjskom-politikom/2773015.aspx"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://ria.ru/20260319/velikobritanija-2081580126.html"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "1122",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://ria.ru/20260319/velikobritanija-2081580126.html"
+  },
+  {
+    "date": "20260320",
+    "actor": "DOWNING STREET",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 90,
+    "source_url": "https://www.keighleynews.co.uk/news/national/25956345.uk-lets-us-use-british-bases-strike-iranian-sites-targeting-strait-hormuz/"
+  },
+  {
+    "date": "20260320",
+    "actor": "DOWNING STREET",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 48,
+    "source_url": "https://www.keighleynews.co.uk/news/national/25956345.uk-lets-us-use-british-bases-strike-iranian-sites-targeting-strait-hormuz/"
+  },
+  {
+    "date": "20260320",
+    "actor": "LONDON",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "http://www.afghanistansun.com/news/278932422/european-nations-japan-condemn-iranian-strikes-on-vessels-in-hormuz-call-for-safe-navigation"
+  },
+  {
+    "date": "20260320",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://interfax.com.ua/news/general/1153033.html"
+  },
+  {
+    "date": "20260320",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Abas-Aragchi-London-i-nyakoi-strani-ot-ES-uchastvat-v-agresiyata-sreshtu-Iran-2930256"
+  },
+  {
+    "date": "20260320",
+    "actor": "UNITED KINGDOM",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.tanea.gr/2026/03/20/world/in-vasileio-egkrinei-ti-xrisi-vaseon-apo-tis-ipa-gia-tin-epithesi-se-iranikes-egkatastaseis-pyraylon-pou-stoxeyoun-ploia/"
+  }
+]

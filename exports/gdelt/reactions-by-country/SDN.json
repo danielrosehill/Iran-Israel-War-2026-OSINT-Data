@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260228",
+    "actor": "SUDAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.thepaper.gr/ektakta-metra-asfaleias-sti-stratiotiki-vasi-sti-soyda-meta-tis-apeiles-toy-iran-enantion-kathe-amerikanikis-egkatastasis/"
+  },
+  {
+    "date": "20260302",
+    "actor": "SUDAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/diavaste-sta-nea-tis-tritis-lefkosia-kalei-athina--SOS.htm"
+  }
+]

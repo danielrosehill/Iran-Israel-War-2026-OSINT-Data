@@ -1,0 +1,72 @@
+[
+  {
+    "date": "20260301",
+    "actor": "PAKISTANI",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://www.abc10.com/article/news/nation-world/shiites-storm-us-consulate-pakistan-over-killing-iran-supreme-leader/507-fa343cfd-9a10-4fd9-b904-82a2dc2a6bf0"
+  },
+  {
+    "date": "20260301",
+    "actor": "PAKISTANI",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 32,
+    "source_url": "https://www.localmemphis.com/article/news/nation-world/shiites-storm-us-consulate-pakistan-over-killing-iran-supreme-leader/507-fa343cfd-9a10-4fd9-b904-82a2dc2a6bf0"
+  },
+  {
+    "date": "20260301",
+    "actor": "PAKISTAN",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.moneycontrol.com/world/pakistan-s-diplomatic-tightrope-after-khamenei-s-death-protests-alliances-and-regional-impact-article-13847283.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "PAKISTAN",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.insidenova.com/news/national/at-least-25-killed-at-pakistans-pro-iran-weekend-protests/article_594de0ab-ca82-59d1-a623-d43a240eef1d.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "ISLAMABAD",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860417/pakistan-enters-the-fray-islamabad-warns-tehran-it-will-defend-saudi-arabia-at-all-costs"
+  },
+  {
+    "date": "20260305",
+    "actor": "PAKISTAN",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "http://www.bignewsnetwork.com/news/278903355/the-middle-east-is-on-fire-will-this-gulf-become-another-oil-haven"
+  },
+  {
+    "date": "20260306",
+    "actor": "PAKISTANI",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 21,
+    "source_url": "https://www.chicoer.com/2026/03/06/pakistani-shiites-iran-war/"
+  }
+]

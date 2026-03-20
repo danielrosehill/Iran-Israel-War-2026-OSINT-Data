@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260301",
+    "actor": "MALAYSIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.jugantor.com/international/1072180"
+  },
+  {
+    "date": "20260303",
+    "actor": "MALAYSIA",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "http://usa.chinadaily.com.cn/a/202603/03/WS69a67f3ea310d6866eb3b5a5.html"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "date": "20260301",
+    "actor": "SYRIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.daytondailynews.com/news/nation-world/the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/LVLGXFTCRVJPXMWZU3H6LWOJMI/"
+  },
+  {
+    "date": "20260302",
+    "actor": "SYRIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.haberler.com/guncel/lubnan-abd-uzerinden-israil-e-muzakere-teklifinde-bulundu-19641743-haberi/"
+  },
+  {
+    "date": "20260305",
+    "actor": "SYRIA",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 24,
+    "source_url": "https://www.news-herald.com/2026/03/05/us-iran-israel-attacks/"
+  },
+  {
+    "date": "20260306",
+    "actor": "SYRIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.abc.net.au/news/2026-03-06/kurdish-forces-flag-entering-iran-us-israel-middle-east-war/106423352"
+  },
+  {
+    "date": "20260320",
+    "actor": "SYRIA",
+    "target_country": "ISR",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 88,
+    "source_url": "https://www.clactonandfrintongazette.co.uk/news/national/25952919.iran-hits-kuwaiti-refinery-explosions-sound-tehran-israeli-attack/"
+  },
+  {
+    "date": "20260320",
+    "actor": "SYRIA",
+    "target_country": "ISR",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 48,
+    "source_url": "https://www.dailyecho.co.uk/news/national/25952919.iran-hits-kuwaiti-refinery-explosions-sound-tehran-israeli-attack/"
+  },
+  {
+    "date": "20260320",
+    "actor": "SYRIA",
+    "target_country": "ISR",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 22,
+    "source_url": "https://www.clactonandfrintongazette.co.uk/news/national/25952919.iran-hits-kuwaiti-refinery-explosions-sound-tehran-israeli-attack/"
+  },
+  {
+    "date": "20260320",
+    "actor": "SYRIA",
+    "target_country": "ISR",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.dailyecho.co.uk/news/national/25952919.iran-hits-kuwaiti-refinery-explosions-sound-tehran-israeli-attack/"
+  },
+  {
+    "date": "20260320",
+    "actor": "SYRIA",
+    "target_country": "ISR",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.dailyecho.co.uk/news/national/25952919.iran-hits-kuwaiti-refinery-explosions-sound-tehran-israeli-attack/"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "20260315",
+    "actor": "PHILIPPINE",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://english.news.cn/asiapacific/20260315/ea1e117ec3444a3196a375e1d0799b63/c.html"
+  },
+  {
+    "date": "20260315",
+    "actor": "PHILIPPINE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://english.news.cn/asiapacific/20260315/ea1e117ec3444a3196a375e1d0799b63/c.html"
+  }
+]

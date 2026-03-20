@@ -1,0 +1,842 @@
+[
+  {
+    "date": "20260228",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.tvanouvelles.ca/2026/02/28/le-monde-reagit-aux-frappes-americaines-et-israeliennes-en-iran"
+  },
+  {
+    "date": "20260228",
+    "actor": "LEBANESE",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.emaratalyoum.com/local-section/other/2026-03-01-1.2020447"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 80,
+    "source_url": "https://www.greenocktelegraph.co.uk/news/national/25899124.war-widens-include-tehran-backed-militias-israeli-us-planes-pound-iran/"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 38,
+    "source_url": "https://yalibnan.com/2026/03/02/israel-strikes-beiruts-southern-suburbs-after-hezbollah-attacks/"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 21,
+    "source_url": "https://www.fox2detroit.com/news/oil-tankers-refineries-attack-us-israel-strikes-iran"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "http://mignews.com/news/arabisrael/cahal-atakoval-bolee-70-obektov-hezbolly-v-livane.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.upr.org/npr-news/2026-03-02/a-4th-u-s-soldier-has-died-as-the-war-with-iran-further-engulfs-the-region"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://3yonnews.com/1961962"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://3yonnews.com/1961963"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.goulburnpost.com.au/story/9187034/israel-strikes-lebanon-following-hezbollah-attacks/"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.marketscreener.com/news/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-ce7e5cdcdd89ff2d"
+  },
+  {
+    "date": "20260302",
+    "actor": "BEIRUT",
+    "target_country": "IRN",
+    "event_code": "017",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.dailylocal.com/2026/03/02/iran-diminished-power/"
+  },
+  {
+    "date": "20260302",
+    "actor": "BEIRUT",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.dailylocal.com/2026/03/02/iran-diminished-power/"
+  },
+  {
+    "date": "20260302",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://3yonnews.com/1961988"
+  },
+  {
+    "date": "20260303",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 32,
+    "source_url": "https://politicaldog101.com/tag/us-boots-on-the-ground-iran/"
+  },
+  {
+    "date": "20260303",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 24,
+    "source_url": "https://www.therural.com.au/story/9189612/australia-trashing-world-order-by-backing-us-strikes/"
+  },
+  {
+    "date": "20260303",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.kedm.org/npr-news/2026-03-02/6-u-s-soldiers-have-been-killed-as-the-war-with-iran-further-engulfs-the-region"
+  },
+  {
+    "date": "20260303",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.heraldmalaysia.com/news/sorrow-shock-prayer-for-catholics-in-mideast-amid-war/87843/2"
+  },
+  {
+    "date": "20260303",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492&entryId=130718629"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 86,
+    "source_url": "https://www.hillingdontimes.co.uk/news/national/25905055.macron-orders-frances-nuclear-powered-aircraft-carrier-mediterranean/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 33,
+    "source_url": "https://www.hillingdontimes.co.uk/news/national/25905055.macron-orders-frances-nuclear-powered-aircraft-carrier-mediterranean/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 27,
+    "source_url": "https://www.hillingdontimes.co.uk/news/national/25905055.macron-orders-frances-nuclear-powered-aircraft-carrier-mediterranean/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.hillingdontimes.co.uk/news/national/25905055.macron-orders-frances-nuclear-powered-aircraft-carrier-mediterranean/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.bt.dk/udland/flere-mennesker-meldes-draebt-efter-israelske-luftangreb-i-libanon"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 18,
+    "source_url": "https://www.goulburnpost.com.au/story/9189612/planned-flight-to-leave-dubai-for-australia/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.dailybulletin.com/2026/03/04/iran-war-flights-what-to-know/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.haberler.com/3-sayfa/hizbullah-ve-israil-arasinda-catisma-kayiplar-var-19624818-haberi/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 16,
+    "source_url": "https://www.redlandcitybulletin.com.au/story/9189612/war-trapped-aussies-heading-home-on-first-dubai-flight/"
+  },
+  {
+    "date": "20260304",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 16,
+    "source_url": "https://www.redlandcitybulletin.com.au/story/9189612/war-trapped-aussies-heading-home-on-first-dubai-flight/"
+  },
+  {
+    "date": "20260305",
+    "actor": "BEIRUT",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 30,
+    "source_url": "https://www.lalsace.fr/defense-guerre-conflit/2026/03/05/au-sixieme-jour-du-conflit-inquietude-sur-le-prix-du-carburant-en-france"
+  },
+  {
+    "date": "20260305",
+    "actor": "BEIRUT",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.bienpublic.com/defense-guerre-conflit/2026/03/05/au-sixieme-jour-du-conflit-inquietude-sur-le-prix-du-carburant-en-france"
+  },
+  {
+    "date": "20260305",
+    "actor": "BEIRUT",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://3yonnews.com/1963154"
+  },
+  {
+    "date": "20260306",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 36,
+    "source_url": "https://www.dailylocal.com/2026/03/06/israel-iran-lebanon-us/"
+  },
+  {
+    "date": "20260306",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 18,
+    "source_url": "https://www.turnto23.com/world/israel-at-war/trump-says-he-wants-to-be-involved-in-picking-irans-next-leader"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 60,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 40,
+    "source_url": "https://www.thisiswiltshire.co.uk/news/national/25915413.trump-rules-talks-iran-israel-strikes-lebanon/"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 40,
+    "source_url": "https://www.kasu.org/2026-03-07/how-the-u-s-and-israels-war-with-iran-is-realigning-the-politics-of-the-middle-east"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.ketr.org/2026-03-07/irans-president-defies-u-s-demands-while-apologizing-for-strikes-on-neighbors"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.wsls.com/news/world/2026/03/07/iranian-attacks-target-gulf-states-as-us-warns-bombing-will-intensify/"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.latribunadealbacete.es/noticia/z56757e7b-78a2-4dc7-958bc6e146741ac3/202603/una-incursion-israeli-deja-al-menos-41-muertos-en-libano"
+  },
+  {
+    "date": "20260307",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 15,
+    "source_url": "https://nos.nl/collectie/14015/liveblog/2605111-klm-mijdt-dubai-en-twee-saudische-steden-paar-dagen-langer-trump-wil-onvoorwaardelijke-overgave-iran"
+  },
+  {
+    "date": "20260308",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.ksmu.org/2026-03-07/how-the-u-s-and-israels-war-with-iran-is-realigning-the-politics-of-the-middle-east"
+  },
+  {
+    "date": "20260309",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 30,
+    "source_url": "https://www.topontiki.gr/2026/03/09/livanos-i-hrw-katigori-to-israil-oti-chrisimopiise-piromachika-lefkou-fosforou-enantion-katikimenon-periochon/"
+  },
+  {
+    "date": "20260309",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 21,
+    "source_url": "https://www.whio.com/news/world/latest-israeli/NOSXCLV6G42P3BNZ4ZNZZBRBSY/"
+  },
+  {
+    "date": "20260309",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.foxbangor.com/news/national/lebanon-president-accuses-hezbollah-of-working-to-collapse-state/article_6ee8904b-d3ef-5b0c-8127-85754e3fff71.html"
+  },
+  {
+    "date": "20260309",
+    "actor": "LEBANON",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.jpost.com/middle-east/article-889303"
+  },
+  {
+    "date": "20260309",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.haaretz.co.il/news/politics/war-2023/2026-03-09/ty-article-live/0000019c-cf9f-d0ee-a5df-efbf76890000?liveBlogItemId=1349584725"
+  },
+  {
+    "date": "20260310",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 40,
+    "source_url": "https://www.birgun.net/haber/canli-blog-abd-ve-israil-in-saldirilarinda-11-gun-arakciden-muzakere-yok-mesaji-698429%20class=slide-link%20target=_blank"
+  },
+  {
+    "date": "20260310",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 30,
+    "source_url": "https://abcnews.al/libani-kerkon-dialog-me-izraelin-dhe-carmatimin-e-hezbollahut/"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 30,
+    "source_url": "https://www.baltimoresun.com/2026/03/12/iran-us-israel-strikes/"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 24,
+    "source_url": "https://www.dailynews.com/2026/03/12/iran-us-israel-strikes/"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 20,
+    "source_url": "https://mignews.com/news/politic/kac-prigrozil-izrail-zajmet-territoriyu-esli-livan-ne-ostanovit-hezbollu.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.sandiegouniontribune.com/2026/03/12/iran-us-cyber-threats/"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "0256",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 20,
+    "source_url": "https://www.idahopress.com/news/world/irans-secretive-top-leader-vows-to-keep-up-attacks-in-his-first-statement-since-being/article_6a4eae54-da47-5b7a-8b6e-ff0f1956d050.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.keysnews.com/news/national/iran-says-war-could-destroy-global-economy-trump-vows-to-finish-job/article_15c3c0f4-b15b-55e0-86d2-cd7fc98f57e8.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "http://www.haberler.com/guncel/israil-den-lubnan-a-kara-harekati-hazirligi-19652238-haberi/"
+  },
+  {
+    "date": "20260312",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "0256",
+    "event_root": "02",
+    "goldstein": -0.3,
+    "articles": 16,
+    "source_url": "https://www.dailypress.com/2026/03/12/iran-us-israel-strikes/"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://news.prairiepublic.org/news-from-npr/2026-03-13/four-confirmed-dead-after-u-s-military-aircraft-goes-down-in-iraq"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 18,
+    "source_url": "https://www.wrvo.org/2026-03-13/all-6-u-s-crew-are-dead-after-a-military-aircraft-goes-down-in-iraq"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.haberler.com/guncel/analiz-israil-hizbullah-savasinda-yeni-asama-ve-19653521-haberi/"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.yahoo.com/news/articles/lebanons-offer-direct-talks-israel-143817583.html"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.wvasfm.org/2026-03-13/all-6-u-s-crew-are-dead-after-a-plane-goes-down-in-iraq-as-mideast-war-toll-mounts"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.wvasfm.org/2026-03-13/all-6-u-s-crew-are-dead-after-a-plane-goes-down-in-iraq-as-mideast-war-toll-mounts"
+  },
+  {
+    "date": "20260313",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.wvasfm.org/2026-03-13/all-6-u-s-crew-are-dead-after-a-plane-goes-down-in-iraq-as-mideast-war-toll-mounts"
+  },
+  {
+    "date": "20260314",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "015",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.newsargus.com/news/national/hezbollah-says-ready-for-long-battle-as-israel-threatens-lebanese-infrastructure/article_a0753701-b898-57e3-b1aa-ded369fb6335.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/guncel/israil-ordusu-lubnan-daki-sivil-kamyonlara-saldiri-tehdidinde-bulundu-19658803-haberi/"
+  },
+  {
+    "date": "20260314",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 18,
+    "source_url": "https://www.syri.net/bote/872060/macron-ofron-negociata-ne-paris-per-paqe-mes-izraelit-dhe-libanit/"
+  },
+  {
+    "date": "20260314",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://www.laregione.ch/estero/estero/1911254/israele-libano-hezbollah-parigi-piano-riconoscimento-pace"
+  },
+  {
+    "date": "20260314",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "016",
+    "event_root": "01",
+    "goldstein": -2.0,
+    "articles": 15,
+    "source_url": "https://www.dostor.org/5457621"
+  },
+  {
+    "date": "20260315",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://notizie.tiscali.it/esteri/articoli/media-colloqui-diretti-israele-libano-nei-prossimi-giorni-00001/"
+  },
+  {
+    "date": "20260315",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://notizie.tiscali.it/esteri/articoli/media-colloqui-diretti-israele-libano-nei-prossimi-giorni-00001/"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 40,
+    "source_url": "https://www.keysnews.com/news/national/israel-launches-fresh-strike-on-south-beirut/article_5909411b-9637-56dc-8f38-b4e3fd30d755.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 34,
+    "source_url": "https://www.keysnews.com/news/national/israel-launches-fresh-strike-on-south-beirut/article_5909411b-9637-56dc-8f38-b4e3fd30d755.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 32,
+    "source_url": "https://www.keysnews.com/news/national/israel-launches-fresh-strike-on-south-beirut/article_5909411b-9637-56dc-8f38-b4e3fd30d755.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "BEIRUT",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 27,
+    "source_url": "https://www.spacewar.com/afp/260316212838.1gjxwjod.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.panorama.com.al/irani-mohon-se-ka-kerkuar-armepushim-cmimi-i-naftes-shkon-ne-106-dollare-per-fuci/"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.kristeligt-dagblad.dk/udland/israels-haer-bekraefter-militaere-landoperationer-i-libanon"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.spacewar.com/afp/260316212838.1gjxwjod.html"
+  },
+  {
+    "date": "20260316",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.straitstimes.com/world/middle-east/israel-announces-lebanon-ground-assault-against-hezbollah"
+  },
+  {
+    "date": "20260318",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 48,
+    "source_url": "https://www.gazetteandherald.co.uk/news/national/25945459.iran-keeps-attacking-neighbours-confirms-israel-killed-two-top-officials/"
+  },
+  {
+    "date": "20260318",
+    "actor": "LEBANESE",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.peoplesworld.org/article/israels-endless-war-on-lebanon-produces-endless-profits-for-u-s-weapons-manufacturers/"
+  },
+  {
+    "date": "20260319",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 30,
+    "source_url": "https://www.durangoherald.com/articles/in-lebanon-war-and-displacement-mar-run-up-to-eid-al-fitr-holiday-for-many/"
+  },
+  {
+    "date": "20260319",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "123",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://us.cnn.com/2026/03/19/middleeast/lebanese-prime-minister-exclusive-interview-latam-intl"
+  },
+  {
+    "date": "20260320",
+    "actor": "LEBANON",
+    "target_country": "ISR",
+    "event_code": "123",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://abc17news.com/news/national-world/cnn-world/2026/03/19/under-israeli-bombardment-lebanon-urges-trump-to-intervene-calls-for-immediate-talks-with-israel-2/"
+  }
+]

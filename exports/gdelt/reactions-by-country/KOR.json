@@ -1,0 +1,32 @@
+[
+  {
+    "date": "20260304",
+    "actor": "SEOUL",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.koreaherald.com:443/article/10686370"
+  },
+  {
+    "date": "20260318",
+    "actor": "BUSAN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003215956"
+  },
+  {
+    "date": "20260318",
+    "actor": "BUSAN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003215956"
+  }
+]

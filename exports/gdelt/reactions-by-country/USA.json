@@ -1,0 +1,2712 @@
+[
+  {
+    "date": "20260228",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "113",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 89,
+    "source_url": "https://wiadomosci.wp.pl/nagrania-z-ataku-na-iran-dym-nad-teheranem-7259181574179200a"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 34,
+    "source_url": "https://mix989.iheart.com/content/2026-02-28-us-and-israel-attack-iran-with-trump-confirming-major-combat-operations/"
+  },
+  {
+    "date": "20260228",
+    "actor": "REUTERS",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 30,
+    "source_url": "https://www.dagelijksestandaard.nl/midden-oosten/cia-lek-onthult-de-bittere-waarheid-ultra-radicale-irgc-neemt-de-macht-over-als-khamenei-dood-is?comment=926780"
+  },
+  {
+    "date": "20260228",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 28,
+    "source_url": "https://turnto10.com/news/nation-world/operation-epic-fury-most-dems-criticize-trump-while-republicans-praise-president-iran-attack-strikes-war-powers-nuclear-iranian-regime-terrorist-organizations-hamas-hezbollah-trump-johnson-jeffries-schumer"
+  },
+  {
+    "date": "20260228",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "113",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 25,
+    "source_url": "https://wiadomosci.wp.pl/lot-odwoluje-polaczenia-z-izraelem-7259203999574464a"
+  },
+  {
+    "date": "20260228",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 21,
+    "source_url": "https://nebraska.tv/news/nation-world/operation-epic-fury-most-dems-criticize-trump-while-republicans-praise-president-iran-attack-strikes-war-powers-nuclear-iranian-regime-terrorist-organizations-hamas-hezbollah-trump-johnson-jeffries-schumer"
+  },
+  {
+    "date": "20260228",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 20,
+    "source_url": "https://www.prokerala.com/news/articles/a1734250.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://unn.ua/ru/news/ssha-i-izrail-mesyatsami-gotovili-sovmestnuyu-voennuyu-operatsiyu-protiv-irana-smi"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 20,
+    "source_url": "https://www.yahoo.com/news/articles/us-israel-bomb-iran-timeline-113131466.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://rtcg.me/u-toku/817959/sad-i-izrael-napali-iran-teheran-lansirao-rakete-ka-izraelu.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859262/proklitiki-epithesi-israilinon-sto-iran-eksapelysan-proliptika-xtypimata-ekrikseis-stin-texerani%20title="
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 19,
+    "source_url": "https://www.lynnnews.co.uk/national/uk-should-resist-being-dragged-into-war-after-iran-strikes-says-labour-mp-163343/"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 18,
+    "source_url": "https://www.premiumtimesng.com/news/headlines/860318-iran-retaliates-targets-israel-us-forces-in-qatar-bahrain-kuwait-uae.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 18,
+    "source_url": "https://www.radiosvoboda.org/a/news-netanyahu-iran-izrayi/33690352.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 18,
+    "source_url": "https://www.premiumtimesng.com/news/headlines/860318-iran-retaliates-targets-israel-us-forces-in-qatar-bahrain-kuwait-uae.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "033",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 18,
+    "source_url": "https://glavcom.ua/world/observe/naslidki-ataki-na-iran-mzs-povidomilo-chi-vizhili-ajatola-khameneji-ta-prezident-pezeshkian-1105671.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 18,
+    "source_url": "https://www.bordertelegraph.com/news/national/25896348.starmer-tells-iran-refrain-attacks-calls-eu-allies/"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://www.lansi-savo.fi/uutissuomalainen/9264356"
+  },
+  {
+    "date": "20260228",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "044",
+    "event_root": "04",
+    "goldstein": 2.5,
+    "articles": 16,
+    "source_url": "https://www.prokerala.com/news/articles/a1734250.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.3yonnews.com/1961276"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE ASSOCIATED PRESS",
+    "target_country": "ISR",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 16,
+    "source_url": "https://www.fox5dc.com/news/irans-supreme-leader-ayatollah-ali-khamenei-killed-strike-report"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 16,
+    "source_url": "https://rtcg.me/u-toku/817959/sad-i-izrael-napali-iran-teheran-lansirao-rakete-ka-izraelu.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.bbc.com/news/live/cn5ge95q6y7t"
+  },
+  {
+    "date": "20260228",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.yahoo.com/news/articles/us-israel-bomb-iran-timeline-113131466.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://rpp.pe/mundo/actualidad/donald-trump-dice-que-tiene-una-gran-decision-que-tomar-con-respecto-a-iran-noticia-1677887"
+  },
+  {
+    "date": "20260228",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "http://usa.chinadaily.com.cn/a/202602/28/WS69a24755a310d6866eb3ab2a.html"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 42,
+    "source_url": "https://www.gazetteherald.co.uk/news/national/25896794.uk-chair-un-security-council-amid-reports-irans-leader-killed/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 27,
+    "source_url": "https://www.brentwoodlive.co.uk/news/national/25897258.situation-middle-east-deeply-concerning-says-angus-robertson/"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 24,
+    "source_url": "https://www.harrowtimes.co.uk/news/national/25897355.three-us-troops-killed-military-operation-iran/"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 24,
+    "source_url": "https://www.greenocktelegraph.co.uk/news/national/25897355.three-us-troops-killed-military-operation-iran/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 24,
+    "source_url": "https://www.gazetteherald.co.uk/news/national/25896794.uk-chair-un-security-council-amid-reports-irans-leader-killed/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.gazetteherald.co.uk/news/national/25896794.uk-chair-un-security-council-amid-reports-irans-leader-killed/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.gazetteherald.co.uk/news/national/25896846.trump-claims-iranian-supreme-leader-killed-us-israeli-strikes/"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 22,
+    "source_url": "https://www.ukrinform.ua/rubric-world/4096804-britania-zbivae-iranski-droni-na-blizkomu-shodi-gili.html"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 22,
+    "source_url": "https://www.pravda.com.ua/news/2026/03/01/8023310/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 22,
+    "source_url": "https://www.irishnews.com/news/uk/middle-east-faces-uncertainty-after-trump-claims-ayatollah-killed-HUU34LPFIFIMXPNPVYRG25RXIM/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 22,
+    "source_url": "https://www.greenocktelegraph.co.uk/news/national/25896891.iranian-state-tv-says-supreme-leader-ayatollah-ali-khamenei-died/"
+  },
+  {
+    "date": "20260301",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.mainlinemedianews.com/2026/02/28/trump-military-intervention/"
+  },
+  {
+    "date": "20260301",
+    "actor": "WALL STREET JOURNAL",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.3yonnews.com/1961709"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.mainlinemedianews.com/2026/02/28/trump-military-intervention/"
+  },
+  {
+    "date": "20260301",
+    "actor": "REUTERS",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.dagelijksestandaard.nl/midden-oosten/cia-lek-onthult-de-bittere-waarheid-ultra-radicale-irgc-neemt-de-macht-over-als-khamenei-dood-is?comment=927039"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://1prime.ru/20260301/ssha-867921968.html"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.dudleynews.co.uk/news/national/25896916.huge-blast-rocks-tehran-israel-targets-iranian-capital-khamenei-killed/"
+  },
+  {
+    "date": "20260301",
+    "actor": "US LEADER",
+    "target_country": "IRN",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.northerndailyleader.com.au/story/9186492/australia-unlikely-to-join-us-attacks-on-iran-minister/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.gazetteherald.co.uk/news/national/25896794.uk-chair-un-security-council-amid-reports-irans-leader-killed/"
+  },
+  {
+    "date": "20260301",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.gazetteherald.co.uk/news/national/25896846.trump-claims-iranian-supreme-leader-killed-us-israeli-strikes/"
+  },
+  {
+    "date": "20260301",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.maalaimalar.com:443/news/tamilnadu/war-tension-in-the-middle-east-ajith-is-reportedly-safe-in-dubai-811366"
+  },
+  {
+    "date": "20260302",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "011",
+    "event_root": "01",
+    "goldstein": -0.1,
+    "articles": 64,
+    "source_url": "https://www.greenocktelegraph.co.uk/news/national/25899124.war-widens-include-tehran-backed-militias-israeli-us-planes-pound-iran/"
+  },
+  {
+    "date": "20260302",
+    "actor": "AMERICAN",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 60,
+    "source_url": "https://nagalandpost.com/no-fuel-hike-despite-global-oil-prices-rise/"
+  },
+  {
+    "date": "20260302",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 50,
+    "source_url": "https://www.ipswichstar.co.uk/news/national/25900927.war-widens-israel-us-pound-iran-tehran-allies-hit-back/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 32,
+    "source_url": "https://www.wamc.org/2026-03-01/3-american-troops-killed-and-trump-says-more-likely-in-war-against-iran"
+  },
+  {
+    "date": "20260302",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 30,
+    "source_url": "https://abc3340.com/news/nation-world/defense-secretary-pete-hegseth-insists-us-israel-joint-strikes-on-iran-are-not-iraq-not-endless-operation-epic-fury-president-donald-trump-pentagon-department-of-war-joint-chiefs-gen-caine-centcom"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://www.kwbu.org/latest-from-npr/2026-03-02/congress-gears-up-for-vote-on-trumps-war-powers-in-iran-after-the-battle-began"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://yle.fi/a/74-20212869/64-3-293318"
+  },
+  {
+    "date": "20260302",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 24,
+    "source_url": "https://bakersfieldnow.com/news/nation-world/armstrong-williams-strait-of-hormuz-cyber-threats-power-vacuums-how-the-region-changes-after-khamenei-washington-insider-iran-united-states-israel"
+  },
+  {
+    "date": "20260302",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 24,
+    "source_url": "https://www.journal-advocate.com/2026/03/02/hegseth-caine-iran/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.newsbeast.gr/world/arthro/12933300/einai-oi-vallistikoi-pyravloi-ilithie-ochi-ta-pyrinika-pos-israilinoi-dikaiologoun-ton-polemo-sto-iran"
+  },
+  {
+    "date": "20260302",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://home.nzcity.co.nz/news/article.aspx?id=440999&fm=psp,tsf"
+  },
+  {
+    "date": "20260302",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.wxii12.com/article/new-orleans-doctor-iran-israel-war-stranded/70579539"
+  },
+  {
+    "date": "20260302",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.visir.is/g/20262850406d/israel-gerir-a-rasir-a-tehran-og-beirut-og-iranir-svara-fyrir-sig"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.basingstokegazette.co.uk/news/national/25897626.us-israel-pound-iran-trump-signals-willingness-talk-new-leadership/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.basingstokegazette.co.uk/news/national/25897626.us-israel-pound-iran-trump-signals-willingness-talk-new-leadership/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 18,
+    "source_url": "https://www.basingstokegazette.co.uk/news/national/25897626.us-israel-pound-iran-trump-signals-willingness-talk-new-leadership/"
+  },
+  {
+    "date": "20260302",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.thedigitalcourier.com/news/national/israel-hezbollah-trade-fire-latest-developments-in-iran-war/article_f1176af9-ee01-50ec-a9cf-c7136fc0d8c1.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859677/patagodis-apotyxia-trump-o-khamenei-dolofonithike-to-kathestos-sto-iran-den-peftei-akoma-antexei-ti-tha-krinei-tin-allagi-eksousias"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.voria.gr/article/israil-i-epiheirisi-sto-iran-tha-diarkesei-oso-hreiastei"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "033",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 16,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/02/in-their-words-how-trumps-and-his-administrations-statements-on-iran-evolved-and-conflicted"
+  },
+  {
+    "date": "20260302",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "011",
+    "event_root": "01",
+    "goldstein": -0.1,
+    "articles": 16,
+    "source_url": "https://www.greenocktelegraph.co.uk/news/national/25899124.war-widens-include-tehran-backed-militias-israeli-us-planes-pound-iran/"
+  },
+  {
+    "date": "20260302",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.yakimaherald.com/news/nation_and_world/nation/hegseth-insists-the-iran-conflict-is-not-endless-while-warning-more-casualties-are-likely/article_3ffcf910-1d4d-5d5b-b014-5c3220ef730a.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://www.wgauradio.com/news/world/war-widens-include/6O6I2LBRJE3KRN5D4PBBWPIV2A/"
+  },
+  {
+    "date": "20260302",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 15,
+    "source_url": "https://nagalandpost.com/no-fuel-hike-despite-global-oil-prices-rise/"
+  },
+  {
+    "date": "20260303",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 46,
+    "source_url": "https://www.clickorlando.com/news/world/2026/03/03/iran-war-taxes-us-diplomatic-work-and-leaves-americans-in-the-mideast-in-limbo/"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 40,
+    "source_url": "https://www.kcci.com/article/new-orleans-doctor-iran-israel-war-stranded/70579539"
+  },
+  {
+    "date": "20260303",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 40,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/03/iran-war-taxes-us-diplomatic-work-and-leaves-americans-in-the-mideast-in-limbo"
+  },
+  {
+    "date": "20260303",
+    "actor": "A US",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://www.index.hr/clanak.aspx?id=2766953"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.northwalespioneer.co.uk/news/national/25900927.war-widens-israel-us-pound-iran-tehran-allies-hit-back/"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.wimbledonguardian.co.uk/news/national/25900927.war-widens-israel-us-pound-iran-tehran-allies-hit-back/"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.therural.com.au/story/9189612/australia-trashing-world-order-by-backing-us-strikes/"
+  },
+  {
+    "date": "20260303",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 20,
+    "source_url": "https://www.ess.fi/uutissuomalainen/9270641"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 18,
+    "source_url": "http://www.heraldglobe.com/news/278898769/tehran-terrorist-regime-shooting-civilians-were-shooting-at-them-to-protect-civilians-israeli-pm-netanyahu"
+  },
+  {
+    "date": "20260303",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "122",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 18,
+    "source_url": "https://www.wmur.com/article/whats-next-iran-congress-briefing/70581116"
+  },
+  {
+    "date": "20260303",
+    "actor": "OVAL OFFICE",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 18,
+    "source_url": "https://www.dumbartonreporter.co.uk/news/national/25904666.israel-steps-air-strikes-tehran-iran-widens-response-across-region/"
+  },
+  {
+    "date": "20260303",
+    "actor": "COLORADO",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.summitdaily.com/news/trump-iran-strikes-colorado-lawmakers-react/"
+  },
+  {
+    "date": "20260303",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.reviewonline.com/news/local-news/2026/03/hegseth-insists-the-iran-conflict-is-not-endless-while-warning-more-casualties-are-likely/"
+  },
+  {
+    "date": "20260303",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.tanea.gr/2026/03/03/world/rigma-stis-sxeseis-ipa-me-ispania-kai-vretania-den-eimai-katholou-eyxaristimenos-eipe-o-tramp-nees-apeiles-iran-stis-xores-tou-kolpou/"
+  },
+  {
+    "date": "20260303",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "http://french.xinhuanet.com/20260303/a32de9e24cf649159e9f339cfab467b4/c.html"
+  },
+  {
+    "date": "20260303",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/859978/o-amerikanikos-laos-den-stirizei-ton-polemo-sto-iran-i-makra-sygkrousi-tha-ftheirei-ti-stiriksi-trump-ston-netanyahu%20title="
+  },
+  {
+    "date": "20260303",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://foxsanantonio.com/news/nation-world/american-urged-to-depart-now-from-middle-east-nations-as-iran-conflict-spreads-president-donald-trump-state-department-pentagon-neighboring-strikes-gulf-countries-us-bases-us-embassy-saudi-arabia"
+  },
+  {
+    "date": "20260303",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 15,
+    "source_url": "http://www.heraldglobe.com/news/278898769/tehran-terrorist-regime-shooting-civilians-were-shooting-at-them-to-protect-civilians-israeli-pm-netanyahu"
+  },
+  {
+    "date": "20260304",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 36,
+    "source_url": "https://www.wyomingpublicmedia.org/2026-03-04/a-split-senate-votes-against-measure-to-constrain-trumps-authorities-in-iran"
+  },
+  {
+    "date": "20260304",
+    "actor": "OVAL OFFICE",
+    "target_country": "IRN",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 36,
+    "source_url": "https://www.dailybreeze.com/2026/03/03/us-iran-us-trump/"
+  },
+  {
+    "date": "20260304",
+    "actor": "THE ASSOCIATED PRESS",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 30,
+    "source_url": "https://www.wfaa.com/article/news/nation-world/attack-on-iran/us-sinks-iranian-warship-in-military-first-since-wwii-indiana-ocean-iris-dena-pete-hegseth-sri-lanka/507-6cbe32f4-fb69-4635-b70e-daacefe6efb9"
+  },
+  {
+    "date": "20260304",
+    "actor": "OVAL OFFICE",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 30,
+    "source_url": "https://www.dailybreeze.com/2026/03/03/us-iran-us-trump/"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.birgun.net/haber/devrik-sah-in-esi-farah-pehlevi-iran-in-gelecegi-halkinin-iradesiyle-belirlenmeli-697356%20target=_blank%20class=stretched-link"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 24,
+    "source_url": "https://www.birgun.net/haber/devrik-sah-in-esi-farah-pehlevi-iran-in-gelecegi-halkinin-iradesiyle-belirlenmeli-697356%20target=_blank%20class=stretched-link"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 24,
+    "source_url": "https://www.index.hr/vijesti/clanak/trump-je-prije-nekoliko-godina-izdao-kurde-sada-trazi-njihovu-pomoc-za-rusenje-irana/2767260.aspx"
+  },
+  {
+    "date": "20260304",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 22,
+    "source_url": "https://www.hppr.org/npr-news/2026-03-04/a-split-senate-votes-against-measure-to-constrain-trumps-authorities-in-iran"
+  },
+  {
+    "date": "20260304",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 22,
+    "source_url": "https://www.thetoc.gr/diethni/592435/grifos-i-epomeni-mera-sto-iran---tramp-oi-perissoteroi-iranoi-pou-eixa-sto-mualo-gia-diadoxous-einai-nekroi"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.haberler.com/guncel/bm-den-orta-dogu-daki-catismalara-iliskin-diplomasi-vurgusu-19625331-haberi/"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.ksml.fi/uutissuomalainen/9274705"
+  },
+  {
+    "date": "20260304",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/vretania-sto-mati-tou-kyklona-o-prothypourgos-kir-starmer--sfodres-oi-kritikes.htm"
+  },
+  {
+    "date": "20260304",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://wwmt.com/news/nation-world/when-fighting-ends-how-will-iran-be-run-group-meets-at-capitol-to-advocate-for-democracy-iranian-exiles-national-iranian-congress-us-constitution"
+  },
+  {
+    "date": "20260304",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 19,
+    "source_url": "https://www.hppr.org/npr-news/2026-03-04/a-split-senate-votes-against-measure-to-constrain-trumps-authorities-in-iran"
+  },
+  {
+    "date": "20260304",
+    "actor": "OVAL OFFICE",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 18,
+    "source_url": "https://timesofindia.indiatimes.com/world/middle-east/weve-just-begun-us-says-it-has-bombed-over-2000-targets-in-iran-top-developments/articleshow/129001839.cms"
+  },
+  {
+    "date": "20260304",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860251/iran-hezbollah-hamas-oi-dekaeties-tromokratias-enantion-amerikanon-politon-kai-diplomaton-misos-aionas-ekatontades-nekroi"
+  },
+  {
+    "date": "20260304",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "http://www.bignewsnetwork.com/news/278901529/cia-working-to-armkurds-to-attack-iran-media"
+  },
+  {
+    "date": "20260304",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.birgun.net/haber/devrik-sah-in-esi-farah-pehlevi-iran-in-gelecegi-halkinin-iradesiyle-belirlenmeli-697356%20target=_blank%20class=stretched-link"
+  },
+  {
+    "date": "20260305",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 98,
+    "source_url": "https://www.ledburyreporter.co.uk/news/national/25909037.iran-launches-new-attacks-saying-us-will-bitterly-regret-sinking-warship/"
+  },
+  {
+    "date": "20260305",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 56,
+    "source_url": "https://www.watfordobserver.co.uk/news/national/25909037.iran-launches-new-attacks-saying-us-will-bitterly-regret-sinking-warship/"
+  },
+  {
+    "date": "20260305",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://www.ledburyreporter.co.uk/news/national/25909037.iran-launches-new-attacks-saying-us-will-bitterly-regret-sinking-warship/"
+  },
+  {
+    "date": "20260305",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 24,
+    "source_url": "https://www.aol.com/articles/iranian-warship-sunk-us-sailing-111923309.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 24,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Teheran-zayavi-gotovnostta-si-za-eve-2913444"
+  },
+  {
+    "date": "20260305",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 24,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Teheran-zayavi-gotovnostta-si-za-eve-2913444"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/zelenski-Oi-ipa-zitisan-voitheia-apo-tin-oukrania-gia-tin-antimetopisi-ton-iranikon-drones.htm"
+  },
+  {
+    "date": "20260305",
+    "actor": "REUTERS",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860435/middle-east-crisis-us-regime-change-plan-falters-as-iran-warns-of-nuclear-holocaust%20title="
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "023",
+    "event_root": "02",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.idnes.cz/zpravy/zahranicni/iran-usa-raketypatriot-ukrajina-rusko-sahed-nakup-pomoc.A260305_131423_zahranicni_dtt"
+  },
+  {
+    "date": "20260305",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.aol.co.uk/articles/americans-lash-trump-gas-prices-140642306.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 18,
+    "source_url": "https://www.ukrinform.ua/rubric-world/4098264-sahed-akij-atakuvav-britansku-aviabazu-na-kipri-zapustili-z-livanu-ar.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.kasu.org/politics/2026-03-04/a-split-senate-votes-against-measure-to-constrain-trumps-authorities-in-iran"
+  },
+  {
+    "date": "20260305",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.hallandsposten.se/nyheter/varlden/uppgifter-usa-bevapnar-kurder-i-hopp-om-uppror.830a86d3-7b63-55c3-bf42-bd09e5888f82"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860378/tromos-stis-ipa-proedre-kirykse-niki-kai-fyge-kinisi-panikoy-to-arthro-5-tou-nato-iran-i-kolasi-exei-onoma-dimona"
+  },
+  {
+    "date": "20260305",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.aol.com/articles/iranian-warship-sunk-us-sailing-111923309.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://wchstv.com/news/nation-world/fetterman-says-he-was-shocked-by-newsom-calling-israel-an-apartheid-state-gavin-newsom-iran"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.index.hr/vijesti/clanak/trump-hvala-nasem-sjajnom-glavnom-tajniku-natoa/2767666.aspx"
+  },
+  {
+    "date": "20260305",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.watfordobserver.co.uk/news/national/25909037.iran-launches-new-attacks-saying-us-will-bitterly-regret-sinking-warship/"
+  },
+  {
+    "date": "20260305",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.inewsgr.com/27/klimakosi-sti-mesi-anatoli-iranika-chtypimata-se-kourdikes-organoseis.htm"
+  },
+  {
+    "date": "20260305",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.lsm.lv/raksts/zinas/arzemes/05.03.2026-ari-trampa-atbalstitaji-kritize-karu-pret-iranu-tas-ir-izraelas-nevis-asv-intereses.a637514/"
+  },
+  {
+    "date": "20260306",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://www.macleayargus.com.au/story/9192371/donald-trump-us-takes-last-best-chance-to-strike-iran/"
+  },
+  {
+    "date": "20260306",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 35,
+    "source_url": "https://wflanews.iheart.com/content/2026-03-06-un-chief-warns-that-iran-war-could-spiral-beyond-anyones-control/"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 28,
+    "source_url": "https://wrak.iheart.com/content/2026-03-06-trumps-latest-approval-rating-among-republicans-revealed/"
+  },
+  {
+    "date": "20260306",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 24,
+    "source_url": "https://wach.com/news/nation-world/now-on-fire-us-military-strikes-iranian-drone-carrier-navy-pete-hegseth-warships-middle-east-operation-epic-fury"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860871/sok-kai-deos-mystiki-symfonia-israil-koyrdon-gia-eisvoli-sto-iran-anoigei-neo-metopo-tou-olethrou%20title="
+  },
+  {
+    "date": "20260306",
+    "actor": "GEORGE W. BUSH",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.macleayargus.com.au/story/9192371/donald-trump-us-takes-last-best-chance-to-strike-iran/"
+  },
+  {
+    "date": "20260306",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "0233",
+    "event_root": "02",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://larepublica.pe/mundo/2026/03/06/donald-trump-descarta-envio-de-tropas-terrestres-estadounidenses-a-iran-es-una-perdida-de-tiempo-450336"
+  },
+  {
+    "date": "20260306",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://larepublica.pe/mundo/2026/03/06/donald-trump-descarta-envio-de-tropas-terrestres-estadounidenses-a-iran-es-una-perdida-de-tiempo-450336"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "017",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860802/den-lygizoun-oi-iranoi-xiliades-polites-se-diadiloseis-kata-ton-ipa-kai-tou-israil-vid%20title="
+  },
+  {
+    "date": "20260306",
+    "actor": "REUTERS",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 18,
+    "source_url": "https://www.dagelijksestandaard.nl/nieuws/witte-huis-we-hebben-nog-vier-tot-zes-weken-nodig-in-iran"
+  },
+  {
+    "date": "20260306",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 18,
+    "source_url": "https://fox11online.com/news/nation-world/president-donald-trump-says-he-will-only-accept-unconditional-surrender-from-iran-us-israel-joint-strikes-mediation-efforts-middle-east-tehran-khamenei"
+  },
+  {
+    "date": "20260306",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.chesterstandard.co.uk/news/national/25916474.us-bomber-can-carry-24-cruise-missiles-hit-900mph-lands-uk/"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://aninews.in/news/world/asia/destruction-of-ballistic-missile-capability-bonnie-glick-on-us-objectives-in-iran20260306102815/"
+  },
+  {
+    "date": "20260306",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "016",
+    "event_root": "01",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://pakobserver.net/saudi-arabia-will-not-allow-its-territory-to-be-used-against-iran-tehran-thanks-riyadh/"
+  },
+  {
+    "date": "20260306",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860710/tha-pesoun-ksana-stin-pagida-ton-amerikanon-oi-koyrdoi-o-trump-tous-thelei-gia-eisvoli-sto-iran-tha-ypostoyn-nea-sfagi%20title="
+  },
+  {
+    "date": "20260306",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://wach.com/news/nation-world/now-on-fire-us-military-strikes-iranian-drone-carrier-navy-pete-hegseth-warships-middle-east-operation-epic-fury"
+  },
+  {
+    "date": "20260307",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 50,
+    "source_url": "https://powertalk1360.iheart.com/content/2026-03-06-un-chief-warns-that-iran-war-could-spiral-beyond-anyones-control/"
+  },
+  {
+    "date": "20260307",
+    "actor": "A US",
+    "target_country": "ISR",
+    "event_code": "0356",
+    "event_root": "03",
+    "goldstein": 7.0,
+    "articles": 36,
+    "source_url": "https://www.haberturk.com/sakarya-haberleri/116913541-bbp-genel-baskani-destici-isledikleri-acik-bir-savas-sucudur-ve-mutlaka-trump-da-netanyahu"
+  },
+  {
+    "date": "20260307",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 30,
+    "source_url": "http://www.australiannews.net/news/278907939/the-iran-war-risks-sucking-in-more-countries-who-benefits"
+  },
+  {
+    "date": "20260307",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.dagbladet.no/nyheter/trump-viser-interesse-for-bakkestyrker/84334924"
+  },
+  {
+    "date": "20260307",
+    "actor": "AMERICAN",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.fox5atlanta.com/news/live-updates-russia-helping-iran-war-death-toll-rises"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860903/tromos-sti-mesi-anatoli-oi-ipa-stelnoun-trito-aeroplanoforo-to-uss-george-bush-iran-sas-perimenoume-to-plan-g-trump%20title="
+  },
+  {
+    "date": "20260307",
+    "actor": "FLORIDA",
+    "target_country": "IRN",
+    "event_code": "026",
+    "event_root": "02",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.tanjug.rs/photo-gallery/811c795c-5eff-45fc-8d84-9412d2236830"
+  },
+  {
+    "date": "20260307",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.ksml.fi/uutissuomalainen/9282190"
+  },
+  {
+    "date": "20260307",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.greenocktelegraph.co.uk/news/national/25917487.trump-grieves-families-return-soldiers-killed-middle-east-war/"
+  },
+  {
+    "date": "20260308",
+    "actor": "MIAMI",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 44,
+    "source_url": "http://www.bignewsnetwork.com/news/278908423/iran-crisis-over-1300-killed-and-100000-displaced-as-humanitarian-toll-mounts"
+  },
+  {
+    "date": "20260308",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 36,
+    "source_url": "https://www.penarthtimes.co.uk/news/national/25917487.trump-grieves-families-return-soldiers-killed-middle-east-war/"
+  },
+  {
+    "date": "20260308",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 24,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Axios-SASht-i-Izrael-obmislyat-suhoputna-operaciya-za-zavzemane-na-yadrenite-2916044"
+  },
+  {
+    "date": "20260308",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://yle.fi/a/74-20212869/64-3-294037"
+  },
+  {
+    "date": "20260308",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/861095/iranos-stratigos-proeidopoiei-o-polemos-tha-synexistei-mexri-na-metaniosoun-ipa-israil%20title="
+  },
+  {
+    "date": "20260308",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/861077/tha-allaze-mia-kourdiki-epithesi-ton-polemo-sto-iran-oi-5-logoi-pou-den-tha-diasothei-to-sxedio-trump"
+  },
+  {
+    "date": "20260308",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://news.mail.ru/politics/70077556/"
+  },
+  {
+    "date": "20260308",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://news.mail.ru/politics/70077556/"
+  },
+  {
+    "date": "20260308",
+    "actor": "AMERICAN",
+    "target_country": "ISR",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.newsweek.pl/swiat/wojna-w-iranie-donald-trump-kluczy-rezim-przeszedl-w-tryb-zombie/4wy7e8m"
+  },
+  {
+    "date": "20260309",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 40,
+    "source_url": "https://www.ess.fi/uutissuomalainen/9283885"
+  },
+  {
+    "date": "20260309",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 24,
+    "source_url": "https://dailynayadiganta.com/international/asia/south-asia/nxRAZihSk2kn"
+  },
+  {
+    "date": "20260309",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.index.hr/vijesti/clanak/trump-rekao-da-je-rat-s-iranom-gotovo-zavrsen-cijene-nafte-pale/2769408.aspx?index_tid=949036&index_ref=naslovnica_vijesti_ostalo_d_0"
+  },
+  {
+    "date": "20260309",
+    "actor": "US LEADER",
+    "target_country": "IRN",
+    "event_code": "031",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/861301/o-polemos-fthoras-gonatizei-tis-ipa-iran-etoimoi-gia-sygkrousi-10-eton-i-hezbollah-tyflose-tous-doryforous-tou-israil"
+  },
+  {
+    "date": "20260309",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "122",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://mignews.com/news/politic/tramp-zayavil-chto-reshenie-ob-otpravke-vojsk-ssha-v-iran-eshe-daleko.html"
+  },
+  {
+    "date": "20260309",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.ukrinform.ua/rubric-world/4099451-u-statah-pidtverdili-somogo-zagiblogo-vijskovogo-v-operacii-proti-iranu.html"
+  },
+  {
+    "date": "20260309",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.koat.com/article/mojtaba-khamenei-supreme-leader-iran/70672808"
+  },
+  {
+    "date": "20260310",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.jutarnji.hr/vijesti/svijet/nafta-pada-trump-iran-brent-90-g7-rezerve-hormus-15687360"
+  },
+  {
+    "date": "20260310",
+    "actor": "MIAMI",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.khaskhabar.com/news/world-news/news-us-president-donald-trump-issues-new-threat-to-iran-over-the-strait-of-hormuz-news-hindi-1-797291-KKN.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.iefimerida.gr/kosmos/tramp-apogoiteymenos-neo-anotato-igeti-iran"
+  },
+  {
+    "date": "20260310",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "0332",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 20,
+    "source_url": "https://aninews.in/news/world/us/white-house-says-boots-on-ground-in-iran-not-ruled-out-epic-fury-to-end-when-objectives-achieved20260311022156/"
+  },
+  {
+    "date": "20260310",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://cbs2iowa.com/news/nation-world/new-iranian-supreme-leader-faces-immediate-threats-as-war-enters-second-week-israeli-pressure-mojtaba-khamenei-middle-east-war-nuclear-weapons-ballistic-missiles-trump-administration"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "1246",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.wdsu.com/article/us-iran-oil-shipments-strait-of-hormuz/70702653"
+  },
+  {
+    "date": "20260310",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.jpost.com/israel-news/article-889519"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "http://www.haberler.com/guncel/abd-ordusu-hurmuz-bogazi-icin-ek-secenekler-hazirliyor-19644947-haberi/"
+  },
+  {
+    "date": "20260310",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.jpost.com/israel-news/article-889519"
+  },
+  {
+    "date": "20260310",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://klewtv.com/news/nation-world/president-trump-hints-at-an-end-to-the-war-in-iran-very-complete-republican-press-conference-strait-hormuz-military-operations-pete-hegseth"
+  },
+  {
+    "date": "20260310",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://www.wral.com/news/ap/25ea4-israel-says-iran-is-using-cluster-munitions-what-to-know-about-the-weapons/"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 16,
+    "source_url": "https://www.khaskhabar.com/news/world-news/news-us-president-donald-trump-issues-new-threat-to-iran-over-the-strait-of-hormuz-news-hindi-1-797291-KKN.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "113",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://dialogos.com.cy/axios-oi-ipa-zitoyn-na-papsoyn-israilines-epitheseis-se-energeiakes-ypodomes-toy-iran/"
+  },
+  {
+    "date": "20260310",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.newsbomb.gr/kosmos/story/1721097/axios-oi-ipa-zitisan-apo-to-israil-na-stamatisoun-tis-epitheseis-kata-energeiakon-ypodomon-tou-iran"
+  },
+  {
+    "date": "20260310",
+    "actor": "THE US",
+    "target_country": "ISR",
+    "event_code": "0312",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 16,
+    "source_url": "https://www.deccanchronicle.com/nation/jaishankar-iranian-fm-araghchi-hold-telephone-talks-1942949"
+  },
+  {
+    "date": "20260311",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://www.birgun.net/haber/abdde-tutuklanmisti-hakan-atilladan-halkbank-davasi-aciklamasi-698821%20class=slide-link%20target=_blank"
+  },
+  {
+    "date": "20260311",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "1246",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 30,
+    "source_url": "https://www.wxii12.com/article/us-iran-oil-shipments-strait-of-hormuz/70702653"
+  },
+  {
+    "date": "20260311",
+    "actor": "INSTITUTE FOR SCIENCE AND INTERNATIONAL SECURITY",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.wdiy.org/npr-news/2026-03-11/what-would-it-take-to-secure-irans-stockpile-of-nuclear-material"
+  },
+  {
+    "date": "20260311",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.ksml.fi/uutissuomalainen/9289564"
+  },
+  {
+    "date": "20260311",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.kmib.co.kr/article/view.asp?arcid=0029508601&code=61131111&sid1=int"
+  },
+  {
+    "date": "20260311",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://www.etnews.com/20260311000091"
+  },
+  {
+    "date": "20260311",
+    "actor": "JIMMY CARTER",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://home.nzcity.co.nz/news/article.aspx?id=441658&fm=psp,tsf"
+  },
+  {
+    "date": "20260311",
+    "actor": "US OFFICIAL",
+    "target_country": "ISR",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 15,
+    "source_url": "https://www.aa.com.tr/en/americas/trump-says-iran-war-will-end-soon-any-time-i-want-it-to-end-it-will-end/3860059"
+  },
+  {
+    "date": "20260312",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 40,
+    "source_url": "https://www.denbighshirefreepress.co.uk/news/national/25932727.armed-man-shot-dead-ramming-vehicle-michigan-synagogue---reports/"
+  },
+  {
+    "date": "20260312",
+    "actor": "MICHIGAN",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 40,
+    "source_url": "https://www.denbighshirefreepress.co.uk/news/national/25932727.armed-man-shot-dead-ramming-vehicle-michigan-synagogue---reports/"
+  },
+  {
+    "date": "20260312",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 24,
+    "source_url": "https://www.ukrinform.ua/rubric-world/4100777-miznarodnij-aeroport-kuvejtu-atakuvali-droni.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "THE ASSOCIATED PRESS",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 22,
+    "source_url": "https://www.denbighshirefreepress.co.uk/news/national/25932727.armed-man-shot-dead-ramming-vehicle-michigan-synagogue---reports/"
+  },
+  {
+    "date": "20260312",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.clickorlando.com/news/politics/2026/03/11/senators-demand-answers-on-school-strike-in-iran-as-growing-evidence-points-to-us-involvement/"
+  },
+  {
+    "date": "20260312",
+    "actor": "MICHIGAN",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.cravenherald.co.uk/news/national/25932727.armed-man-rammed-vehicle-michigan-synagogue-shot-dead-security/"
+  },
+  {
+    "date": "20260312",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 20,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/quotIran-iska-otmushtenie-za-zagubenata-kruv-quot-Modzhtaba-Hamenei-napravi-purvoto-si-oficialno-izyavlenie-2921513"
+  },
+  {
+    "date": "20260312",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.denbighshirefreepress.co.uk/news/national/25932727.armed-man-shot-dead-ramming-vehicle-michigan-synagogue---reports/"
+  },
+  {
+    "date": "20260312",
+    "actor": "SACRAMENTO",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.goskagit.com/news/nation/california-governor-says-no-imminent-threat-despite-warning-about-possible-iran-drone-attack/article_5a178e81-61cd-5c83-90e4-a056c7ffbf4d.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "SACRAMENTO",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.goskagit.com/news/nation/california-governor-says-no-imminent-threat-despite-warning-about-possible-iran-drone-attack/article_5a178e81-61cd-5c83-90e4-a056c7ffbf4d.html"
+  },
+  {
+    "date": "20260312",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 16,
+    "source_url": "https://www.sandiegouniontribune.com/2026/03/12/iran-us-cyber-threats/"
+  },
+  {
+    "date": "20260313",
+    "actor": "US GOVERNMENT",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 66,
+    "source_url": "https://www.ruhrnachrichten.de/dpa-infoline/iran-krieg-usa-erhoehen-zahl-der-angriffe-w1166808-2002002641/"
+  },
+  {
+    "date": "20260313",
+    "actor": "US GOVERNMENT",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 44,
+    "source_url": "https://www.ruhrnachrichten.de/dpa-infoline/iran-krieg-usa-erhoehen-zahl-der-angriffe-w1166808-2002002641/"
+  },
+  {
+    "date": "20260313",
+    "actor": "US GOVERNMENT",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 36,
+    "source_url": "https://www.rhein-zeitung.de/deutschland-welt/politik/merz-kein-anlass-fuer-militaereinsatz-in-strasse-von-hormus_arid-4110860.html"
+  },
+  {
+    "date": "20260313",
+    "actor": "US GOVERNMENT",
+    "target_country": "ISR",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 24,
+    "source_url": "https://www.rhein-zeitung.de/deutschland-welt/politik/merz-kein-anlass-fuer-militaereinsatz-in-strasse-von-hormus_arid-4110860.html"
+  },
+  {
+    "date": "20260313",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.newsit.gr/kosmos/pickaxe-mountain-to-pyriniko-oxyro-tou-iran-100-metra-kato-apo-ti-gi-pou-den-aggizoun-oi-vomves/4624737/"
+  },
+  {
+    "date": "20260313",
+    "actor": "US OFFICIAL",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/184/kolasi-stin-m-anatoli--4-nekroi-apo-to-iptameno-tanker-pou-epese--nekros-gallos-stratiotikos-apo-drone.htm"
+  },
+  {
+    "date": "20260313",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.epikaira.gr/kleista-ta-stena-tou-ormouz-epikindynoi-oi-klydonismoi-tis-pagkosmias-oikonomias-katafere-na-perasei-ploio-tourkikon-symferonton/"
+  },
+  {
+    "date": "20260313",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.nobat.com/news_detail.php?news_id=92b2bb3b323231393036"
+  },
+  {
+    "date": "20260313",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 18,
+    "source_url": "http://www.heraldglobe.com/news/278918886/situation-with-iran-moving-along-rapidly-trump-says-us-military-unsurpassed-amid-conflict-with-iran"
+  },
+  {
+    "date": "20260313",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/The-Guardian-Kakvo-razkri-purvoto-obrushtenie-na-Modzhtaba-Hamenei-za-bude-2922191"
+  },
+  {
+    "date": "20260313",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "http://www.haberler.com/dunya/abd-askerini-zora-sokan-soru-israil-icin-olmeye-19653524-haberi/"
+  },
+  {
+    "date": "20260313",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "026",
+    "event_root": "02",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.haberler.com/guncel/iran-dan-abd-ye-tepki-liderlerimiz-halkin-icinde-19655686-haberi/"
+  },
+  {
+    "date": "20260313",
+    "actor": "SACRAMENTO",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.wccbcharlotte.com/2026/03/12/california-governor-says-no-imminent-threat-despite-warning-of-possible-iran-drone-attack/"
+  },
+  {
+    "date": "20260313",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.localmemphis.com/article/news/nation-world/attack-on-iran/kc-135-refueling-aircraft-down-iraq/507-a40c7dd0-e537-4e2c-ad95-aeb4cbcc9e7e"
+  },
+  {
+    "date": "20260313",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "114",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.localmemphis.com/article/news/nation-world/attack-on-iran/kc-135-refueling-aircraft-down-iraq/507-a40c7dd0-e537-4e2c-ad95-aeb4cbcc9e7e"
+  },
+  {
+    "date": "20260314",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "021",
+    "event_root": "02",
+    "goldstein": 3.4,
+    "articles": 24,
+    "source_url": "https://nbcmontana.com/news/nation-world/us-offers-10m-reward-for-tips-on-supreme-leader-nine-iranian-military-officials-rewards-justice-pete-hegseth-state-dedepartment"
+  },
+  {
+    "date": "20260314",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://www.theargus.co.uk/news/national/25936920.irans-strategic-islands-become-latest-us-target/"
+  },
+  {
+    "date": "20260315",
+    "actor": "CHICAGO",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 30,
+    "source_url": "http://www.singaporestar.com/news/278917074/polls-say-americans-think-military-action-could-make-country-less-safe"
+  },
+  {
+    "date": "20260315",
+    "actor": "THE ASSOCIATED PRESS",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 30,
+    "source_url": "http://www.singaporestar.com/news/278917074/polls-say-americans-think-military-action-could-make-country-less-safe"
+  },
+  {
+    "date": "20260315",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 30,
+    "source_url": "https://www.index.hr/vijesti/clanak/iran-nismo-trazili-primirje-ni-pregovore-sa-sadom/2771420.aspx"
+  },
+  {
+    "date": "20260315",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 24,
+    "source_url": "http://www.middleeaststar.com/news/278922767/for-region-to-be-secure-us-should-not-be-there-iranian-president-masoud-pezeshkian"
+  },
+  {
+    "date": "20260315",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "http://www.australiannews.net/news/278922543/trump-urges-nations-to-take-care-of-strait-of-hormuz"
+  },
+  {
+    "date": "20260315",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://aninews.in/news/world/middle-east/priority-for-gulf-is-de-escalation-diplomacy-gulf-based-analyst-says-pm-modi-can-play-key-role20260315074912/"
+  },
+  {
+    "date": "20260315",
+    "actor": "AMERICAN",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/862521/protofanis-pyravliki-epithesi-tou-iran-sto-tel-aviv-gia-proti-fora-ektokseythike-o-yperixitikos-pyravlos-sejjil-me-kefali-1-5-tonou"
+  },
+  {
+    "date": "20260315",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://news.makedonias.gr/2026/03/2099828/"
+  },
+  {
+    "date": "20260316",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 40,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25938344.keir-starmer-pledge-cost-of-living-support-amid-middle-east-crisis/"
+  },
+  {
+    "date": "20260316",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 40,
+    "source_url": "https://www.borehamwoodtimes.co.uk/news/national/25938344.keir-starmer-pledge-cost-of-living-support-amid-middle-east-crisis/"
+  },
+  {
+    "date": "20260316",
+    "actor": "REUTERS",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 21,
+    "source_url": "https://aninews.in/news/world/middle-east/iran-asks-india-to-release-3-seized-tankers-in-exchange-for-passage-of-indian-ships-report20260316193534/"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "http://www.iraqsun.com/news/278924273/daily-world-briefing-march-16"
+  },
+  {
+    "date": "20260316",
+    "actor": "THE WHITE HOUSE",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 18,
+    "source_url": "https://www.halsteadgazette.co.uk/news/national/25938342.trump-seeks-help-keep-strait-hormuz-open-iran-sees-no-reason-talk/"
+  },
+  {
+    "date": "20260316",
+    "actor": "THE WHITE HOUSE",
+    "target_country": "ISR",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 18,
+    "source_url": "https://www.halsteadgazette.co.uk/news/national/25938342.trump-seeks-help-keep-strait-hormuz-open-iran-sees-no-reason-talk/"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "030",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003214998&CMPT_CD=M0146"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003214998&CMPT_CD=M0146"
+  },
+  {
+    "date": "20260316",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://mynorthwest.com/national/editorial-roundup-united-states-36/4217528"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.kathimerini.gr/world/564127447/mplegmenos-sta-stena-toy-ormoyz-o-tramp-exapolyei-apeiles/"
+  },
+  {
+    "date": "20260316",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 16,
+    "source_url": "https://www.upi.com/Top_News/World-News/2026/03/16/Trump-Hormuz-coalition/1151773635905/"
+  },
+  {
+    "date": "20260317",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "032",
+    "event_root": "03",
+    "goldstein": 4.5,
+    "articles": 30,
+    "source_url": "http://www.bignewsnetwork.com/news/278927279/iranian-kurds-watch-and-wait-as-tehran-air-strikes-hit-region"
+  },
+  {
+    "date": "20260317",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://pelop.gr/polemos-sti-mesi-anatoli-taftochronoi-vomvardismoi-israil-se-techerani-kai-viryto-sfodri-epithesi-me-drones-stin-presveia-ipa-sti-vagdati/"
+  },
+  {
+    "date": "20260317",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.tanea.gr/2026/03/17/world/antonio-kosta-avevaii-i-diarkeia-tis-krisis-sti-m-anatoli-diplomatikes-kiniseis-gia-ormoyz/"
+  },
+  {
+    "date": "20260317",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.portfolio.hu/global/20260317/titokban-megindult-az-egyezkedes-mast-gondol-amerika-es-iran-a-bekerol-de-nem-ez-a-legnagyobb-problema-824764"
+  },
+  {
+    "date": "20260317",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.kcbx.org/npr-top-news/2026-03-17/joe-kent-a-top-counterterrorism-official-resigns-citing-iran-war"
+  },
+  {
+    "date": "20260317",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 15,
+    "source_url": "http://www.bignewsnetwork.com/news/278927279/iranian-kurds-watch-and-wait-as-tehran-air-strikes-hit-region"
+  },
+  {
+    "date": "20260317",
+    "actor": "VIRGINIA",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 15,
+    "source_url": "https://www.ksat.com/news/politics/2026/03/17/top-counterterrorism-official-kent-resigns-over-trumps-iran-war-says-iran-posed-no-imminent-threat/"
+  },
+  {
+    "date": "20260318",
+    "actor": "AMERICAN",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 34,
+    "source_url": "https://news.wfsu.org/npr-news/2026-03-18/israel-is-a-key-issue-in-democratic-primaries-as-support-for-the-u-s-ally-drops"
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 30,
+    "source_url": "https://news.wfsu.org/npr-news/2026-03-18/israel-is-a-key-issue-in-democratic-primaries-as-support-for-the-u-s-ally-drops"
+  },
+  {
+    "date": "20260318",
+    "actor": "AMERICAN",
+    "target_country": "ISR",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.winnipegfreepress.com/world/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary"
+  },
+  {
+    "date": "20260318",
+    "actor": "OBAMA",
+    "target_country": "IRN",
+    "event_code": "113",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 19,
+    "source_url": "https://news.wfsu.org/npr-news/2026-03-18/israel-is-a-key-issue-in-democratic-primaries-as-support-for-the-u-s-ally-drops"
+  },
+  {
+    "date": "20260318",
+    "actor": "OBAMA",
+    "target_country": "IRN",
+    "event_code": "057",
+    "event_root": "05",
+    "goldstein": 8.0,
+    "articles": 16,
+    "source_url": "https://www.ft.lk/dayan_jayatilleka/Extra-exposure-to-external-shock-Existential-war-in-the-Middle-East/10527-789757"
+  },
+  {
+    "date": "20260318",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "0331",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 16,
+    "source_url": "https://www.peoplesworld.org/article/israels-endless-war-on-lebanon-produces-endless-profits-for-u-s-weapons-manufacturers/"
+  },
+  {
+    "date": "20260318",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war"
+  },
+  {
+    "date": "20260318",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/863225/to-iran-tolmise-to-adianoito-pyravloi-ektokseyontai-apo-ta-egkata-tis-gis-fiasko-gia-ipa-kai-israil-vid%20title="
+  },
+  {
+    "date": "20260318",
+    "actor": "OBAMA",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.aol.co.uk/articles/ignorance-misunderstanding-obfuscation-ended-iran-050022157.html"
+  },
+  {
+    "date": "20260318",
+    "actor": "OBAMA",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.aol.co.uk/articles/ignorance-misunderstanding-obfuscation-ended-iran-050022157.html"
+  },
+  {
+    "date": "20260318",
+    "actor": "THE US",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.aol.co.uk/articles/ignorance-misunderstanding-obfuscation-ended-iran-050022157.html"
+  },
+  {
+    "date": "20260319",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "013",
+    "event_root": "01",
+    "goldstein": 0.4,
+    "articles": 30,
+    "source_url": "https://www.index.hr/clanak.aspx?id=2773068"
+  },
+  {
+    "date": "20260319",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "110",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://informer.rs/planeta/vesti/1100609/f-35-izrael-iran"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://www.ksml.fi/uutissuomalainen/9305515"
+  },
+  {
+    "date": "20260319",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://gazeta.ua/ru/articles/world-life/_tramp-rassmatrivaet-otpravku-na-blizhnij-vostok-tysyach-voennyh-ssa/1246454"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED STATES",
+    "target_country": "ISR",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 20,
+    "source_url": "https://theconservativetreehouse.com/blog/2026/03/19/israel-unilaterally-strikes-iran-qatar-south-pars-gas-field-president-trump-is-not-happy/comment-page-1/"
+  },
+  {
+    "date": "20260319",
+    "actor": "A US",
+    "target_country": "IRN",
+    "event_code": "011",
+    "event_root": "01",
+    "goldstein": -0.1,
+    "articles": 20,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Tulsi-Gabard-otkaza-da-otgovori-dali-Iran-e-quotneposredstvena-zaplaha-quot-za-SASht-2928583"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.inewsgr.com/93/trab-den-tha-steiloume-strato-sti-mesi-anatoli--nato-kai-kina-chreiazontai-perissotero-ta-stena-tou-ormouz.htm"
+  },
+  {
+    "date": "20260319",
+    "actor": "WASHINGTON",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.vetogate.com/5618021"
+  },
+  {
+    "date": "20260319",
+    "actor": "UNITED STATES",
+    "target_country": "IRN",
+    "event_code": "0332",
+    "event_root": "03",
+    "goldstein": 5.2,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/863436/rigma-ipa-israil-trump-den-egkrino-kapoies-energeies-tou-netanyahu-aporripto-tin-apostoli-stratoy-sto-iran"
+  },
+  {
+    "date": "20260319",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.ora24.tv/trump-shba-do-te-reagojne-ashper-nese-irani-sulmon-serish-katarin/"
+  },
+  {
+    "date": "20260320",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 56,
+    "source_url": "https://www.cotswoldjournal.co.uk/news/national/25952669.iran-intensifies-attacks-gulf-energy-sites-israel-struck-key-gas-field/"
+  },
+  {
+    "date": "20260320",
+    "actor": "THE WHITE HOUSE",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 20,
+    "source_url": "https://kval.com/news/nation-world/barron-trump-the-presidents-youngest-son-is-set-to-celebrate-his-20th-birthday-president-donald-trump-first-lady-melania-trump-politics-family"
+  },
+  {
+    "date": "20260320",
+    "actor": "US OFFICIAL",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/863527/israel-seeks-chaos-idf-we-aren-t-even-halfway-there-invasion-plans-underway-iran-humiliates-us-downs-f-35-drives-away-uss-ford"
+  },
+  {
+    "date": "20260320",
+    "actor": "WASHINGTON",
+    "target_country": "ISR",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "https://www.pianetagenoa1893.net/ultimora/iran-trump-non-mando-soldati-netanyahu-regime-sta-cedendo/"
+  },
+  {
+    "date": "20260320",
+    "actor": "AMERICAN",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.elsiglodetorreon.com.mx/noticia/2026/creen-que-le-puedo-decir-a-trump-que-hacer-netanyahu-niega-presionar-a-eu-para-atacar-a-iran.html"
+  }
+]

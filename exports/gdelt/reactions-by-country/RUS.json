@@ -1,0 +1,732 @@
+[
+  {
+    "date": "20260228",
+    "actor": "MOSCOW",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 50,
+    "source_url": "https://www.mykxlg.com/news/national/russian-foreign-ministry-condemns-us-israel-strikes-on-iran-as-unprovoked-act-of-armed-aggression/article_86b7ce6c-9af5-5adc-ad9a-7c57ec72df87.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "MOSCOW",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 40,
+    "source_url": "https://www.mykxlg.com/news/national/russian-foreign-ministry-condemns-us-israel-strikes-on-iran-as-unprovoked-act-of-armed-aggression/article_86b7ce6c-9af5-5adc-ad9a-7c57ec72df87.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://www.wzzm13.com/article/news/nation-world/russian-foreign-ministry-condemns-us-israel-strikes-iran/507-221365a5-5732-45ba-99ff-a0a71853d948"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.elcorreogallego.es/mundo/2026/02/28/directo-ultima-hora-conflicto-palestina-93048508.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://russian.rt.com/world/news/1601288-konflikt-zona-sudno"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.index.hr/vijesti/clanak/stigla-prva-reakcija-rusije-na-napade-na-iran-medvedev-likuje/2765798.aspx?index_tid=937767&index_ref=naslovnica_vijesti_ostalo_d_0"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://drimble.nl/binnenlands-nieuws/106035659/rusland-eist-stopzetten-aanvallen-op-iran.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://isp.netscape.com/news/world/story/0001/20260228/578a5791e81493edd09951898ae6f712"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.dagelijksestandaard.nl/nieuws/rusland-eist-stopzetten-aanvallen-op-iran?comment=926514"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "114",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.dagelijksestandaard.nl/nieuws/rusland-eist-stopzetten-aanvallen-op-iran?comment=926514"
+  },
+  {
+    "date": "20260228",
+    "actor": "SERGEY LAVROV",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://larepublica.pe/mundo/2026/02/28/eeuu-e-israel-atacan-iran-hoy-en-vivo-ultima-hora-imagenes-y-noticias-sobre-la-ofensiva-2268252"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "http://www.diariodepernambuco.com.br/mundo/2026/02/11708758-as-reacoes-do-mundo-ao-ataque-de-estados-unidos-e-israel-contra-o-ira.html"
+  },
+  {
+    "date": "20260228",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.durangoherald.com/articles/un-chief-condemns-us-israeli-attacks-on-iran-during-emergency-security-council-meeting/"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://www.wdbo.com/news/world/un-chief-condemns-us/CMIFAZKH5I763E3AVC3CGJ3FRM/"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 38,
+    "source_url": "https://ura.news/news/1053073297"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 22,
+    "source_url": "https://profile.ru/news/abroad/iran-v-sovbeze-oon-obvinil-ssha-i-izrail-v-razvyazyvanii-vojny-i-poobeshhal-prodolzhat-samooboronu-1828686/"
+  },
+  {
+    "date": "20260301",
+    "actor": "SERGEY LAVROV",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "http://www.singaporestar.com/news/278894284/moscow-condemns-us-israel-strikes-on-iran"
+  },
+  {
+    "date": "20260301",
+    "actor": "SERGEY LAVROV",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 20,
+    "source_url": "http://www.singaporestar.com/news/278894284/moscow-condemns-us-israel-strikes-on-iran"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.newsbomb.gr/kosmos/story/1719025/proti-paremvasi-poytin-i-dolofonia-xamenei-diapraxthike-kata-kyniki-paraviasi-olon-ton-kanonon"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.naroomanewsonline.com.au/story/9187073/world-reacts-to-killing-of-irans-supreme-leader/"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 18,
+    "source_url": "https://www.5-tv.ru/news/5058864/putin-vyrazil-soboleznovania-prezidentu-irana-posle-gibeli-hamenei-aii/"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 18,
+    "source_url": "https://www.newsukraine.com.ua/putin-zasudyv-ubyvstvo-khamenei-iak-tsynichne-porushennia-morali/"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIAN FEDERATION",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://tvzvezda.ru/news/202631137-oULYz.html"
+  },
+  {
+    "date": "20260301",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.voria.gr/article/poytin-gia-thanato-hamenei-kyniki-dolofonia-poy-parabiazei-kathe-ithiki-kai-diethnes-dikaio"
+  },
+  {
+    "date": "20260302",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 24,
+    "source_url": "https://www.index.hr/vijesti/clanak/stigla-reakcija-putina-na-rat-u-iranu/2766518.aspx"
+  },
+  {
+    "date": "20260302",
+    "actor": "VLADIMIR PUTIN",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.mirror.co.uk/news/uk-news/nuclear-damage-map-shows-horror-36801429"
+  },
+  {
+    "date": "20260302",
+    "actor": "MOSCOW",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://tradearabia.com:443/News/389840/Oil-prices-jump-7-Percent-over-Middle-East-conflict"
+  },
+  {
+    "date": "20260302",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Ulyanov-Rusiya-nastoyava-SASht-i-Izrael-2909319"
+  },
+  {
+    "date": "20260302",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 15,
+    "source_url": "https://turnto10.com/news/nation-world/john-teichert-is-this-the-end-of-the-iranian-regime-retired-general-breaks-down-escalation-united-states-china-russia-terrorism-missile-nuclear-weapons"
+  },
+  {
+    "date": "20260303",
+    "actor": "VLADIMIR",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.pravda.com.ua/rus/news/2026/03/03/8023664/"
+  },
+  {
+    "date": "20260303",
+    "actor": "MOSCOW",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.thetoc.gr/diethni/article/analusi-politico-giati-o-thanatos-tou-xamenei-xtupise-ton-poutin-ekei-pou-ponaei/"
+  },
+  {
+    "date": "20260303",
+    "actor": "MOSCOW",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 16,
+    "source_url": "https://www.newratings.de/du/main/company_headline.m?nid=19523975"
+  },
+  {
+    "date": "20260304",
+    "actor": "RUSSIAN",
+    "target_country": "ISR",
+    "event_code": "042",
+    "event_root": "04",
+    "goldstein": 1.9,
+    "articles": 20,
+    "source_url": "http://mignews.com/news/politic/kitaj-poobeshal-ukrepit-ekonomiku-pered-dvumya-sessiyami-i-vizitom-trampa.html"
+  },
+  {
+    "date": "20260304",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860153/apokalypsi-sok-terastia-apati-ipa-israil-o-dialogos-gia-ta-pyrinika-iran-trump-kai-netanyahu-milisan-15-fores-gia-telos-khamenei"
+  },
+  {
+    "date": "20260304",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860375/only-putin-can-stop-the-middle-east-bloodshed-and-he-has-already-stepped-in%20title="
+  },
+  {
+    "date": "20260304",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 16,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860375/only-putin-can-stop-the-middle-east-bloodshed-and-he-has-already-stepped-in%20title="
+  },
+  {
+    "date": "20260305",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.yahoo.com/news/articles/iran-not-requested-russian-arms-101651289.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "014",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 18,
+    "source_url": "https://www.asiaone.com/world/russia-accuses-us-and-israel-trying-drag-arab-countries-wider-middle-east-conflict"
+  },
+  {
+    "date": "20260305",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://www.asiaone.com/world/russia-accuses-us-and-israel-trying-drag-arab-countries-wider-middle-east-conflict"
+  },
+  {
+    "date": "20260305",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 16,
+    "source_url": "https://english.news.cn/20260305/925f658aee1643a9806be77d67c1aa80/c.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "039",
+    "event_root": "03",
+    "goldstein": 5.0,
+    "articles": 16,
+    "source_url": "https://english.news.cn/20260305/925f658aee1643a9806be77d67c1aa80/c.html"
+  },
+  {
+    "date": "20260305",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "http://www.bignewsnetwork.com/news/278903355/the-middle-east-is-on-fire-will-this-gulf-become-another-oil-haven"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "128",
+    "event_root": "12",
+    "goldstein": -5.0,
+    "articles": 21,
+    "source_url": "https://www.illawarramercury.com.au/story/9192386/jack-waterford-trump-tests-anthony-albaneses-foreign-policy/"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.newsit.gr/kosmos/washington-post-i-rosia-parexei-plirofories-sto-iran-gia-na-plittei-amerikanikes-dynameis/4618502/"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/860728/ti-symvainei-ekkofantiki-siopi-ton-brics-gia-tin-epithesi-sto-iran-allazei-stratopedo-i-india%20title="
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/184/Washington-Post-i-rosia-dinei-plirofories-sto-iran-gia-amerikanikes-egkatastaseis-sti-mesi-anatoli.htm"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.lapresse.ca/international/moyen-orient/2026-03-06/conflit-au-moyen-orient/comment-expliquer-l-inaction-de-la-chine-et-de-la-russie.php"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 16,
+    "source_url": "https://www.haberler.com/guncel/rusya-nin-iran-a-abd-guclerine-yonelik-istihbarat-sagladigi-iddia-edildi-19632351-haberi/"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.tanea.gr/2026/03/06/world/apokalypsi-washington-post-i-rosia-parexei-stratiotikes-plirofories-sto-iran-gia-to-pou-vriskontai-oi-amerikanikes-dynameis/"
+  },
+  {
+    "date": "20260306",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.unian.ua/world/operaciya-epichna-lyut-rf-peredaye-iranu-rozviddani-dlya-atak-na-viyska-ssha-13306740.html"
+  },
+  {
+    "date": "20260307",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "018",
+    "event_root": "01",
+    "goldstein": 3.4,
+    "articles": 66,
+    "source_url": "https://www.wishtv.com/news/international/russia-provides-iran-with-intelligence-on-us-military-targets/"
+  },
+  {
+    "date": "20260307",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 18,
+    "source_url": "https://m.news1.co.il/Archive/001-d-515546-00.html"
+  },
+  {
+    "date": "20260308",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "http://www.haberler.com/guncel/trump-rusya-nin-iran-a-bilgi-sagladigini-bilmiyoruz-19636765-haberi/"
+  },
+  {
+    "date": "20260308",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://koha.mk/trump-kurdet-jane-gati-te-hyjne-ne-iran-por-une-u-thashe-jo/"
+  },
+  {
+    "date": "20260308",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/861102/iran-i-stratiotiki-synergasia-me-ti-rosia-synexizetai-adiatarakti%20title="
+  },
+  {
+    "date": "20260309",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "051",
+    "event_root": "05",
+    "goldstein": 3.4,
+    "articles": 20,
+    "source_url": "https://www.bankingnews.gr/diethni/articles/861293/katarreei-to-amerikaniko-sxedio-egkataleipoun-xersaia-apovasi-skliri-epithesi-graham-se-israil-rosia-iran-se-stirizoume%20title="
+  },
+  {
+    "date": "20260309",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "023",
+    "event_root": "02",
+    "goldstein": 3.4,
+    "articles": 16,
+    "source_url": "https://www.hna.de/politik/berichte-russland-liefert-iran-daten-fuer-angriffe-auf-us-ziele-zr-94209029.html"
+  },
+  {
+    "date": "20260310",
+    "actor": "VLADIMIR",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 20,
+    "source_url": "https://www.razon.com.mx/mundo/2026/03/10/trump-dialoga-con-putin-por-ucrania/"
+  },
+  {
+    "date": "20260310",
+    "actor": "RUSSIAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://newsmaker.md/ru/tramp-na-predlojenie-putina-pomoch-s-iranom-vy-by-prinesli-bolshe-polzy-esli-by-zakonchili-voinu-s-ukrainoi"
+  },
+  {
+    "date": "20260310",
+    "actor": "MOSCOW",
+    "target_country": "ISR",
+    "event_code": "1123",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "http://www.russiaherald.com/news/278913072/moscow-condemns-israeli-strike-on-russian-cultural-center"
+  },
+  {
+    "date": "20260311",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 72,
+    "source_url": "https://www.index.hr/vijesti/clanak/iran-ispalio-hrpu-raketa-povijesni-potez-s-naftom-trump-mozemo-ih-unistiti-u-1-sat/2769781.aspx?index_ref=homepage_comment_box_d&commentId=10718233"
+  },
+  {
+    "date": "20260311",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.capital.gr/diethni/3979114/sumboulio-asfaleias-gia-libano-ellada-kupros-ki-alles-europaikes-xores-zitoun-autosugkratisi-kai-prostasia-amaxon/"
+  },
+  {
+    "date": "20260311",
+    "actor": "MOSCOW",
+    "target_country": "IRN",
+    "event_code": "036",
+    "event_root": "03",
+    "goldstein": 4.0,
+    "articles": 16,
+    "source_url": "https://www.razon.com.mx:443/opinion/2026/03/11/expediente-iran-moscu-y-teheran-socios-de-guerra/"
+  },
+  {
+    "date": "20260313",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/27/makron-i-thesi-tis-gallias-sti-mesi-anatoli-einai-amyntiki.htm"
+  },
+  {
+    "date": "20260314",
+    "actor": "VLADIMIR",
+    "target_country": "IRN",
+    "event_code": "050",
+    "event_root": "05",
+    "goldstein": 3.5,
+    "articles": 20,
+    "source_url": "https://www.contextotucuman.com/nota/376862/dia-14-de-la-escalada-en-medio-oriente-suben-los-muertos-en-libano-iran-derriba-drones-y-donald-trump-apunta-a-rusia.html"
+  },
+  {
+    "date": "20260314",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.mediafax.ro/externe/razboi-in-orientul-mijlociu-ziua-15-rusia-a-propus-sua-sa-mute-uraniul-imbogatit-al-iranului-la-moscova-quatarul-evacueaza-locuitorii-din-mai-multe-zone-5-avioane-cisterna-ale-sua-lovite-i-23702797"
+  },
+  {
+    "date": "20260316",
+    "actor": "MOSCOW",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "http://www.tz.de/politik/iran-fuehrer-chamenei-in-moskau-bericht-ueber-not-op-in-putins-palast-zr-94219667.html"
+  },
+  {
+    "date": "20260317",
+    "actor": "VLADIMIR PUTIN",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 18,
+    "source_url": "https://24tv.ua/geopolitics/ru/rossii-vygodna-vojna-mezhdu-ssha-i-iranom-kakie-posledstvija-blokirovki-ormuzskogo-proliva_n3029618"
+  },
+  {
+    "date": "20260318",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.kommersant.ru/doc/8514870"
+  },
+  {
+    "date": "20260318",
+    "actor": "RUSSIA",
+    "target_country": "IRN",
+    "event_code": "040",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/WSJ-Rusiya-dava-satelitni-danni-i-tehnologii-za-dronove-na-Iran-2927282"
+  },
+  {
+    "date": "20260319",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "022",
+    "event_root": "02",
+    "goldstein": 3.2,
+    "articles": 22,
+    "source_url": "https://gazeta.ua/articles/world-life/_pentagon-prosit-na-vijnu-z-iranom-sche-200-mlrd/1246450"
+  },
+  {
+    "date": "20260319",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 16,
+    "source_url": "https://www.naftemporiki.gr/society/2087906/zacharova-stocheymeni-i-israilini-epithesi-se-roso-dimosiografo-ston-notio-livano/"
+  },
+  {
+    "date": "20260320",
+    "actor": "RUSSIA",
+    "target_country": "ISR",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 60,
+    "source_url": "https://www.ziarulprofit.ro/sorin-grindeanu-cere-guvernului-sa-ia-masuri-pentru-reducerea-impactului-cresterii-pretului-carburantilor-in-romania/"
+  }
+]

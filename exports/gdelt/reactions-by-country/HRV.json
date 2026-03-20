@@ -1,0 +1,32 @@
+[
+  {
+    "date": "20260306",
+    "actor": "CROATIA",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 18,
+    "source_url": "https://www.index.hr/vijesti/clanak/izraelski-veleposlanik-imamo-pravo-pozivati-rh-na-prekid-odnosa-s-ubilackim-rezimom/2768260.aspx?index_tid=945493&index_ref=naslovnica_vijesti_ostalo_d_0"
+  },
+  {
+    "date": "20260311",
+    "actor": "CROATIA",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 40,
+    "source_url": "https://ina-online.net/presidenti-kroat-kritikon-ambasadorin-izraelit-ketu-eshte-zagreb-jo-tel-aviv/"
+  },
+  {
+    "date": "20260311",
+    "actor": "CROATIA",
+    "target_country": "IRN",
+    "event_code": "112",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 30,
+    "source_url": "https://ina-online.net/presidenti-kroat-kritikon-ambasadorin-izraelit-ketu-eshte-zagreb-jo-tel-aviv/"
+  }
+]

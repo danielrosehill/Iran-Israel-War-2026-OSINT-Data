@@ -1,0 +1,62 @@
+[
+  {
+    "date": "20260303",
+    "actor": "JAPAN",
+    "target_country": "IRN",
+    "event_code": "100",
+    "event_root": "10",
+    "goldstein": -5.0,
+    "articles": 24,
+    "source_url": "https://www.wkyufm.org/news/2026-03-03/u-s-evacuates-diplomats-shuts-down-some-embassies-as-war-enters-fourth-day"
+  },
+  {
+    "date": "20260310",
+    "actor": "JAPAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 20,
+    "source_url": "https://news.mail.ru/society/70093123/"
+  },
+  {
+    "date": "20260317",
+    "actor": "JAPAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 30,
+    "source_url": "https://www.index.hr/vijesti/clanak/trump-zbog-pogresne-procjene-ciae-okrivio-iran-za-napad-na-skolu-za-djevojcice/2772149.aspx?index_tid=957613&index_ref=naslovnica_vijesti_ostalo_d_1"
+  },
+  {
+    "date": "20260319",
+    "actor": "JAPAN",
+    "target_country": "IRN",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 20,
+    "source_url": "https://www.index.hr/vijesti/clanak/trump-japan-za-razliku-od-natoa-preuzima-odgovornost-u-ratu-s-iranom/2773093.aspx?index_tid=960639&index_ref=naslovnica_vijesti_najnovije_d"
+  },
+  {
+    "date": "20260319",
+    "actor": "JAPANESE",
+    "target_country": "IRN",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 16,
+    "source_url": "https://www.lapresse.it/esteri/2026/03/19/iran-gaffe-di-trump-evoca-pearl-harbor-davanti-alla-premier-del-giappone-takaichi/"
+  },
+  {
+    "date": "20260319",
+    "actor": "JAPAN",
+    "target_country": "IRN",
+    "event_code": "020",
+    "event_root": "02",
+    "goldstein": 3.0,
+    "articles": 16,
+    "source_url": "https://www.theage.com.au/world/north-america/european-leaders-japan-offer-to-help-trump-unblock-strait-of-hormuz-20260320-p5qs8t.html"
+  }
+]

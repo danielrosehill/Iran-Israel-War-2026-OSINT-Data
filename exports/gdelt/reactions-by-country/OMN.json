@@ -1,0 +1,122 @@
+[
+  {
+    "date": "20260228",
+    "actor": "OMAN",
+    "target_country": "ISR",
+    "event_code": "010",
+    "event_root": "01",
+    "goldstein": 0.0,
+    "articles": 40,
+    "source_url": "http://www.bostonstar.com/news/278893648/gulf-countries-rocked-by-outbreak-of-israel-u-s-war-against-iran"
+  },
+  {
+    "date": "20260228",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 18,
+    "source_url": "https://www.click2houston.com/news/world/2026/02/28/world-leaders-fear-broader-escalation-after-major-us-and-israeli-attack-on-iran/"
+  },
+  {
+    "date": "20260228",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 16,
+    "source_url": "https://www.local10.com/news/world/2026/02/28/us-and-israel-launch-a-major-attack-on-iran-trump-urges-iranians-to-take-over/"
+  },
+  {
+    "date": "20260301",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "045",
+    "event_root": "04",
+    "goldstein": 5.0,
+    "articles": 24,
+    "source_url": "https://www.kgw.com/article/news/nation-world/world-leaders-react-us-and-israeli-strikes-on-iran/507-7a5cf770-290e-4ba8-ab49-e2c8f2a2db5d"
+  },
+  {
+    "date": "20260301",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.elcomercio.es/internacional/eeuu/trump-abre-negociar-nuevo-iran-20260301221010-ntrc.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "043",
+    "event_root": "04",
+    "goldstein": 2.8,
+    "articles": 20,
+    "source_url": "https://www.diariovasco.com/internacional/eeuu/trump-abre-negociar-nuevo-iran-20260301221010-ntrc.html"
+  },
+  {
+    "date": "20260302",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "012",
+    "event_root": "01",
+    "goldstein": -0.4,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/97/giati-to-oman-einai-chora-kleidi-gia-tis-metepeita-exelixeis-stis-synomilies-ipa--iran.htm"
+  },
+  {
+    "date": "20260302",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "120",
+    "event_root": "12",
+    "goldstein": -4.0,
+    "articles": 20,
+    "source_url": "https://www.inewsgr.com/97/giati-to-oman-einai-chora-kleidi-gia-tis-metepeita-exelixeis-stis-synomilies-ipa--iran.htm"
+  },
+  {
+    "date": "20260304",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "046",
+    "event_root": "04",
+    "goldstein": 7.0,
+    "articles": 15,
+    "source_url": "https://wcyb.com/news/nation-world/israeli-ambassador-to-us-explains-timing-of-iran-strikes-cooperation-between-militaries-dr-michael-leiter-conflict-middle-east-politics-nuclear-program"
+  },
+  {
+    "date": "20260308",
+    "actor": "OMAN",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 42,
+    "source_url": "https://www.gazetteseries.co.uk/news/national/25917558.relieved-family-reunions-dublin-airport-chartered-flight-lands/"
+  },
+  {
+    "date": "20260308",
+    "actor": "OMAN",
+    "target_country": "ISR",
+    "event_code": "111",
+    "event_root": "11",
+    "goldstein": -2.0,
+    "articles": 36,
+    "source_url": "https://www.gazetteseries.co.uk/news/national/25917558.relieved-family-reunions-dublin-airport-chartered-flight-lands/"
+  },
+  {
+    "date": "20260311",
+    "actor": "OMAN",
+    "target_country": "IRN",
+    "event_code": "041",
+    "event_root": "04",
+    "goldstein": 1.0,
+    "articles": 16,
+    "source_url": "https://www.focus-news.net/novini/mejdunarodni/Cheren-dim-nad-Oman-Iran-atakuva-pe-2920602"
+  }
+]
