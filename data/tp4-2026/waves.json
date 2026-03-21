@@ -4,10 +4,10 @@
     "operation_name": "Operation True Promise 4",
     "operation_name_farsi": "عملیات وعده صادق ۴",
     "version": "2.1",
-    "incident_count": 90,
+    "incident_count": 91,
     "date_range": {
       "start": "2026-02-28",
-      "end": "2026-03-17"
+      "end": "2026-03-21"
     },
     "canonical_format": "json",
     "source_csv_columns": 75,
@@ -33,15 +33,15 @@
       "total_drones": null,
       "total_munitions_estimate": null,
       "interception_rate_claimed": null,
-      "total_killed": 18,
-      "total_wounded": 2346,
+      "total_killed": 26,
+      "total_wounded": 2446,
       "trigger_event": "Continued Israeli military operations and US strategic posture in Persian Gulf region; escalation following True Promise 3",
       "historical_significance": "First Iranian operation to directly target US military bases and naval vessels alongside Israel; first confirmed combat use of cluster munition warheads on ballistic missiles; expanded theater to 12 countries across Middle East",
       "total_drones_estimate": "~3,560",
       "total_ballistic_missiles_estimate": "~2,410"
     },
-    "total_incidents": 83,
-    "last_updated": "2026-03-20T15:00:00Z"
+    "total_incidents": 84,
+    "last_updated": "2026-03-22T12:00:00Z"
   },
   "incidents": [
     {
@@ -16094,7 +16094,7 @@
       "wave_number": 90,
       "wave_codename_farsi": null,
       "wave_codename_english": null,
-      "description": "Ninetieth salvo. Day 22 (March 21). Iranian ballistic missile direct hit on Dimona, southern Israel. Video confirmed missile impact. Building collapse reported. Rescue forces responded. Additional sirens sounded in Dimona as Iran launched follow-up missiles at the area.",
+      "description": "Ninetieth salvo. Day 22 (March 21). Iranian ballistic missile direct hit on Dimona, southern Israel — interception failed. 12 impact sites across residential area. ~450 kg warhead. Building collapse. 30-51 injured including 12-year-old boy in serious condition. IRGC framed as retaliation for Natanz. IAEA confirmed no damage to Negev Nuclear Research Center. IRGC confirmed Emad and Qadr missiles used. IDF investigating interception failure.",
       "timing": {
         "announced_utc": "2026-03-21T15:07:00Z",
         "announced_utc_note": "Approximately 17:07 IST (15:07 UTC) March 21. Video shows ballistic missile striking Dimona. Building collapse. Rescue forces dispatched. ToI liveblog.",
@@ -16111,28 +16111,28 @@
         "elapsed_minutes_since_last": null
       },
       "weapons": {
-        "payload": "Ballistic missile. Direct impact confirmed by video footage.",
+        "payload": "Ballistic missile(s). ~450 kg warhead. Direct impact confirmed by video footage. IRGC confirmed Emad and Qadr type missiles used. 12 impact sites.",
         "drones_used": false,
         "ballistic_missiles_used": true,
         "cruise_missiles_used": false,
         "types": {
-          "emad_used": null,
-          "ghadr_used": null,
-          "sejjil_used": null,
-          "kheibar_shekan_used": null,
-          "fattah_used": null,
+          "emad_used": true,
+          "ghadr_used": true,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
           "shahed_136_used": false,
           "shahed_238_used": false,
           "shahed_131_used": false,
           "shahed_107_used": false,
           "shahed_129_used": false,
           "mohajer_6_used": false,
-          "khorramshahr_4_used": null
+          "khorramshahr_4_used": false
         },
         "categories": {
-          "bm_liquid_fueled": null,
-          "bm_solid_fueled": null,
-          "bm_marv_equipped": null,
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
           "bm_hypersonic": false,
           "bm_cluster_warhead": false
         },
@@ -16146,7 +16146,7 @@
       "targets": {
         "israel_targeted": true,
         "us_bases_targeted": false,
-        "targets": "Dimona, southern Israel. Direct missile impact. Building collapse. Near Dimona nuclear facility.",
+        "targets": "Dimona, southern Israel. 12 impact sites across residential area near Dimona nuclear facility. Building collapse. ~450 kg warhead. IAEA confirmed no damage to Negev Nuclear Research Center.",
         "landings_countries": [
           "IL"
         ],
@@ -16200,9 +16200,13 @@
       },
       "interception": {
         "intercepted": false,
-        "interception_systems": [],
-        "interception_rate_percent": null,
-        "intercepted_by": null
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": 0,
+        "intercepted_by": null,
+        "interception_note": "IDF confirmed interception was attempted but failed. Investigation opened into interception failure."
       },
       "munitions": {
         "total_estimated": null,
@@ -16211,9 +16215,9 @@
         "drones": 0
       },
       "impact": {
-        "fatalities": null,
-        "injuries": null,
-        "damage": "Direct ballistic missile impact on Dimona confirmed by video. Building collapse reported. Rescue forces responded. Casualty count pending."
+        "fatalities": 0,
+        "injuries": 34,
+        "damage": "Direct ballistic missile impact on Dimona residential neighborhood. 12 impact sites. Building collapse confirmed by video. ~450 kg warhead. 34 hospitalized including 12-year-old boy in serious condition and one woman in moderate condition. IAEA confirmed no damage to Negev Nuclear Research Center."
       },
       "escalation": {
         "new_weapon_type": false,
@@ -16229,10 +16233,175 @@
         "Times of Israel",
         "IDF",
         "Video footage",
-        "OSINT"
+        "IAEA",
+        "Haaretz",
+        "Jerusalem Post",
+        "Ynet",
+        "France 24",
+        "PBS"
       ],
       "reactions": null,
-      "iranian_media_claims": null,
+      "iranian_media_claims": "IRGC stated strike was retaliation for Israeli/US strike on Natanz nuclear facility. Confirmed use of Emad and Qadr type missiles.",
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 91,
+      "wave_number": 91,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-first salvo. Day 22 (March 21). Iranian ballistic missile direct hit on Arad, southern Israel — interception failed. Missile struck between three residential buildings in Gur Hasidim neighborhood. 4 buildings completely collapsed, 9 buildings sustained significant damage. Mass casualty event declared by Magen David Adom. At least 8 killed, 64-100+ injured including 5-year-old girl in serious condition. Dozens trapped in rubble. IDF investigating interception failure. Khorramshahr-4 (Kheibar) hypersonic missile with ~500 kg warhead suspected.",
+      "timing": {
+        "announced_utc": "2026-03-21T15:30:00Z",
+        "announced_utc_note": "Approximately 17:30 IST (15:30 UTC) March 21. Shortly after Dimona strike. Mass casualty event declared. ToI liveblog, JPost, multiple sources.",
+        "announcement_source": "IDF / Magen David Adom / Times of Israel / Jerusalem Post",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-21T15:15:00Z",
+        "launch_time_israel": "~17:30 IST",
+        "launch_time_iran": "~18:00 IRST",
+        "solar_phase_launch_site": 5,
+        "solar_phase_target": 5,
+        "conflict_day": 22,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missile. Described as hypersonic with ~500 kg warhead. Khorramshahr-4 (Kheibar) suspected — super-heavy missile exceeding Mach 14 with 1.5-2 ton warhead capability.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": true
+        },
+        "categories": {
+          "bm_liquid_fueled": true,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": true,
+          "bm_hypersonic": true,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Arad, southern Israel. Missile struck between three residential buildings in Gur Hasidim neighborhood. 4 buildings completely collapsed. 9 buildings sustained significant damage. Dozens trapped in rubble.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 31.2589,
+          "lon": 35.2131,
+          "geolocation_approximate": false,
+          "geolocation_source": "Arad city"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Residential buildings, Gur Hasidim neighborhood, Arad",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": false,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": 0,
+        "intercepted_by": null,
+        "interception_note": "IDF confirmed interception was attempted but failed. Separate investigation opened into interception failure at Arad."
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 8,
+        "injuries": 64,
+        "damage": "Mass casualty event declared by Magen David Adom. Missile struck between three residential buildings in Gur Hasidim neighborhood. 4 buildings completely collapsed. 9 buildings sustained significant structural damage. At least 8 killed. 7-8 in serious/critical condition including 5-year-old girl. 14-15 in moderate condition. ~42 lightly injured. Dozens trapped in rubble. Netanyahu spoke with mayors of both Dimona and Arad."
+      },
+      "escalation": {
+        "new_weapon_type": true,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel",
+        "IDF",
+        "Magen David Adom",
+        "Jerusalem Post",
+        "Haaretz",
+        "Al Jazeera",
+        "France 24",
+        "PBS",
+        "CBS News",
+        "The Media Line",
+        "Israel Hayom",
+        "JFeed",
+        "Defence Security Asia"
+      ],
+      "reactions": null,
+      "iranian_media_claims": "IRGC framed Dimona/Arad strikes as part of Wave 72 of Operation True Promise 4, targeting sites in Israel and US Fifth Fleet. Described as retaliation for Natanz.",
       "uuid": null,
       "operation": "tp4"
     }
