@@ -4,10 +4,10 @@
     "operation_name": "Operation True Promise 4",
     "operation_name_farsi": "عملیات وعده صادق ۴",
     "version": "2.1",
-    "incident_count": 91,
+    "incident_count": 100,
     "date_range": {
       "start": "2026-02-28",
-      "end": "2026-03-21"
+      "end": "2026-03-23"
     },
     "canonical_format": "json",
     "source_csv_columns": 75,
@@ -16402,6 +16402,1394 @@
       ],
       "reactions": null,
       "iranian_media_claims": "IRGC framed Dimona/Arad strikes as part of Wave 72 of Operation True Promise 4, targeting sites in Israel and US Fifth Fleet. Described as retaliation for Natanz.",
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 92,
+      "wave_number": 92,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-second salvo. Day 23 (March 22). Iranian ballistic missile cluster warhead strikes on greater Tel Aviv area. 4 waves targeting Tel Aviv area comprising 50% of day's attacks. Cluster warheads confirmed — dispersing in air into multiple submunitions. Targets struck: Tel Aviv, Ramat Gan, Petah Tikva, Holon, kindergarten in Rishon LeZion. Injuries reported, contributing to cumulative casualty toll of 4,713+.",
+      "timing": {
+        "announced_utc": "2026-03-22T10:00:00Z",
+        "announced_utc_note": "March 22 daytime. 4 waves targeting Tel Aviv area. Alma Research Center March 23 report, Times of Israel March 22 liveblog.",
+        "announcement_source": "Alma Research Center / Times of Israel",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-22T09:45:00Z",
+        "launch_time_israel": "~12:00 IST",
+        "launch_time_iran": "~13:30 IRST",
+        "solar_phase_launch_site": 3,
+        "solar_phase_target": 3,
+        "conflict_day": 23,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles with cluster warheads — submunitions dispersing in air. Multiple waves targeting greater Tel Aviv area.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": true
+        },
+        "cluster_warhead": {
+          "confirmed": true,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": "Cluster warheads confirmed dispersing in air into multiple submunitions over Tel Aviv area."
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Greater Tel Aviv area — Tel Aviv, Ramat Gan, Petah Tikva, Holon, Rishon LeZion. Kindergarten struck in Rishon LeZion. 4 waves comprising 50% of day's attacks.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.0853,
+          "lon": 34.7818,
+          "geolocation_approximate": true,
+          "geolocation_source": "Tel Aviv area"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Tel Aviv",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          },
+          {
+            "name": "Ramat Gan",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          },
+          {
+            "name": "Petah Tikva",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          },
+          {
+            "name": "Holon",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          },
+          {
+            "name": "Kindergarten, Rishon LeZion",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": null,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "David's Sling"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": null
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "Cluster warhead strikes across greater Tel Aviv area. Targets struck include Tel Aviv, Ramat Gan, Petah Tikva, Holon, and a kindergarten in Rishon LeZion. Injuries reported as part of day's cumulative casualty toll reaching 4,713+."
+      },
+      "escalation": {
+        "new_weapon_type": true,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Alma Research Center",
+        "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 93,
+      "wave_number": 93,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-third salvo. Day 23 (March 22). Iranian ballistic missile attacks on southern Israel. 3 waves targeting Beersheba, Dimona area, and southern cities. Comprising 37.5% of day's attacks.",
+      "timing": {
+        "announced_utc": "2026-03-22T12:00:00Z",
+        "announced_utc_note": "March 22 daytime. 3 waves targeting southern Israel. Alma Research Center, Times of Israel liveblog March 22.",
+        "announcement_source": "Alma Research Center / Times of Israel",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-22T11:45:00Z",
+        "launch_time_israel": "~14:00 IST",
+        "launch_time_iran": "~15:30 IRST",
+        "solar_phase_launch_site": 3,
+        "solar_phase_target": 3,
+        "conflict_day": 23,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting southern Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Beersheba, Dimona area, and southern Israeli cities. 3 waves comprising 37.5% of day's attacks.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 31.2518,
+          "lon": 34.7913,
+          "geolocation_approximate": true,
+          "geolocation_source": "Beersheba area"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": false,
+        "target_locations": [
+          {
+            "name": "Beersheba",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          },
+          {
+            "name": "Dimona area",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": null,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": null
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": null
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Alma Research Center",
+        "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 94,
+      "wave_number": 94,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-fourth salvo. Day 23 (March 22). Iranian ballistic missile attack on Jerusalem area. 1 wave targeting Jerusalem, comprising 12.5% of day's attacks.",
+      "timing": {
+        "announced_utc": "2026-03-22T14:00:00Z",
+        "announced_utc_note": "March 22. 1 wave targeting Jerusalem. Alma Research Center March 23 report.",
+        "announcement_source": "Alma Research Center",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-22T13:45:00Z",
+        "launch_time_israel": "~16:00 IST",
+        "launch_time_iran": "~17:30 IRST",
+        "solar_phase_launch_site": 4,
+        "solar_phase_target": 4,
+        "conflict_day": 23,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting Jerusalem area.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Jerusalem area. 1 wave comprising 12.5% of day's attacks.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": true,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 31.7683,
+          "lon": 35.2137,
+          "geolocation_approximate": true,
+          "geolocation_source": "Jerusalem"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": false,
+        "target_locations": [
+          {
+            "name": "Jerusalem",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": null,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "David's Sling"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": null
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": null
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Alma Research Center"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 95,
+      "wave_number": 95,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-fifth salvo. Day 23 (March 22). Hezbollah record attack day — 85 attack waves, the highest recorded single day since the war began. 67 rocket/missile waves and 18 UAV attack waves. 35 waves targeted IDF forces in southern Lebanon. Kibbutz Misgav Am: 1 killed by direct vehicle strike.",
+      "timing": {
+        "announced_utc": "2026-03-22T06:00:00Z",
+        "announced_utc_note": "March 22 full day. 85 Hezbollah attack waves throughout the day — highest single-day total since war began. Alma Research Center March 23 report.",
+        "announcement_source": "Alma Research Center",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-22T06:00:00Z",
+        "launch_time_israel": "~08:00 IST",
+        "launch_time_iran": "~09:30 IRST",
+        "solar_phase_launch_site": 2,
+        "solar_phase_target": 2,
+        "conflict_day": 23,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "67 rocket/missile waves and 18 UAV attack waves. 85 total Hezbollah attack waves.",
+        "drones_used": true,
+        "ballistic_missiles_used": false,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Northern Israel and IDF forces in southern Lebanon. 35 waves targeted IDF forces in southern Lebanon. Kibbutz Misgav Am: 1 killed by direct vehicle strike.",
+        "landings_countries": [
+          "IL",
+          "LB"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": true,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 33.2957,
+          "lon": 35.5544,
+          "geolocation_approximate": true,
+          "geolocation_source": "Misgav Am"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Kibbutz Misgav Am",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          },
+          {
+            "name": "IDF forces, southern Lebanon",
+            "type": "military",
+            "hit": true,
+            "country": "LB"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Hezbollah",
+        "unit": "Hezbollah",
+        "branch": "Militia"
+      },
+      "launch_site": {
+        "description": "Southern Lebanon",
+        "lat": 33.35,
+        "lon": 35.55,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Lebanon"
+      },
+      "interception": {
+        "intercepted": null,
+        "interception_systems": [
+          "Iron Dome",
+          "David's Sling"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": null
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 1,
+        "injuries": 0,
+        "damage": "85 Hezbollah attack waves — highest recorded single day since war began. 67 rocket/missile waves and 18 UAV attack waves. 35 waves targeted IDF forces in southern Lebanon. Kibbutz Misgav Am: 1 killed by direct vehicle strike on a vehicle."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": true,
+        "proxy_group": "Hezbollah"
+      },
+      "sources": [
+        "Alma Research Center"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 96,
+      "wave_number": 96,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-sixth salvo. Day 23 (March 22). Late evening Iranian ballistic missile salvos targeting northern Israel. Multiple BM attacks at approximately 11pm IST (21:00 UTC) after 5-hour lull. One missile hit open area near northern border. First time Iranian ballistic missile reportedly hit Lebanese territory. Likely intercepted, no casualties.",
+      "timing": {
+        "announced_utc": "2026-03-22T21:00:00Z",
+        "announced_utc_note": "Approximately 11pm IST (21:00 UTC) March 22. Late evening attacks on northern Israel after 5-hour lull. Times of Israel liveblog March 22.",
+        "announcement_source": "Times of Israel",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-22T20:45:00Z",
+        "launch_time_israel": "~23:00 IST",
+        "launch_time_iran": "~00:30 IRST",
+        "solar_phase_launch_site": 6,
+        "solar_phase_target": 6,
+        "conflict_day": 23,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting northern Israel. First reported Iranian BM impact on Lebanese territory.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Northern Israel. One missile hit open area near northern border. First time Iranian ballistic missile reportedly hit Lebanese territory.",
+        "landings_countries": [
+          "IL",
+          "LB"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": true,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 33.2074,
+          "lon": 35.5724,
+          "geolocation_approximate": true,
+          "geolocation_source": "Northern Israel / Kiryat Shmona area"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": false,
+        "target_locations": [
+          {
+            "name": "Northern Israel, near border",
+            "type": "open area",
+            "hit": true,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": "Likely intercepted. One missile hit open area near northern border. First time Iranian BM reportedly hit Lebanese territory."
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "No casualties. One missile hit open area near northern border. First reported Iranian ballistic missile impact on Lebanese territory after 5-hour lull in attacks."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": true,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 97,
+      "wave_number": 97,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-seventh salvo. Day 24 (March 23). Iranian ballistic missile barrage causes damage in several central Israel locations. Morning/afternoon attacks. Haaretz reported damage across central Israel.",
+      "timing": {
+        "announced_utc": "2026-03-23T10:00:00Z",
+        "announced_utc_note": "March 23 morning/afternoon. Iranian missile barrage causes damage in several central Israel locations. Haaretz liveblog March 23.",
+        "announcement_source": "Haaretz",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-23T09:45:00Z",
+        "launch_time_israel": "~12:00 IST",
+        "launch_time_iran": "~13:30 IRST",
+        "solar_phase_launch_site": 3,
+        "solar_phase_target": 3,
+        "conflict_day": 24,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting central Israel.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Central Israel. Haaretz: 'Iranian missile barrage causes damage in several central Israel locations.'",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": true,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.0853,
+          "lon": 34.7818,
+          "geolocation_approximate": true,
+          "geolocation_source": "Central Israel / Tel Aviv area"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Central Israel locations",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": null,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "David's Sling"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": null
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "Iranian missile barrage caused damage in several central Israel locations per Haaretz reporting."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Haaretz"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 98,
+      "wave_number": 98,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-eighth salvo. Day 24 (March 23). Iranian ballistic missile attack on Dimona and Yeruham areas, southern Israel. 4th attack of the day. Intercepted, no casualties. Large explosion heard over Jerusalem during interception.",
+      "timing": {
+        "announced_utc": "2026-03-23T16:00:00Z",
+        "announced_utc_note": "March 23 afternoon/evening. 4th attack of the day targeting Dimona and Yeruham. Large explosion heard over Jerusalem during interception. Times of Israel liveblog March 23.",
+        "announcement_source": "Times of Israel",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-23T15:45:00Z",
+        "launch_time_israel": "~18:00 IST",
+        "launch_time_iran": "~19:30 IRST",
+        "solar_phase_launch_site": 5,
+        "solar_phase_target": 5,
+        "conflict_day": 24,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting Dimona and Yeruham areas.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Dimona and Yeruham areas, southern Israel. Large explosion heard over Jerusalem during interception.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": true,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 31.0632,
+          "lon": 35.0321,
+          "geolocation_approximate": true,
+          "geolocation_source": "Dimona"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": false,
+        "target_locations": [
+          {
+            "name": "Dimona",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          },
+          {
+            "name": "Yeruham",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": "Intercepted. No casualties. Large explosion heard over Jerusalem during interception."
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "Intercepted, no casualties. Large explosion heard over Jerusalem during interception."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 99,
+      "wave_number": 99,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "Ninety-ninth salvo. Day 24 (March 23). Iranian ballistic missile attack on Eilat, southern Israel. 5th attack of the day at approximately 9:57 PM IST (19:57 UTC). Likely intercepted, no casualties or damage.",
+      "timing": {
+        "announced_utc": "2026-03-23T19:57:00Z",
+        "announced_utc_note": "Approximately 9:57 PM IST (19:57 UTC) March 23. 5th attack of the day. Times of Israel liveblog March 23.",
+        "announcement_source": "Times of Israel",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-23T19:42:00Z",
+        "launch_time_israel": "~21:57 IST",
+        "launch_time_iran": "~23:27 IRST",
+        "solar_phase_launch_site": 6,
+        "solar_phase_target": 6,
+        "conflict_day": 24,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting Eilat.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Eilat, southern Israel. 5th attack of the day.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": true
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 29.5577,
+          "lon": 34.9519,
+          "geolocation_approximate": true,
+          "geolocation_source": "Eilat"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": false,
+        "target_locations": [
+          {
+            "name": "Eilat",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3",
+          "THAAD"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": "Likely intercepted. No casualties or damage reported."
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "Likely intercepted, no casualties or damage reported."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 100,
+      "wave_number": 100,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "One hundredth salvo. Day 24 (March 23). Iranian ballistic missile attack on northern Israel. 6th attack of the day at approximately 10:17 PM IST (20:17 UTC). Missile fragment fell in Safed. Kiryat Shmona: shrapnel injury reported (from either this salvo or Hezbollah fire).",
+      "timing": {
+        "announced_utc": "2026-03-23T20:17:00Z",
+        "announced_utc_note": "Approximately 10:17 PM IST (20:17 UTC) March 23. 6th attack of the day. Missile fragment fell in Safed. Times of Israel liveblog March 23.",
+        "announcement_source": "Times of Israel",
+        "announcement_x_url": null,
+        "probable_launch_time": "2026-03-23T20:02:00Z",
+        "launch_time_israel": "~22:17 IST",
+        "launch_time_iran": "~23:47 IRST",
+        "solar_phase_launch_site": 6,
+        "solar_phase_target": 6,
+        "conflict_day": 24,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting northern Israel. Missile fragment fell in Safed.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": false
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": null
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Northern Israel. Missile fragment fell in Safed. Kiryat Shmona: shrapnel injury reported (attribution uncertain — possibly from this salvo or Hezbollah fire).",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": false,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": true,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 32.9646,
+          "lon": 35.4983,
+          "geolocation_approximate": true,
+          "geolocation_source": "Safed"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": true,
+        "target_locations": [
+          {
+            "name": "Safed (missile fragment)",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          },
+          {
+            "name": "Kiryat Shmona (shrapnel injury)",
+            "type": "civilian",
+            "hit": true,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": null,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": "Partially intercepted. Missile fragment fell in Safed. Shrapnel injury in Kiryat Shmona."
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 1,
+        "damage": "Missile fragment fell in Safed. 1 shrapnel injury in Kiryat Shmona (attribution uncertain — possibly from this salvo or Hezbollah fire)."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
       "uuid": null,
       "operation": "tp4"
     }
