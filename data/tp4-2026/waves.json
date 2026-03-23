@@ -4,10 +4,10 @@
     "operation_name": "Operation True Promise 4",
     "operation_name_farsi": "عملیات وعده صادق ۴",
     "version": "2.1",
-    "incident_count": 100,
+    "incident_count": 101,
     "date_range": {
       "start": "2026-02-28",
-      "end": "2026-03-23"
+      "end": "2026-03-24"
     },
     "canonical_format": "json",
     "source_csv_columns": 75,
@@ -41,7 +41,7 @@
       "total_ballistic_missiles_estimate": "~2,410"
     },
     "total_incidents": 84,
-    "last_updated": "2026-03-22T12:00:00Z"
+    "last_updated": "2026-03-24T19:30:00Z"
   },
   "incidents": [
     {
@@ -17787,6 +17787,166 @@
       },
       "sources": [
         "Times of Israel"
+      ],
+      "reactions": null,
+      "iranian_media_claims": null,
+      "uuid": null,
+      "operation": "tp4"
+    },
+    {
+      "sequence": 101,
+      "wave_number": 101,
+      "wave_codename_farsi": null,
+      "wave_codename_english": null,
+      "description": "One hundred and first salvo. Day 25 (March 24). Iranian ballistic missile attack on central and southern Israel. Air raid sirens activated from Ashkelon to Beit Shemesh. Powerful blast heard over Jerusalem — likely interception by Arrow-2/Arrow-3. First salvo of the day.",
+      "timing": {
+        "announced_utc": "2026-03-24T19:00:00Z",
+        "announced_utc_note": "Approximate time based on @MOSSADiL X post. Sirens across central and southern Israel from Ashkelon to Beit Shemesh. Blast heard over Jerusalem.",
+        "announcement_source": "@MOSSADiL (X/Twitter)",
+        "announcement_x_url": null,
+        "probable_launch_time": null,
+        "launch_time_israel": "~21:00 IST (approx)",
+        "launch_time_iran": "~00:30 IRST (approx)",
+        "solar_phase_launch_site": 6,
+        "solar_phase_target": 6,
+        "conflict_day": 25,
+        "hours_since_last_incident": null,
+        "incident_duration_minutes": null,
+        "elapsed_minutes_since_last": null
+      },
+      "weapons": {
+        "payload": "Ballistic missiles targeting central and southern Israel. Interception blast heard over Jerusalem.",
+        "drones_used": false,
+        "ballistic_missiles_used": true,
+        "cruise_missiles_used": false,
+        "types": {
+          "emad_used": false,
+          "ghadr_used": false,
+          "sejjil_used": false,
+          "kheibar_shekan_used": false,
+          "fattah_used": false,
+          "shahed_136_used": false,
+          "shahed_238_used": false,
+          "shahed_131_used": false,
+          "shahed_107_used": false,
+          "shahed_129_used": false,
+          "mohajer_6_used": false,
+          "khorramshahr_4_used": false
+        },
+        "categories": {
+          "bm_liquid_fueled": false,
+          "bm_solid_fueled": false,
+          "bm_marv_equipped": false,
+          "bm_hypersonic": false,
+          "bm_cluster_warhead": null
+        },
+        "cluster_warhead": {
+          "confirmed": false,
+          "carrier_missile": null,
+          "submunition_type": null,
+          "note": "Cluster warhead likely based on recent pattern but not yet confirmed for this salvo."
+        }
+      },
+      "targets": {
+        "israel_targeted": true,
+        "us_bases_targeted": false,
+        "targets": "Central and southern Israel. Sirens from Ashkelon to Beit Shemesh. Interception blast heard over Jerusalem.",
+        "landings_countries": [
+          "IL"
+        ],
+        "israeli_locations": {
+          "targeted_tel_aviv": false,
+          "targeted_jerusalem": true,
+          "targeted_haifa": false,
+          "targeted_negev_beersheba": false,
+          "targeted_northern_periphery": false,
+          "targeted_eilat": false
+        },
+        "us_bases": [],
+        "us_naval_vessels": [],
+        "target_coordinates": {
+          "lat": 31.7683,
+          "lon": 35.2137,
+          "geolocation_approximate": true,
+          "geolocation_source": "Jerusalem (interception blast)"
+        },
+        "critical_infrastructure": {
+          "targeted_airport": false,
+          "targeted_energy": false,
+          "targeted_port": false,
+          "targeted_government": false,
+          "targeted_military_base": false,
+          "targeted_civilian_area": true,
+          "targeted_transport": false
+        },
+        "target_hit": null,
+        "target_locations": [
+          {
+            "name": "Jerusalem (interception blast)",
+            "type": "civilian",
+            "hit": false,
+            "country": "IL"
+          },
+          {
+            "name": "Ashkelon (sirens)",
+            "type": "civilian",
+            "hit": null,
+            "country": "IL"
+          },
+          {
+            "name": "Beit Shemesh (sirens)",
+            "type": "civilian",
+            "hit": null,
+            "country": "IL"
+          }
+        ]
+      },
+      "attacking_force": {
+        "actor": "Iran",
+        "unit": "IRGC Aerospace Force",
+        "branch": "Aerospace"
+      },
+      "launch_site": {
+        "description": "Western Iran launch sites",
+        "lat": 34.31,
+        "lon": 47.07,
+        "geolocation_approximate": true,
+        "geolocation_source": "estimated",
+        "country": "Iran"
+      },
+      "interception": {
+        "intercepted": true,
+        "interception_systems": [
+          "Arrow-2",
+          "Arrow-3"
+        ],
+        "interception_rate_percent": null,
+        "intercepted_by": null,
+        "interception_note": "Powerful blast heard over Jerusalem, consistent with Arrow-2/Arrow-3 high-altitude interception. Outcome pending confirmation."
+      },
+      "munitions": {
+        "total_estimated": null,
+        "ballistic_missiles": null,
+        "cruise_missiles": 0,
+        "drones": 0
+      },
+      "impact": {
+        "fatalities": 0,
+        "injuries": 0,
+        "damage": "No casualties or damage reported yet. Interception blast heard over Jerusalem."
+      },
+      "escalation": {
+        "new_weapon_type": false,
+        "new_country_targeted": false,
+        "new_target_type": false,
+        "coalition_response": null
+      },
+      "proxy": {
+        "is_proxy_attack": false,
+        "proxy_group": null
+      },
+      "sources": [
+        "@MOSSADiL (X/Twitter)"
       ],
       "reactions": null,
       "iranian_media_claims": null,
